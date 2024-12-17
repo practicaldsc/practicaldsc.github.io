@@ -28,12 +28,29 @@ Interested in taking the course next semester? Read [**this page**](next).
 <!-- [Jump to the current week](#week-16-final-exam){: .btn } -->
 
 {: .green }
-Welcome to Practical Data Science in Winter 2025! This site is currently under construction. Until this disclaimer is removed, all information here is subject to change.<br><br>If you're interested in taking the course in Winter 2025, you may want to look at last semester's course website, linked [**here**](https://practicaldsc.org/fa24); it contains links to all lectures, assignments, etc. from Fall 2024, though note that many aspects of the syllabus will change.<br><br>Read below for more details about the course, including student testimonials and comments on workload.
+Welcome to Practical Data Science in Winter 2025! This site is currently under construction. Until this disclaimer is removed, all information here is subject to change.<br><br>If you're interested in taking the course in Winter 2025, you may want to look at last semester's course website, linked [**here**](https://practicaldsc.org/fa24); it contains links to all lectures, assignments, etc. from Fall 2024, though note that many aspects of the syllabus will change. Read below for more details about the course.
 
 ---
 
 1. TOC
 {:toc}
+
+---
+
+### Fall 2024 Evaluations
+
+Since this is a relatively new course, we've provided the complete set of course evaluations from Fall 2024 [**here**](../assets/marketing/fa24-evals.pdf) to help inform your decision on whether to enroll. The document contains dozens of written comments from students who took the course. 
+
+Some useful summary statistics:
+
+- This course advanced my understanding of the subject matter: **4.8 / 5**.
+- Overall, this was an excellent course: **4.8 / 5**.
+- Overall, Suraj Rampure was an excellent teacher: **4.9 / 5**.
+- As compared with other courses of equal credit, the workload for this course was: **2.6 / 5** (lower values mean more work).
+
+Regarding workload, we also ran our own internal survey:
+
+<center><img src="../assets/marketing/workload.png" width=600></center>
 
 ---
 
@@ -59,6 +76,8 @@ The exams are scheduled for the following times:
 
 Other materials from the Fall 2024 offering can be found at the [Fall 2024 website](https://practicaldsc.org/fa24).
 
+---
+
 ### Prerequisites
 
 The course is open to students from all majors.
@@ -66,6 +85,9 @@ The course is open to students from all majors.
 The enforced prerequisites are discrete math (EECS 203), programming (EECS 280), calculus I, calculus II, and linear algebra. A probability and statistics course is an advisory prerequisite. Options include DATASCI 101, STATS 206, STATS 250, STATS 280, STATS 412, IOE 265, or ECON 451.
 
 If you're interested in the class but don't meet one of the prerequisites, **email me and we can chat about your background and a potential override**. I encourage students of all backgrounds who are curious about data science to reach out!
+
+{: .green }
+**In particular, students without prior linear algebra experience will be directed to a linear algebra review website that we've created specifically for this course.**
 
 ---
 
@@ -83,7 +105,7 @@ In-person discussion attendance **will be required or incentivized**: make sure 
 
 Office hours will largely be in-person, but there will be some remote options as well.
 
----
+<!-- ---
 
 ### Testimonials and Workload
 
@@ -108,5 +130,4 @@ The following quotes are by students who are currently in the course. They were 
 > I think the ideal time to take the course is right after 203 and 280, probably alongside 281. Not only are you locking yourself into some internship experience (especially in today's ML heavy workforce) but also get to branch into some other areas.
 
 While official evaluations for Fall 2024 aren't yet available, we administered an anonymous survey at the end of Fall 2024 that asked students about the course's workload. The results are shown below.
-
-<center><img src="../assets/marketing/workload.png" width=700></center>
+ -->
