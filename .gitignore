@@ -2,6 +2,8 @@
 **/.DS_Store
 **/.OTTER_LOG
 
+_site/
+
 # Byte-compiled / optimized / DLL files
 **/__pycache__/
 *.py[cod]
