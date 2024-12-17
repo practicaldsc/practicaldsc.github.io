@@ -3,6 +3,7 @@ layout: default
 title: "📚 Resources"
 nav_order: 5
 description: Supplementary resources around the internet – some made for this class, some not.
+nav_exclude: true
 ---
 
 # {{ page.title }}

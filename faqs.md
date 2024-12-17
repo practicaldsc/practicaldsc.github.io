@@ -4,6 +4,7 @@ title: 🙋 FAQs
 description: Answers to frequently asked conceptual questions.
 nav_order: 7
 toc_max_heading_level: 2
+nav_exclude: true
 ---
 
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"> </script>

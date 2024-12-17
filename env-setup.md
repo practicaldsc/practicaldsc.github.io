@@ -3,6 +3,7 @@ layout: default
 title: "⚙️ Environment Setup"
 nav_order: 4
 description: Instructions on how to set up your computing environment in this course.
+nav_exclude: true
 ---
 
 # {{ page.title }}
