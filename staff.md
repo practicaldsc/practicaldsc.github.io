@@ -16,3 +16,17 @@ Welcome to Practical Data Science in Winter 2025! This site is currently under c
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+
+## Instructional Assistants
+
+{% assign tas = site.staffers | where: 'role', 'TA' %}
+{% for staffer in tas %}
+{{ staffer }}
+{% endfor %}
+
+## Graders
+
+{% assign tas = site.staffers | where: 'role', 'Grader' %}
+{% for staffer in tas %}
+{{ staffer }}
+{% endfor %}
