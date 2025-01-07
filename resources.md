@@ -53,7 +53,7 @@ There are lots of readings linked on the course website. Here, we're collecting 
 - [pandastutor.com](https://pandastutor.com), the equivalent of [pythontutor.com](https://pythontutor.com) for DataFrame manipulation.
 - [Views and Copies in `pandas`](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html) – a great read if you'd like to learn more about the infamous `SettingWithCopyWarning`.
 
-### Introductory statistics
+### Introductory Statistics
 
 - [Introduction to Data Science](https://dept.stat.lsa.umich.edu/~kshedden/introds/), the textbook for DS 101 at Michigan.
 - [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html), the textbook for the introductory data science course at UC Berkeley.
