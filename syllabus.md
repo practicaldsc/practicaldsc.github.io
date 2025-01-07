@@ -103,7 +103,7 @@ You'll need to make accounts on the following sites:
 
 - **GitHub:** You will access all course content (lecture slides and assignments) by _pulling_ our course GitHub repository. That repo
   is here:
-  [github.com/practicaldsc/fa24](https://github.com/practicaldsc/wn25). Don't worry if you've never used Git before – the [⚙️ Environment Setup](../env-setup) page will walk you through all of the necessary steps.
+  [github.com/practicaldsc/wn25](https://github.com/practicaldsc/wn25). Don't worry if you've never used Git before – the [⚙️ Environment Setup](../env-setup) page will walk you through all of the necessary steps.
 
 {: .red }
 Note that we will **not** be using Canvas for anything this semester (so please don't try and send us messages on Canvas!).
