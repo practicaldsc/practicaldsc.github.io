@@ -3,7 +3,8 @@
 #
 # conda env export --from-history
 #
-# with otter-grader manually added. Versions were manually updated in Fall 2024 for Practical Data Science.
+# with otter-grader manually added. Versions were manually updated in Fall 2024 for Practical Data Science;
+# the last 5 packages were added in Winter 2025.
 name: pds
 channels:
   - defaults
@@ -37,5 +38,10 @@ dependencies:
   - pytest-xdist==3.3.1
   - SQLAlchemy==2.0.21
   - pyOpenSSL==24.2.1
+  - networkx==3.3
+  - duckdb==1.1.1
+  - groq==0.11.0
+  - lxml==5.3.0
   - pip:
     - otter-grader==3.1.4
+    - kaleido==0.2.1

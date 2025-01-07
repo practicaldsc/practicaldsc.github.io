@@ -32,18 +32,18 @@ sass:
   custom_css: _sass/custom/custom.scss
 
 aux_links:
-  # GitHub:
-  #   - 'https://github.com/practicaldsc/wi25'
-  # 🧠 Study:
-  #   - 'https://study.practicaldsc.org/'
-  # Ed:
-  #   - 'https://edstem.org/us/courses/69737/discussion/'
-  # Gradescope:
-  #   - 'TODO'
-  # 🤔 Lecture Questions:
-  #   - '#' # TODO
-  # 📬 Feedback:
-  #   - '#' # TODO
+  GitHub:
+    - 'https://github.com/practicaldsc/wn25'
+  🧠 Study:
+    - 'https://study.practicaldsc.org/'
+  Ed:
+    - 'https://edstem.org/us/courses/69737/discussion/'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/930446/'
+  🤔 Lecture Questions:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSd4oliiZYeNh76jWy-arfEtoAkCrVSsobZxPwxifWggo3EO0Q/viewform'
+  📬 Feedback:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLScjlYueonz7_ye6NtyIwdboOuQniPPxcCjsoRfjB4rPKDxKRg/viewform'
 
 footer_content:
 

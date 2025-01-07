@@ -3,36 +3,31 @@ layout: default
 title: "📚 Resources"
 nav_order: 5
 description: Supplementary resources around the internet – some made for this class, some not.
-nav_exclude: true
 ---
 
 # {{ page.title }}
 {:.no_toc}
 
-{: .green }
-Welcome to Practical Data Science in Winter 2025! This site is currently under construction. Until this disclaimer is removed, all information here is subject to change. See you on January 8th!
-
-<!-- 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
---- -->
-<!-- 
+---
+
 ## Past Exams
 
-While this class specifically hasn't been offered yet, it is inspired by a few different courses that have been offered many times, many of which have banks of old exams available online. **The most relevant problems will be posted at our brand-new [🧠 Study Site](https://study.practicaldsc.org/), which you'll use in discussion section.**
+Past exams can be found at [🧠 Study Site](https://study.practicaldsc.org/), the same site discussion worksheets will be posted at.
 
-If you'd like some additional practice, you can refer to:
+If you'd like some additional practice from similar classes Suraj taught at UC San Diego, you can refer to:
 - [practice.dsc80.com](https://practice.dsc80.com) – most similar to our course.
 - [practice.dsc40a.com](https://practice.dsc40a.com) – more theoretical than our course, but some problems will be relevant.
 - [practice.dsc10.com](https://practice.dsc10.com) – more introductory-level than our course, but some DataFrame-related problems will be relevant.
 
 ---
 
-## Textbooks
+## Readings
 
 - [Principles and Techniques of Data Science](https://www.textbook.ds100.org/), the textbook for Berkeley's [Data 100](https://ds100.org) course.
     - These are also supplemented by a set of [Course Notes](https://ds100.org/course-notes/).
@@ -49,12 +44,19 @@ If you'd like some additional practice, you can refer to:
 There are lots of readings linked on the course website. Here, we're collecting other helpful resources that will help explain ideas in the course. If you found something online that was super helpful, let us know and we'll add it here!
 
 ### Python
+
 - [pythontutor.com](https://pythontutor.com), a tool to visualize the execution of Python programs.
 - [Facts and myths about Python names and values](https://nedbatchelder.com/text/names.html) – good to read if you're confused about how variables and mutability work in Python.
 
 ### `pandas`
+
 - [pandastutor.com](https://pandastutor.com), the equivalent of [pythontutor.com](https://pythontutor.com) for DataFrame manipulation.
 - [Views and Copies in `pandas`](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html) – a great read if you'd like to learn more about the infamous `SettingWithCopyWarning`.
+
+### Introductory statistics
+
+- [Introduction to Data Science](https://dept.stat.lsa.umich.edu/~kshedden/introds/), the textbook for DS 101 at Michigan.
+- [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html), the textbook for the introductory data science course at UC Berkeley.
 
 ### Visualization
 - [UC Berkeley Data 100 Lecture 10 (by Suraj)](https://ds100.org/su20/lecture/lec10).
@@ -62,7 +64,6 @@ There are lots of readings linked on the course website. Here, we're collecting 
 - [UW CSE 442: Data Visualization](https://courses.cs.washington.edu/courses/cse442/23au/).
 
 ### Missing Values
-
 - [Concepts of MCAR, MAR and MNAR](https://stefvanbuuren.name/fimd/sec-MCAR.html).
 
 ### Web Scraping
@@ -138,5 +139,3 @@ The university library system maintains several guides on how to conduct researc
 - General [Engineering](https://guides.lib.umich.edu/engineering) and [Computer Science](https://guides.lib.umich.edu/cse) research guides.
 
 If you have questions about how to use any of these guides, or how to use any of the other resources our library has to offer, contact Sarah Barbrow (sbarbrow@umich.edu), our Engineering librarian (who also recorded [this video](https://www.mivideo.it.umich.edu/media/t/1_7fy6i5ze), of interest to students who are looking to get into social sciences research)!
-
---- -->

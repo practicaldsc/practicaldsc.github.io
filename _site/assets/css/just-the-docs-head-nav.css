@@ -1,3 +1,0 @@
-h1, h2, h3, h4, h5, h6 { scroll-margin-top: 80px; /* Adjust based on the height of your sticky toolbar */ }
-
-.site-nav ul li a { background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%); }

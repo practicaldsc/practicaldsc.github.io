@@ -13,24 +13,24 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {: .no_toc }
 {: .fs-6 .fw-300 .mb-2 }
 
-4 credits • Open to all majors • ULCS for Computer Science majors, Advanced Technical Elective or Application Elective for Data Science majors, Flexible Technical Elective for Electrical Engineering majors
+<!-- 4 credits • Open to all majors • ULCS for Computer Science majors, Advanced Technical Elective or Application Elective for Data Science majors, Flexible Technical Elective for Electrical Engineering majors -->
 
 
-<!-- <small>
-Interested in taking the course next semester? Read [**this page**](next).
-</small> -->
-
-<!-- {% assign instructors = site.staffersnobio | where: 'role', 'Instructor' %} -->
 {% for staffer in site.staffersnobio %}
 {{ staffer }}
 {% endfor %}
 
-<!-- [Jump to the current week](#week-16-final-exam){: .btn } -->
 
 {: .green }
-Welcome to Practical Data Science in Winter 2025! This site is currently under construction. Until this disclaimer is removed, all information here is subject to change.<br><br>If you're interested in taking the course in Winter 2025, you may want to look at last semester's course website, linked [**here**](https://practicaldsc.org/fa24); it contains links to all lectures, assignments, etc. from Fall 2024, though note that many aspects of the syllabus will change. Read below for more details about the course.
+Welcome to Practical Data Science in Winter 2025! This site is currently under construction. Until this disclaimer is removed, all information here is subject to change.
 
----
+{% for module in site.modules %}
+{% if module.weekNumber < 2 %}
+{{ module }}
+{% endif %}
+{% endfor %}
+
+<!-- ---
 
 1. TOC
 {:toc}
