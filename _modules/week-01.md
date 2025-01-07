@@ -7,7 +7,7 @@ days:
       - name: LEC 1
         type: lecture
         title: Introduction, Jupyter Notebooks
-        note: Come meet the staff from 4:30-5:30PM in the BBB Atrium – we'll have free pizza 🍕!
+        note: Come meet the staff from 4:30-5:30PM in the BBB Atrium!
         # html: resources/lectures/lec01/lec01.html
         # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec01/
         # recording: https://leccap.engin.umich.edu/leccap/player/r/ajQs9f
