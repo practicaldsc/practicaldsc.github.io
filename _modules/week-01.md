@@ -11,6 +11,7 @@ days:
         html: resources/lectures/lec01/lec01-filled.html
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec01/
         recording: https://leccap.engin.umich.edu/leccap/player/r/oTAiJl
+        annotations: resources/lectures/lec01/lec01-annotated.pdf
         # reading: https://learningds.org/ch/01/lifecycle_intro.html
         reading_text: LDS 1
       - name: SUR
