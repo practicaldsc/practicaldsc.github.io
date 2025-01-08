@@ -1,41 +1,35 @@
 ---
-title: "Week 7: Midterm Exam"
+title: "Week 7: Modeling"
 weekNumber: 7
 days:
-  - date: "2024-10-07"
+  - date: "2025-02-17"
     events:
-      - name: REV
-        type: review
-        title: Midterm Review (6-8PM, FXB 1109, led by TAs)
-        problems: https://study.practicaldsc.org/mt-review-monday/index.html
-        recording: https://leccap.engin.umich.edu/leccap/player/r/DkSl0M
-  - date: "2024-10-08"
-    events:
-      - name: LEC 13
+      - name: LEC 11
         type: lecture
-        title: Midterm Review (during lecture, led by Suraj)
-        problems: https://study.practicaldsc.org/mt-review-tuesday/index.html
-        blank_slides: resources/lectures/lec13/lec13-blank.pdf
-        filled_slides: resources/lectures/lec13/lec13-filled.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/5ZW0eD
-      - name: OH
+        title: Introduction to Machine Learning
+        reading: https://learningds.org/ch/04/modeling_intro.html
+        reading_text: LDS 4
+        reading2: resources/other/40a-note-1.pdf
+        reading2_text: UCSD 1.1-1.2
+  - date: "2025-02-18"
+    events:
+      - name: HW 5
+        type: hw
+        title: Regular Expressions and Text Features
+  - date: "2025-02-19"
+    events:
+      - name: LEC 12
         type: lecture
-        title: Office Hours After Lecture
-        filled_slides: resources/lectures/lec13/midterm-review-office-hours.pdf
-        html: resources/lectures/lec13/different-kinds-of-groupby-methods.html
-        recording: https://www.loom.com/share/4171bfc0e71c4722b10a6c8472d08cb5?sid=e3453f2f-adbc-4d74-8fcb-c233dae591a4
-        github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec13/agg-filter-transform-apply.ipynb
-        note: In office hours, we walked through questions from past discussions and discussed some of the intricacies of the groupby method. The annotated slides, Jupyter Notebook, and a recording of the session can be found here.
-  - date: "2024-10-09"
+        title: Simple Linear Regression
+        reading: https://learningds.org/ch/15/linear_intro.html
+        reading_text: LDS 15.1-15.3
+        reading2: resources/other/40a-note-2.pdf
+        reading2_text: UCSD 2.1
+        # videos: https://youtu.be/WuQs1r0NQiY
+  - date: "2025-02-20"
     events:
-      - name: EXAM
-        type: exam
-        title: <b>Midterm Exam (7-9PM)</b>
-        problems: https://study.practicaldsc.org/fa24-midterm/index.html
-  - date: "2024-10-10"
-    events:
-      - title: "No Lecture: (Early) Fall Break 🍁"
-  - date: "2024-10-11"
-    events:
-      - title: "No Discussion: (Early) Fall Break 🍁"
+      - name: DIS 7
+        type: disc
+        title: Loss Functions and Simple Linear Regression
+        # problems: https://study.practicaldsc.org/disc07/index.html
 ---

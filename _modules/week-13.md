@@ -1,36 +1,39 @@
 ---
-title: "Week 13: Classification and Logistic Regression"
+title: "Week 13: Gradient Descent and Classification"
 weekNumber: 13
 days:
-  - date: "2024-11-19"
+  - date: "2025-03-31"
     events:
-      - name: LEC 23
+      - name: LEC 21
+        type: lecture
+        title: Gradient Descent
+        # html: resources/lectures/lec22/lec22-filled.html
+        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec22/
+        reading: https://learningds.org/ch/20/gd_intro.html
+        reading_text: LDS 20
+        # annotations: resources/lectures/lec22/lec22-annotated.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/NiYB9E
+  - date: "2025-04-01"
+    events:
+      - name: HW 9
+        type: hw
+        title: Cross-Validation and Regularization
+  - date: "2025-04-02"
+    events:
+      - name: LEC 22
         type: lecture
         title: Introduction to Classification
-        html: resources/lectures/lec23/lec23-filled.html
-        github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec23/
+        # html: resources/lectures/lec23/lec23-filled.html
+        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec23/
         reading: https://learningds.org/ch/19/class_intro.html
         reading_text: LDS 19
-        recording: https://leccap.engin.umich.edu/leccap/player/r/1pYVtk
-        annotations: resources/lectures/lec23/lec23-annotated.pdf
-        note: There are some slides involving logistic regression in this lecture, but we greatly improved them for Lecture 24, so look there for logistic regression!
-  - date: "2024-11-21"
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/1pYVtk
+        # annotations: resources/lectures/lec23/lec23-annotated.pdf
+        # note: There are some slides involving logistic regression in this lecture, but we greatly improved them for Lecture 24, so look there for logistic regression!
+  - date: "2025-04-03"
     events:
-      - name: LEC 24
-        type: lecture
-        title: Logistic Regression
-        html: resources/lectures/lec24/lec24-filled.html
-        github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec24/
-        reading: https://learningds.org/ch/19/class_log_model.html
-        reading_text: LDS 19.3-19.6
-        reading2: https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html
-        reading2_text: Berkeley 22-23
-        annotations: resources/lectures/lec24/lec24-annotated.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/l4JFGq
-  - date: "2024-11-22"
-    events:
-      - name: DIS 12
+      - name: DIS 11
         type: disc
-        title: Classifier Evaluation and Logistic Regression
-        problems: https://study.practicaldsc.org/disc12/index.html
+        title: Gradient Descent and Classification
+        # problems: https://study.practicaldsc.org/disc12/index.html
 ---

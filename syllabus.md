@@ -170,11 +170,11 @@ The first discussion, held in the first week of class, includes some useful inst
 
 Subsequent discussion sections will be focused on exam preparation. Students will work through problems from past exams in related courses and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of theoretical questions you will see on exams. **Discussion sections will not be recorded**. The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
 
-In order to incentivize you to attend discussion, **discussion attendance can _optionally_ count towards your course grade**. There will be 13 discussion sections total, and we will take attendance in each one. Each week you attend discussion will earn you 1 "discussion point", up to a maximum of 10 discussion points. Your discussion score will be the number of discussion points you earn out of 10. This means that you can miss up to 3 discussions and still earn a full discussion score. Details can be found in the [Grades](#grades) section below.
+In order to incentivize you to attend discussion, **discussion attendance can _optionally_ count towards your course grade**. There will be 13 discussion sections total, and we will take attendance in each one. Each week you attend discussion will earn you 1 "discussion point", up to a maximum of 10 discussion points. Your discussion score will be the number of discussion points you earn out of 10. This means that you can miss up to 3 discussions for any reason (late add, extenuating circumstances, etc.) and still earn a full discussion score. Details can be found in the [Grades](#grades) section below.
 
 ### Homeworks
 
-There will be **11 homework assignments** due roughly weekly throughout the semester. Expect each homework assignment to take ~8-10 hours to complete. Even though this is a programming-heavy class, expect it to have the workload patterns of a more theoretical class – that is, expect a constant, moderate level of work each week, rather than having some weeks with very little work and some extremely heavy weeks.
+There will be **11 homework assignments** due throughout the semester, usually on Tuesdays (except for Homework 1). Expect each homework assignment to take ~8-10 hours to complete. Even though this is a programming-heavy class, expect it to have the workload patterns of a more theoretical class – that is, expect a constant, moderate level of work each week, rather than having some weeks with very little work and some extremely heavy weeks.
 
 Homeworks will be distributed in Jupyter Notebooks, in which you will write Python code. For programming problems, public tests will be provided to make sure you're on the right track, however, your submission will be graded using an autograder with hidden tests. Many homeworks will also include written questions which must be answered on pen-and-paper; these allow us to assess your understanding of more theoretical ideas underpinning core data science techniques taught in lecture. Autograded questions and written questions must be submitted to two separate Gradescope assignments but count as one big assignment for the purposes of grading. The [Example Homework](https://github.com/practicaldsc/wn25/blob/main/homeworks/example-hw/example-hw.ipynb) shows the typical format of a homework assignment and explains the submission workflow.
 
@@ -219,15 +219,15 @@ Questions that you should never ask us:
 
 Your primary motivation when interacting with course staff should be **learning**.
 
-<!-- ### Weekly Schedule
+### Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
 | Monday | Tuesday | Wednesday | Thursday | Friday     |
 | ------ | ------- | --------- | -------- | ---------- |
-|      |  |           | Lecture  |  Discussion |
-| | | | <span style='color:red'><b>Homework N - 1 due 11:59PM</b></span> | <span style='color:red'><b>Homework N released</b></span> | -->
+|  Lecture    |  |   Lecture        | Discussion  |   |
+| | <span style='color:red'><b>Homework N - 1<br>due 11:59PM</b></span> | <span style='color:red'><b>Homework N<br>released</b></span> | | |
 
 ---
 

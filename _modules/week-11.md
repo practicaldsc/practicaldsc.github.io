@@ -1,41 +1,46 @@
 ---
-title: "Week 11: Generalization"
+title: "Week 11: Feature Engineering"
 weekNumber: 11
 days:
-  # - date: "2024-11-04"
-  #   events:
-      # - name: CHK 9
-        # type: checkpoint
-        # title: Checkpoint 9
-  - date: "2024-11-05"
+  - date: "2025-03-17"
     events:
-      - name: LEC 19
+      - name: LEC 17
+        type: lecture
+        title: Feature Engineering
+        # html: resources/lectures/lec18/lec18-filled.html
+        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec18/
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/M7Uj16
+        reading: https://learningds.org/ch/15/linear_feature_eng.html
+        reading_text: LDS 15.7
+        # annotations: resources/lectures/lec18/lec18-annotated.pdf
+  - date: "2025-03-18"
+    events:
+      - name: HW 7
+        type: hw
+        title: Multiple Linear Regression
+        # github: https://github.com/practicaldsc/fa24/blob/main/homeworks/hw09/hw09.ipynb
+        # note: Note the later deadline!
+        # solutions: https://edstem.org/us/courses/61012/discussion/5729132
+  - date: "2025-03-19"
+    events:
+      - name: LEC 18
         type: lecture
         title: Pipelines, Generalization
-        html: resources/lectures/lec19/lec19-filled.html
-        github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec19/
+        # html: resources/lectures/lec19/lec19-filled.html
+        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec19/
         reading: https://learningds.org/ch/16/ms_intro.html
-        annotations: resources/lectures/lec19/lec19-annotated.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/mt3h23
+        # annotations: resources/lectures/lec19/lec19-annotated.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/mt3h23
         reading_text: LDS 16
-        note: We will still have class on Election Day, but as always, lecture is recorded, so don't hesitate to miss class if you need the time to vote.
-  - date: "2024-11-07"
+  - date: "2025-03-20"
     events:
-      - name: LEC 20
-        type: lecture
-        title: Cross-Validation and Regularization
-        html: resources/lectures/lec20/lec20-filled.html
-        github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec20/
-        reading_text: LDS 16
-        reading: https://learningds.org/ch/16/ms_intro.html
-        reading2_text: MLU Explain
-        reading2: https://mlu-explain.github.io/cross-validation/
-        annotations: resources/lectures/lec20/lec20-annotated.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/R8c30y
-  - date: "2024-11-08"
-    events:
-      - name: DIS 10
+      - name: DIS 9
         type: disc
-        title: Generalization, Cross-Validation, Regularization
-        problems: https://study.practicaldsc.org/disc10/index.html
+        title: Feature Engineering and Generalization
+        # problems: https://study.practicaldsc.org/disc10/index.html
+  - date: "2025-03-21"
+    events:
+      - name: PROJ
+        type: proj
+        title: Final Project Checkpoint
 ---

@@ -1,45 +1,41 @@
 ---
-title: "Week 4: Exploratory Data Analysis"
+title: "Week 4: More Pandas"
 weekNumber: 4
 days:
-  # - date: "2024-09-16"
-  #   events:
-      # - name: CHK 3
-      #   type: checkpoint
-      #   title: Checkpoint 3
-  - date: "2024-09-17"
+  - date: "2025-01-27"
     events:
-      - name: LEC 7
+      - name: LEC 5
         type: lecture
-        title: EDA, Data Cleaning, and Visualization
-        html: resources/lectures/lec07/lec07-filled.html
-        github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec07/
-        reading: https://learningds.org/ch/10/eda_intro.html
-        reading_text: LDS 10
-        recording: https://leccap.engin.umich.edu/leccap/player/r/bRZE6K
-  - date: "2024-09-19"
+        title: Querying and Grouping
+        # html: resources/lectures/lec05/lec05-filled.html
+        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec05/
+        reading: https://learningds.org/ch/06/pandas_aggregating.html
+        reading_text: LDS 6.2
+        reading2: https://wesmckinney.com/book/data-aggregation
+        reading2_text: PDA 10
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/AvwZpU
+  - date: "2025-01-28"
     events:
-      - name: LEC 8
-        type: lecture
-        title: More Visualization, Missing Values
-        html: resources/lectures/lec08/lec08-filled.html
-        extra: resources/lectures/lec08/lec08-extra.html
-        extra_text: more visualization examples
-        github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec08/
-        reading: https://learningds.org/ch/11/viz_intro.html
-        reading_text: LDS 11
-        reading2: https://stefvanbuuren.name/fimd/sec-MCAR.html
-        reading2_text: Missingness
-        recording: https://leccap.engin.umich.edu/leccap/player/r/kqf8Ju
-        videos: https://ds100.org/su20/lecture/lec10/
-      - name: HW 3
+      - name: HW 2
         type: hw
-        title: <b>Grouping, Pivoting, and Merging</b>
-        github: https://github.com/practicaldsc/fa24/blob/main/homeworks/hw03/hw03.ipynb
-  - date: "2024-09-20"
+        title: Arrays and DataFrames
+        # github: https://github.com/practicaldsc/fa24/blob/main/homeworks/hw02/hw02.ipynb
+  - date: "2025-01-29"
+    events:
+      - name: LEC 6
+        type: lecture
+        title: Pivoting and Merging
+        # html: resources/lectures/lec06/lec06-filled.html
+        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec06/
+        reading: https://learningds.org/ch/06/pandas_joining.html
+        reading_text: LDS 6.3
+        reading2: https://notes.dsc80.com/content/05/introduction.html
+        reading2_text: DSP 5
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/aYdeGq
+  - date: "2025-01-30"
     events:
       - name: DIS 4
         type: disc
-        title: Visualization, Missing Values, More Practice
-        problems: https://study.practicaldsc.org/disc04/index.html
+        title: Grouping, Pivoting, and Merging
+        # problems: https://study.practicaldsc.org/disc03/index.html
 ---
