@@ -10,7 +10,7 @@ days:
         note: Come meet the staff from 4:30-5:30PM in the BBB Atrium – we'll have donuts 🍩!
         html: resources/lectures/lec01/lec01-filled.html
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec01/
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/ajQs9f
+        recording: https://leccap.engin.umich.edu/leccap/player/r/oTAiJl
         # reading: https://learningds.org/ch/01/lifecycle_intro.html
         reading_text: LDS 1
       - name: SUR
