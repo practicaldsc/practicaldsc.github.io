@@ -22,9 +22,7 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 
 
 {: .green }
-> **Welcome to Practical Data Science in Winter 2025 <span class="wave">👋</span>!** Make sure to:
-> - Attend a discussion section on Thursday 1/9 – we're taking attendance!
-> - Read the [**Syllabus**](syllabus), follow the steps in [**Environment Setup**](env-setup), and fill out the [**Welcome Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfwn5kPDKgrHlyypVlp0hl2WyTVifBnQ1OO_g9U56FlrFE6aQ/viewform).
+**Welcome to Practical Data Science in Winter 2025 <span class="wave">👋</span>!** Make sure to read the [**Syllabus**](syllabus), follow the steps in [**Environment Setup**](env-setup), and fill out the [**Welcome Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfwn5kPDKgrHlyypVlp0hl2WyTVifBnQ1OO_g9U56FlrFE6aQ/viewform).
 
 
 [Jump to the current week](#week-1-introduction){: .btn } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }

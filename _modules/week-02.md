@@ -34,6 +34,6 @@ days:
     events:
       - name: HW 1
         type: hw
-        title: Python Fundamentals
-        # github: https://github.com/practicaldsc/fa24/blob/main/homeworks/hw01/hw01.ipynb
+        title: <b>Python Fundamentals</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw01/hw01.ipynb
 ---
