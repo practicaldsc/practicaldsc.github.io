@@ -45,6 +45,9 @@ There are lots of readings linked on the course website. Here, we're collecting 
 
 ### Python
 
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/), a good overview of Python basics.
+- [Code Academy](https://www.codecademy.com/learn/learn-python).
+- [Coding Bat](https://codingbat.com/python).
 - [pythontutor.com](https://pythontutor.com), a tool to visualize the execution of Python programs.
 - [Facts and myths about Python names and values](https://nedbatchelder.com/text/names.html) – good to read if you're confused about how variables and mutability work in Python.
 
