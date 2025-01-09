@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 title: "⚙️ Environment Setup"
 nav_order: 4
@@ -257,26 +257,6 @@ Your Terminal may not be able to access files on, say `Desktop`, `Downloads`, or
 ### Issue: Wanting to exit `(base)` on Terminal
 With `mamba` installed, your Terminal will permanently say `(base)`, at least for the rest of the semester. There's a command you can run to get rid of that, too, but when you do that you won't be able to `conda activate pds` anymore. You can still use your Terminal as normal even if it says `(base)`. Here's are [instructions](https://docs.anaconda.com/anaconda/install/uninstall/) to uninstall conda entirely.
 
-### Issue: Tests that should be passing are failing and displaying `np.True_`
-
-You may have the wrong version of `numpy` installed, likely because you ran `pip install numpy` in the past. In a notebook cell, run `!pip install numpy==1.26.0`, then restart your kernel and try again. From the Terminal, `pip install numpy==1.26.0` will suffice.
-
-### Issue: Getting a `RecursionError` when running `grader.check`
-
-This is a convoluted issue. See [here](https://github.com/ucbds-infra/otter-grader/issues/480) for more details, but to fix it, open the following directory:
-
-```
-/Users/<username>/miniforge3/envs/pds/lib/python3.10/site-packages/
-```
-
-and delete the following file (it may not be named exactly this, but it will involve `pdb`, `hijack`, and `.pth`):
-
-```
-PDBPP_HIJACK_PDB.pth
-```
-
-Then, try restarting your kernel and running all of your cells again.
-
 ### Issue: Can't access the JupyterLab debugger
 
 A student on Ed once asked:
@@ -296,3 +276,35 @@ Unfortunately, it is often greyed out by default. To enable it, go to this file 
 ```
 
 Open it, and edit `"debugger": false` to be `"debugger": true`. Once you save and close the file, and restart JupyterLab, the debugger should work!
+
+### Issue: Rendering lecture notebooks as slides
+
+You may wonder how to make Jupyter Notebooks look like slide presentations, as we do in lecture. To do so:
+
+1. After activating the `pds` environment in your Terminal, run `pip install rise`. 
+1. Then, once you launch a Jupyter Notebook using `jupyter nbclassic`, you'll see a little bar chart icon in the toolbar at the top. Click that and you should the see notebook switched to slides. (This won't in `jupyter lab` or `jupyter notebook`.)
+
+A keyboard shortcut to toggle slides mode is `OPTION + R` on macOS, or `ALT + R` on Windows.
+
+Note that in this format, it's hard to export the slides to a PDF, so they're tricky to annotate.
+
+
+### Issue: Tests that should be passing are failing and displaying `np.True_`
+
+You may have the wrong version of `numpy` installed, likely because you ran `pip install numpy` in the past. In a notebook cell, run `!pip install numpy==1.26.0`, then restart your kernel and try again. From the Terminal, `pip install numpy==1.26.0` will suffice.
+
+### Issue: Getting a `RecursionError` when running `grader.check`
+
+This is a convoluted issue. See [here](https://github.com/ucbds-infra/otter-grader/issues/480) for more details, but to fix it, open the following directory:
+
+```
+/Users/<username>/miniforge3/envs/pds/lib/python3.10/site-packages/
+```
+
+and delete the following file (it may not be named exactly this, but it will involve `pdb`, `hijack`, and `.pth`):
+
+```
+PDBPP_HIJACK_PDB.pth
+```
+
+Then, try restarting your kernel and running all of your cells again.
