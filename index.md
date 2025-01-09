@@ -23,7 +23,6 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 
 {: .green }
 > **Welcome to Practical Data Science in Winter 2025 <span class="wave">👋</span>!** Make sure to:
-> - Come to the first lecture on Wednesday 1/8 at 3PM, and meet us after in the BBB Atrium to socialize (and eat free donuts 🍩).
 > - Attend a discussion section on Thursday 1/9 – we're taking attendance!
 > - Read the [**Syllabus**](syllabus), follow the steps in [**Environment Setup**](env-setup), and fill out the [**Welcome Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfwn5kPDKgrHlyypVlp0hl2WyTVifBnQ1OO_g9U56FlrFE6aQ/viewform).
 

@@ -7,7 +7,7 @@ days:
       - name: LEC 1
         type: lecture
         title: Introduction, Jupyter Notebooks
-        note: Come meet the staff from 4:30-5:30PM in the BBB Atrium – we'll have donuts 🍩!
+        # note: Come meet the staff from 4:30-5:30PM in the BBB Atrium – we'll have donuts 🍩!
         html: resources/lectures/lec01/lec01-filled.html
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec01/
         recording: https://leccap.engin.umich.edu/leccap/player/r/oTAiJl
@@ -23,7 +23,8 @@ days:
       - name: DISC 1
         type: disc
         title: Environment Setup, Python Basics
-        # github: https://github.com/practicaldsc/wn25/blob/main/discussions/disc01/
+        github: https://github.com/practicaldsc/wn25/blob/main/discussions/disc01/disc01.ipynb
+        note: Most discussions will have a worksheet; this one does not.
   - date: "2025-01-10"
     events:
       - name: EX HW
