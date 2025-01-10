@@ -36,4 +36,5 @@ days:
         type: hw
         title: <b>Python Fundamentals</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw01/hw01.ipynb
+        note: If you pulled the assignment before 11PM on Thursday 1/9, re-pull – there's an important typo we fixed in Question 5.
 ---
