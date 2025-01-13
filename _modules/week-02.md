@@ -7,9 +7,9 @@ days:
       - name: LEC 2
         type: lecture
         title: Python Basics
-        # html: resources/lectures/lec02/lec02-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec02/
-        # videos: https://youtu.be/IaEuWJCcwjk?feature=shared
+        html: resources/lectures/lec02/lec02-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec02/
+        videos: https://youtu.be/IaEuWJCcwjk?feature=shared
         reading: https://wesmckinney.com/book/python-basics
         reading_text: PDA 2-3
         note: For more Python resources, take a look at the extra <a href="resources#Readings">Readings</a> on the Resources tab of the course website.
