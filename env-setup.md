@@ -312,3 +312,19 @@ PDBPP_HIJACK_PDB.pth
 ```
 
 Then, try restarting your kernel and running all of your cells again.
+
+### Issue: Git merge conflict
+
+From time to time, you may see an error like this when you try to `git pull` our course repository:
+
+```
+error: Your local changes to the following files would be overwritten by merge:
+        homeworks/hw01/hw01.ipynb
+Please commit your changes or stash them before you merge.
+Aborting
+```
+
+This happens when we've made changes to assignments after we've released them. We only do this in rare situations, since we want to avoid these merge conflicts. But, there are a few ways you can fix them.
+
+- One solution: Rename the conflicting files. In the above example, you could rename `hw01.ipynb` to `hw01-old.ipynb`. Then, once you `git pull`, `hw01.ipynb` will contain the "new" version of Homework 1. You could either copy your work over to the new version, or check Ed/the course website for any clarifications on the differences.
+- Another solution: If (and only if!) you don't have any important changes locally, and are okay with replacing the version of the conflicting file with our new version, run `git stash`, then `git pull`. 
