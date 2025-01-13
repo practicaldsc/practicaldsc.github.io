@@ -257,6 +257,10 @@ Your Terminal may not be able to access files on, say `Desktop`, `Downloads`, or
 ### Issue: Wanting to exit `(base)` on Terminal
 With `mamba` installed, your Terminal will permanently say `(base)`, at least for the rest of the semester. There's a command you can run to get rid of that, too, but when you do that you won't be able to `conda activate pds` anymore. You can still use your Terminal as normal even if it says `(base)`. Here's are [instructions](https://docs.anaconda.com/anaconda/install/uninstall/) to uninstall conda entirely.
 
+### Issue: JupyterLab not automatically launching on Windows
+
+See [here](https://stackoverflow.com/questions/52691835/wsl-ubuntu-how-to-open-localhost-in-browser-from-bash-terminal/62275293#62275293) for the fix.
+
 ### Issue: Can't access the JupyterLab debugger
 
 A student on Ed once asked:

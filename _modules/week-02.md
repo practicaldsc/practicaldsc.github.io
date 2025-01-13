@@ -11,6 +11,8 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec02/
         videos: https://youtu.be/IaEuWJCcwjk?feature=shared
         reading: https://wesmckinney.com/book/python-basics
+        recording: https://leccap.engin.umich.edu/leccap/player/r/SgWJsK
+        annotations: resources/lectures/lec02/lec02-annotated.pdf
         reading_text: PDA 2-3
         note: For more Python resources, take a look at the extra <a href="resources#Readings">Readings</a> on the Resources tab of the course website.
   - date: "2025-01-15"
@@ -28,7 +30,7 @@ days:
     events:
       - name: DISC 2
         type: disc
-        title: Arrays
+        title: Arrays and Probability
         # problems: https://study.practicaldsc.org/disc02/index.html
   - date: "2025-01-17"
     events:
