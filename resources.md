@@ -50,16 +50,20 @@ There are lots of readings linked on the course website. Here, we're collecting 
 - [Coding Bat](https://codingbat.com/python).
 - [pythontutor.com](https://pythontutor.com), a tool to visualize the execution of Python programs.
 - [Facts and myths about Python names and values](https://nedbatchelder.com/text/names.html) – good to read if you're confused about how variables and mutability work in Python.
+- [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html), the textbook for the introductory data science course at UC Berkeley.
+- [Data Science Discovery](https://discovery.cs.illinois.edu/), a set of guides for the introductory data science course at the University of Illinois.
 
 ### `pandas`
 
 - [pandastutor.com](https://pandastutor.com), the equivalent of [pythontutor.com](https://pythontutor.com) for DataFrame manipulation.
 - [Views and Copies in `pandas`](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html) – a great read if you'd like to learn more about the infamous `SettingWithCopyWarning`.
 
-### Introductory Statistics
+### Introductory Statistics and Probability
 
 - [Introduction to Data Science](https://dept.stat.lsa.umich.edu/~kshedden/introds/), the textbook for DS 101 at Michigan.
 - [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html), the textbook for the introductory data science course at UC Berkeley.
+- [Data Science Discovery](https://discovery.cs.illinois.edu/), a set of guides for the introductory data science course at the University of Illinois.
+- [Penn State's Statistics Lessons](https://online.stat.psu.edu/stat500/lesson/2).
 
 ### Visualization
 - [UC Berkeley Data 100 Lecture 10 (by Suraj)](https://ds100.org/su20/lecture/lec10).
