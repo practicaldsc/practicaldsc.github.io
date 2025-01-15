@@ -21,6 +21,8 @@ days:
         type: lecture
         title: NumPy and Random Simulations
         html: resources/lectures/lec03/lec03-filled.html
+        annotations: resources/lectures/lec03/lec03-annotated.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/W4Dwoi
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec03/
         reading: https://wesmckinney.com/book/numpy-basics
         reading_text: PDA 4
