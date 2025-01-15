@@ -2,12 +2,12 @@
 layout: page
 title: Maximum Likelihood Estimation
 description: >-
-  Guides for selected topics in machine learning.
+  The method of maximum likelihood estimation for parameter estimation.
 parent: 🤖 Machine Learning
 grand_parent: 🧑‍🤝‍🧑 Guides
 ---
 
-# Maximum Likelihood Estimation
+# {{ page.title }}
 {:.no_toc}
 
 ## Table of contents
