@@ -12,7 +12,6 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec01/
         recording: https://leccap.engin.umich.edu/leccap/player/r/oTAiJl
         annotations: resources/lectures/lec01/lec01-annotated.pdf
-        # reading: https://learningds.org/ch/01/lifecycle_intro.html
         reading_text: LDS 1
       - name: SUR
         type: survey
@@ -23,8 +22,7 @@ days:
       - name: DISC 1
         type: disc
         title: Environment Setup, Python Basics
-        github: https://github.com/practicaldsc/wn25/blob/main/discussions/disc01/disc01.ipynb
-        note: Most discussions will have a worksheet; this one does not.
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc01/disc01.ipynb
   - date: "2025-01-10"
     events:
       - name: EX HW

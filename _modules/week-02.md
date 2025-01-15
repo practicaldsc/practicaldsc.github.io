@@ -34,6 +34,7 @@ days:
         type: disc
         title: Arrays and Probability
         problems: https://study.practicaldsc.org/disc02/index.html
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc02/disc02.ipynb
   - date: "2025-01-17"
     events:
       - name: HW 1
