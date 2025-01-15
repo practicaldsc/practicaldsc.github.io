@@ -31,7 +31,9 @@ There is a close relationship between the fields of probability and statistics:
 <img src="../assets/prob-stat.png" width="55%">
 </center>
 
-In this guide, we'll gain a deeper understanding of this relationship, through the lens of your probability knowledge from EECS 203. If needed, you should refresh your understanding of the [binomial distribution](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/binomial-distribution).
+In this guide, we'll gain a deeper understanding of this relationship, through the lens of your probability knowledge from EECS 203. If needed, you should refresh your understanding of the binomial distribution. Some relevant resources:
+- [Discussion 2](https://github.com/practicaldsc/wn25/blob/main/discussions/disc02/disc02.ipynb).
+- [Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/binomial-distribution).
 
 ---
 
@@ -61,6 +63,8 @@ To answer this question, we'll define what's known as the **likelihood** functio
 
 $$L(\theta) = \mathbb{P}(65 \text{ heads} \: | \: \theta) = {\binom{100}{65}} \theta^{65} (1-\theta)^{35}$$
 
+We're using the word likelihood and symbol $$L$$ to make clear that this function is _not_ a probability distribution. The sum of $$L(\theta)$$ for all possible $$\theta$$'s isn't 1. Instead, this function is designed to help us decide which value of $$\theta$$ makes our observed data most likely.
+
 We've used the binomial distribution to calculate the probability of seeing 65 heads and 35 tails, given a bias of $$\theta$$.  Remember, we don't truly know what the value of $$\theta$$ is, but our job is to find the $$\theta$$ that best explains our observation, i.e. the one that makes the data most likely, or gives our observed data the highest probability.
 
 $$\theta$$ is referred to as a **parameter** of the binomial distribution, and our goal is to **estimate** $$\theta$$ as best as we can, given our data. As we'll learn in the machine learning section of the course, a parameter defines the relationship between the inputs and outputs of a model. As we typically do in machine learning, we're using the data we're given to find the best, or optimal, parameters. Here, the model is a binomial one, which takes in a number of heads and outputs the probability of seeing that many heads.
@@ -74,6 +78,8 @@ Let's look at a plot of $$L(\theta)$$ for various values of $$\theta$$.
 </center>
 
 You should notice that $$L(\theta)$$ peaks at 0.65, which is the empirical proportion of heads – remember that we saw 65 heads in 100 flips of this coin! This is saying that, of all possible $$\theta$$'s, the $$\theta$$ that produces the largest probability of seeing 65 heads and 35 tails in 100 flips of a fair coin is $$\theta = 0.65$$.
+
+Remember, the likelihood function, $$L(\theta)$$, **does not** represent a probability distribution! The area underneath the curve above does not add up to 1.
 
 ---
 

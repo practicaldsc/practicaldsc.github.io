@@ -5,7 +5,7 @@ description: >-
   Guides for selected topics in linear algebra.
 has_children: true
 nav_exclude: true
-parent: 🧑‍🤝‍🧑 Guides
+# parent: 🧑‍🤝‍🧑 Guides
 ---
 
 # {{ page.title }}
