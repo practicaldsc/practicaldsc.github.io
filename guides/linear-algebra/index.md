@@ -10,6 +10,8 @@ parent: 🧑‍🤝‍🧑 Guides
 # {{ page.title }}
 {:.no_toc}
 
+## Overview
+
 Linear algebra is a formal prerequisite of this course. However, many students either (1) expressed interest in taking the course but didn't satisfy the prerequisite, and hence were granted a waiver, or (2) have some linear algebra experience but would like a refresher before the course. The goal of the guides below is to get you up to speed on the linear algebra you'll need to know to succeed in the course.
 
 Most of the videos are taken from [DSC 40A](https://dsc-courses.github.io/dsc40a-2024-sp), a class Suraj taught in his final quarter at UCSD. (The videos often refer to a class called Math 18, which is a linear algebra class at UCSD, similar to Math 214/217 here at Michigan.) **These guides are not a replacement for a formal linear algebra course** – there are lots of ideas that are important in linear algebra that aren't touched on here at all – but we'll develop the skills necessary to succeed in _Practical Data Science_.

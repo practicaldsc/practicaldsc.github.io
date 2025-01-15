@@ -149,5 +149,3 @@ $$\vec{u} = \begin{bmatrix} 1 \\ -3 \\ 8 \end{bmatrix} \qquad \vec{v} = \begin{b
 **(b)** Suppose again that $$\vec u, \vec v, \vec w \in \mathbb{R}^3$$ are arbitrary vectors. **Argue** why it must be the case that, if the scalar triple product $$\vec u \cdot (\vec v \times \vec w)$$ is equal to 0, then $$\vec u$$ must be in $$\text{span}(\vec{v}, \vec{w})$$, indicating that $$\vec u, \vec v, \vec w$$ are not linearly independent.
 
 </details>
-
----
