@@ -33,7 +33,7 @@ days:
       - name: DISC 2
         type: disc
         title: Arrays and Probability
-        # problems: https://study.practicaldsc.org/disc02/index.html
+        problems: https://study.practicaldsc.org/disc02/index.html
   - date: "2025-01-17"
     events:
       - name: HW 1
