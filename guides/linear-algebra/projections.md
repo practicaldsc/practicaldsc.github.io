@@ -5,7 +5,7 @@ description: >-
   Projecting onto the span of one or more vectors.
 parent: 🧮 Linear Algebra
 grand_parent: 🧑‍🤝‍🧑 Guides
-nav_order: 5
+nav_order: 4
 ---
 
 # {{ page.title }}
