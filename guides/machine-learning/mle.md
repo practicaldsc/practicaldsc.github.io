@@ -51,7 +51,7 @@ $$\mathbb{P}(65 \text{ heads} \: | \: \theta = 0.5) = {\binom{100}{65}} 0.5^{65}
 
 $$\mathbb{P}(65 \text{ heads} \: | \: \theta = 0.7) = {\binom{100}{65}} 0.7^{65} 0.3^{35} \approx 0.04678$$
 
-Again, the true bias, $$\theta$$, could be anything, and we don't actually know what it is, since we just found this coin on the ground. But, as we see above, some values of $$\theta$$ **better explain** our observed data than others. For instance, it seems that $$\theta = 0.7$$ makes our observation **more likely** than $$\theta = 0.5$$ makes our observation, because the probability of our observation is higher if we assume $$\theta = 0.7$$ than if we assume $$\theta = 0.5$$.
+The true bias, $$\theta$$, could be anything, and we don't actually know what it is since we just found this coin on the ground. But, as we see above, some values of $$\theta$$ **better explain** our observed data than others. For instance, it seems that $$\theta = 0.7$$ makes our observation **more likely** than $$\theta = 0.5$$ makes our observation, because the probability of our observation is higher if we assume $$\theta = 0.7$$ than if we assume $$\theta = 0.5$$.
 
 $$\theta = 0.5$$ and $$\theta = 0.7$$ were arbitrarily chosen values of $$\theta$$, just for illustration. The question is, **among all possible $$\theta$$'s, which value of $$\theta$$ maximizes the probability of the observed data**?
 
