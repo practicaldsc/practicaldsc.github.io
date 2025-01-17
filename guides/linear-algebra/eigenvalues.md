@@ -56,4 +56,4 @@ More coming soon!
 
 <!-- We will use this particular fact without proof, mostly because its proof is similar to the proof you're about to do yourself. If we can prove that none of $$X^TX + n \lambda_\text{ridge} I$$'s eigenvalues are 0, then we know it must be invertible, and so $$\vec{w}_\text{ridge}^*$$ is uniquely defined. This is especially useful if some of $$X^TX$$'s eigenvalues are 0, which is the case when $$X$$ (and $$X^TX$$) isn't full rank, and hence $$X^TX$$ isn't invertible. -->
 
-Read more about eigenvalues and eigenvectors [**here**](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/07%3A_Spectral_Theory/7.01%3A_Eigenvalues_and_Eigenvectors_of_a_Matrix).
+Read more about eigenvalues and eigenvectors [**here**](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/07%3A_Spectral_Theory/7.01%3A_Eigenvalues_and_Eigenvectors_of_a_Matrix), or watch [**this**](https://youtu.be/PhfbEr2btGQ?si=1diIM4b31qSYrDOZ) Khan Academy video.

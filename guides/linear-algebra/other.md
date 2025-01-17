@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 7. Other resources
+title: 8. Other resources
 description: >-
   Other resources for learning linear algebra.
 parent: 🧮 Linear Algebra
 grand_parent: 🧑‍🤝‍🧑 Guides
-nav_order: 7
+nav_order: 8
 ---
 
 # {{ page.title }}
