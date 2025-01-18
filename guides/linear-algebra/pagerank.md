@@ -63,7 +63,9 @@ $$\vec{x} = A \vec{x}, \qquad A = \begin{bmatrix}
 0 & \frac{1}{2} & \frac{1}{2} & 0
 \end{bmatrix} \qquad \vec x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix}$$
 
-For a review of how matrix-vector multiplication works, see our guide on matrices [here](../matrices).
+{: .green }
+
+Click [**here**](../matrices) for a review of how matrix-vector (and matrix-matrix) multiplication works.
 
 **Our goal**: Given an adjacency matrix $$A$$, find the solution to the equation $$\vec{x} = A \vec{x}$$. The solution vector, $$\vec x$$, will contain the PageRank scores of each page!
 
@@ -86,8 +88,9 @@ Not sure what that means? That's okay – you can learn about the basics of eige
 
 1. Start by initializing $$\vec x^{(0)}$$ to a uniform vector that sums to 1. This is our initial, or 0th, guess of the true value of $$\vec x$$. Our example network has four pages, meaning that $$\vec x \in \mathbb{R}^4$$, so we'd initialize $$\vec x^{(0)} = \begin{bmatrix} \frac{1}{4} \\ \frac{1}{4} \\ \frac{1}{4} \\ \frac{1}{4} \end{bmatrix}$$. You can imagine this means that a user is equally likely to be on any of the four pages before clicking anything.
 1. Simulate the process of the user clicking one link by multiplying $$A$$ by $$\vec x^{(0)}$$, and call this $$\vec x^{(1)}$$, our next guess of the true $$\vec x$$. In other words, $$\vec x^{(1)} = A \vec x^{(0)}$$.
-2. Repeat this again, so $$\vec x^{(2)} = A \vec x^{(1)} = A^2 \vec x^{(0)}$$.
-3. Repeat many, many times, until the difference between $$\vec x^{(t)}$$ and $$\vec x^{(t-1)}$$ is minimal.
+1. Repeat this again, so $$\vec x^{(2)} = A \vec x^{(1)}$$. But since $$\vec x^{(1)}$$ is itself just $$A \vec x^{(0)}$$, we have that $$\vec x^{(2)} = A (A \vec x^{(0)}) = A^2 \vec x^{(0)}$$. Here, $$A^2$$ is the result of multiplying the matrix $$A$$ by itself.
+1. Repeat this again, so $$\vec x^{(3)} = A^3 \vec x^{(0)}$$.
+1. Repeat many, many times, until the difference between $$\vec x^{(t)}$$ and $$\vec x^{(t-1)}$$ is minimal.
 
 Eventually, our guesses $$\vec x^{(t)}$$ will converge on the true value of $$\vec x$$, which we can interpret as containing the probability that a user is on any particular page in the long run. **Larger probabilities mean more important pages!**
 

@@ -18,8 +18,8 @@ days:
     events:
       - name: HW 2
         type: hw
-        title: Arrays and DataFrames
-        # github: https://github.com/practicaldsc/fa24/blob/main/homeworks/hw02/hw02.ipynb
+        title: <b>Arrays, Probability, and DataFrames</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw02/hw02.ipynb
   - date: "2025-01-29"
     events:
       - name: LEC 6

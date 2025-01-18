@@ -93,7 +93,7 @@ $$L(\theta) = \mathbb{P}(k \text{ heads} \: | \: \theta) = {n \choose k} \theta^
 
 The question at hand is, which value of $$\theta$$ **maximizes** $$L(\theta)$$, i.e. which $$\theta$$ makes the data most likely?
 
-$$L(\theta)$$ is a function of a single variable. To find the value of $$\theta$$ that maximizes it, we can take its derivative with respect to $$\theta$$, and solve for the value of $$\theta$$ that makes the derivative 0. To find the derivative of $$L(\theta)$$ with respect to $$\theta$$, we'll need to use the power, product, and chain rules from calculus. Here we go!
+$$L(\theta)$$ is a function of a single variable. To find the value of $$\theta$$ that maximizes it, we'll follow a process that should be familiar from Calculus 1. We can take the derivative of $$L(\theta)$$ with respect to $$\theta$$, and solve for the value of $$\theta$$ that makes the derivative 0. To find the derivative of $$L(\theta)$$ with respect to $$\theta$$, we'll need to use the power, product, and chain rules from calculus. Here we go!
 
 $$\begin{align*} L(\theta) &= { n \choose k } \theta^k (1-\theta)^{n-k} \\ \frac{d}{d\theta}L(\theta) &= { n \choose k } \big( k\theta^{k-1} (1-\theta)^{n-k} + \theta^k (n-k)(1-\theta)^{n-k-1}(-1) \big) \end{align*}$$
 
@@ -101,7 +101,7 @@ Now, we'll set this to 0 and solve for the $$\theta$$ that makes this happen. We
 
 $$\begin{align*} { n \choose k }\cdot \left( k\theta^{k-1} (1-\theta)^{n-k} + \theta^k (n-k)(1-\theta)^{n-k-1}(-1) \right) &= 0 \\ k\theta^{k-1} (1-\theta)^{n-k} - \theta^k (n-k)(1-\theta)^{n-k-1} &= 0 \\ k\theta^{k-1} (1-\theta)^{n-k} &= \theta^k (n-k)(1-\theta)^{n-k-1} \\ k (1-\theta) &= \theta (n-k) \\ k - \theta k &= \theta n - \theta k \\ k &= \theta n \\ \theta^* &= \boxed{\frac{k}{n}} \end{align*}$$
 
-Since $$\theta^* = \frac{k}{n}$$ is the input to $$L(\theta)$$ that **maximizes** the likelihood function, $$L(\theta)$$, we call $$\theta^*$$ the **maximum likelihood estimate** of $$\theta$$.
+Since $$\theta^* = \frac{k}{n}$$ is the input to $$L(\theta)$$ that **maximizes** the likelihood function, $$L(\theta)$$, we call $$\theta^*$$ the **maximum likelihood estimate** of $$\theta$$. Sometimes we'll denote this as $$\theta^*_\text{MLE}$$, since there are other ways of estimating the bias of the coin, and this is just the best estimate using the maximum likelihood estimation technique.
 
 In our example, $$k = 65$$ and $$n = 100$$, which means the maximum likelihood estimate of the bias of the coin we found on the ground is $$\frac{65}{100} = 0.65$$! This matches what we saw in the graph earlier, and also shouldn't be surprising. In our 100 flips of this random coin off the ground, we saw 65 heads and 35 tails, and so while the bias of the coin could be anything, the bias that makes the data most likely is $$\theta^* = 0.65$$.
 
