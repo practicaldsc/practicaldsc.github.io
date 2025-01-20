@@ -27,6 +27,12 @@ If you'd like some additional practice from similar classes Suraj taught at UC S
 
 ---
 
+## Guides
+
+This semester, we're 
+
+---
+
 ## Readings
 
 - [Principles and Techniques of Data Science](https://www.textbook.ds100.org/), the textbook for Berkeley's [Data 100](https://ds100.org) course.
@@ -64,6 +70,10 @@ There are lots of readings linked on the course website. Here, we're collecting 
 - [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html), the textbook for the introductory data science course at UC Berkeley.
 - [Data Science Discovery](https://discovery.cs.illinois.edu/), a set of guides for the introductory data science course at the University of Illinois.
 - [Penn State's Statistics Lessons](https://online.stat.psu.edu/stat500/lesson/2).
+
+### Mathematics
+
+- [Notes on summations and related topics](https://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf), notes by James Aspnes.
 
 ### Visualization
 - [UC Berkeley Data 100 Lecture 10 (by Suraj)](https://ds100.org/su20/lecture/lec10).
