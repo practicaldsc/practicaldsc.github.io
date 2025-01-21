@@ -10,8 +10,8 @@ days:
       - name: LEC 4
         type: lecture
         title: DataFrame Fundamentals
-        # html: resources/lectures/lec04/lec04-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec04/
+        html: resources/lectures/lec04/lec04-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec04/
         reading: https://learningds.org/ch/06/pandas_subsetting.html
         reading_text: LDS 6.1
         # recording: https://leccap.engin.umich.edu/leccap/player/r/D3Hj4A
