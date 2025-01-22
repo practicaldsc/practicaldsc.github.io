@@ -20,4 +20,5 @@ days:
       - name: DIS 3
         type: disc
         title: DataFrames and Querying
+        problems: https://study.practicaldsc.org/disc03/index.html
 ---
