@@ -15,6 +15,7 @@ days:
         reading: https://learningds.org/ch/06/pandas_subsetting.html
         reading_text: LDS 6.1
         videos: https://youtu.be/zCGkmrubmqU
+        note: The "Extra Video" is our very first reels/shorts with supplemental content. Let us know what you think!
         # recording: https://leccap.engin.umich.edu/leccap/player/r/D3Hj4A
   - date: "2025-01-23"
     events:

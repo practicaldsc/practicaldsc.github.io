@@ -28,6 +28,8 @@ days:
         reading_text: PDA 4
         reading2: https://inferentialthinking.com/chapters/09/3/Simulation.html
         reading2_text: CIT 9.3
+        videos: https://youtu.be/shc1YcPrfXE?feature=shared
+        note: The "Extra Video" is our very first reels/shorts with supplemental content. Let us know what you think!
   - date: "2025-01-16"
     events:
       - name: DISC 2
