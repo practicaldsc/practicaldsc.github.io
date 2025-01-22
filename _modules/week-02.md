@@ -14,7 +14,7 @@ days:
         recording: https://leccap.engin.umich.edu/leccap/player/r/SgWJsK
         annotations: resources/lectures/lec02/lec02-annotated.pdf
         reading_text: PDA 2-3
-        note: For more Python resources, take a look at the extra <a href="resources#Readings">Readings</a> on the Resources tab of the course website.
+        note: The "extra video" covers the area codes example in-depth.
   - date: "2025-01-15"
     events:
       - name: LEC 3
@@ -29,7 +29,7 @@ days:
         reading2: https://inferentialthinking.com/chapters/09/3/Simulation.html
         reading2_text: CIT 9.3
         videos: https://youtu.be/shc1YcPrfXE?feature=shared
-        note: The "Extra Video" is our very first reels/shorts with supplemental content. Let us know what you think!
+        note: The "extra video" covers the airplane seats example from the end of lecture.
   - date: "2025-01-16"
     events:
       - name: DISC 2
