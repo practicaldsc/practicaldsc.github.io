@@ -19,8 +19,9 @@ days:
         # recording: https://leccap.engin.umich.edu/leccap/player/r/D3Hj4A
   - date: "2025-01-23"
     events:
-      - name: DIS 3
+      - name: DISC 3
         type: disc
         title: DataFrames and Querying
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc03/disc03.ipynb
         problems: https://study.practicaldsc.org/disc03/index.html
 ---
