@@ -14,6 +14,7 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec04/
         reading: https://learningds.org/ch/06/pandas_subsetting.html
         reading_text: LDS 6.1
+        videos: https://youtu.be/zCGkmrubmqU
         # recording: https://leccap.engin.umich.edu/leccap/player/r/D3Hj4A
   - date: "2025-01-23"
     events:
