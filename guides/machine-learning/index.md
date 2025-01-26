@@ -5,6 +5,7 @@ description: >-
   Guides for selected topics in machine learning.
 has_children: true
 parent: 🧑‍🤝‍🧑 Guides
+nav_order: 3
 ---
 
 # {{ page.title }}
