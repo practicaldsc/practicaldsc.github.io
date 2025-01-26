@@ -6,13 +6,13 @@ days:
     events:
       - name: LEC 5
         type: lecture
-        title: Querying and Grouping
+        title: Grouping and Pivoting
         # html: resources/lectures/lec05/lec05-filled.html
         # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec05/
         reading: https://learningds.org/ch/06/pandas_aggregating.html
         reading_text: LDS 6.2
-        reading2: https://wesmckinney.com/book/data-aggregation
-        reading2_text: PDA 10
+        guide: ../guides/data-wrangling/df-internals
+        guide_title: DataFrame Internals
         # recording: https://leccap.engin.umich.edu/leccap/player/r/AvwZpU
   - date: "2025-01-28"
     events:
@@ -24,7 +24,7 @@ days:
     events:
       - name: LEC 6
         type: lecture
-        title: Pivoting and Merging
+        title: Merging and Data Cleaning
         # html: resources/lectures/lec06/lec06-filled.html
         # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec06/
         reading: https://learningds.org/ch/06/pandas_joining.html

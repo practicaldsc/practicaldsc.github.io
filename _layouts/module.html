@@ -49,11 +49,14 @@
                 {%- if event.recording -%}
                 <a href="{{ event.recording }}" class="btn btn-info btn-sm">🎥 recording</a>
                 {%- endif -%}
+                {%- if event.guide -%}
+                <small><a href="{{ event.guide }}" class="btn btn-info btn-sm">🧑‍🤝‍🧑 Guide: {{ event.guide_title }}</a></small>
+                {%- endif -%}
                 {%- if event.animations -%}
                 <a href="{{ event.animations }}" class="btn btn-info btn-sm">🧮 animations</a>
                 {%- endif -%}
                 {%- if event.videos -%}
-                <a href="{{ event.videos }}" class="btn btn-info btn-sm">⏯️ extra videos</a>
+                <a href="{{ event.videos }}" class="btn btn-info btn-sm">⏯️ videos</a>
                 {%- endif -%}
                 {%- if event.reading and event.reading_text -%}
                 <a href="{{ event.reading }}" class="btn btn-info btn-sm">📕 Read: {{ event.reading_text }}</a>
