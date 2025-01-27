@@ -6,9 +6,9 @@ days:
     events:
       - name: LEC 5
         type: lecture
-        title: Grouping and Pivoting
-        # html: resources/lectures/lec05/lec05-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec05/
+        title: "Aggregation: Grouping and Pivoting"
+        html: resources/lectures/lec05/lec05-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec05/
         reading: https://learningds.org/ch/06/pandas_aggregating.html
         reading_text: LDS 6.2
         guide: ../guides/data-wrangling/df-internals
