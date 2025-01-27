@@ -13,7 +13,8 @@ days:
         reading_text: LDS 6.2
         guide: ../guides/data-wrangling/df-internals
         guide_title: DataFrame Internals
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/AvwZpU
+        annotations: resources/lectures/lec05/lec05-annotated.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/EQalPj
   - date: "2025-01-28"
     events:
       - name: HW 2
@@ -24,7 +25,7 @@ days:
     events:
       - name: LEC 6
         type: lecture
-        title: Merging and Data Cleaning
+        title: Pivoting, Merging, and Transforming
         # html: resources/lectures/lec06/lec06-filled.html
         # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec06/
         reading: https://learningds.org/ch/06/pandas_joining.html
