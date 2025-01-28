@@ -38,5 +38,6 @@ days:
       - name: DIS 4
         type: disc
         title: Grouping, Pivoting, and Merging
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc04/disc04.ipynb
         problems: https://study.practicaldsc.org/disc04/index.html
 ---
