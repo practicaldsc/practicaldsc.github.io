@@ -26,8 +26,8 @@ days:
       - name: LEC 6
         type: lecture
         title: Pivoting, Merging, and Transforming
-        # html: resources/lectures/lec06/lec06-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec06/
+        html: resources/lectures/lec06/lec06-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec06/
         reading: https://learningds.org/ch/06/pandas_joining.html
         reading_text: LDS 6.3
         reading2: https://notes.dsc80.com/content/05/introduction.html
