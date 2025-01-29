@@ -32,6 +32,7 @@ days:
         reading_text: LDS 6.3
         reading2: https://notes.dsc80.com/content/05/introduction.html
         reading2_text: DSP 5
+        annotations: resources/lectures/lec06/lec06-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/aYdeGq
   - date: "2025-01-30"
     events:
