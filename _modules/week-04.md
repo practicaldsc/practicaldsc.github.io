@@ -33,7 +33,7 @@ days:
         reading2: https://notes.dsc80.com/content/05/introduction.html
         reading2_text: DSP 5
         annotations: resources/lectures/lec06/lec06-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/aYdeGq
+        recording: https://leccap.engin.umich.edu/leccap/player/r/6z4ocO
   - date: "2025-01-30"
     events:
       - name: DIS 4
