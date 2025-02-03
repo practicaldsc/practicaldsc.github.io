@@ -11,7 +11,8 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec07/
         reading: https://learningds.org/ch/10/eda_intro.html
         reading_text: LDS 10-11
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/bRZE6K
+        annotations: resources/lectures/lec07/lec07-annotated.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/Ph5UR6
   - date: "2025-02-04"
     events:
       - name: HW 3
