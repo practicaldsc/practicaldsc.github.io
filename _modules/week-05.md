@@ -6,9 +6,9 @@ days:
     events:
       - name: LEC 7
         type: lecture
-        title: EDA, Visualization, and Imputation
-        # html: resources/lectures/lec07/lec07-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec07/
+        title: EDA, Visualization, and Missing Value Imputation
+        html: resources/lectures/lec07/lec07-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec07/
         reading: https://learningds.org/ch/10/eda_intro.html
         reading_text: LDS 10-11
         # recording: https://leccap.engin.umich.edu/leccap/player/r/bRZE6K
