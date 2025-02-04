@@ -21,6 +21,7 @@ days:
         type: hw
         title: <b>Arrays, Probability, and DataFrames</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw02/hw02.ipynb
+        solutions: https://edstem.org/us/courses/69737/discussion/6098287
   - date: "2025-01-29"
     events:
       - name: LEC 6
