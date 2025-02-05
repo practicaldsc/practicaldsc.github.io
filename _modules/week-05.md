@@ -23,9 +23,9 @@ days:
     events:
       - name: LEC 8
         type: lecture
-        title: Web Scraping
-        # html: resources/lectures/lec09/lec09-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec09/
+        title: Web Scraping and APIs
+        html: resources/lectures/lec08/lec08-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec08/
         reading: https://learningds.org/ch/14/web_http.html
         reading_text: LDS 14.3
         reading2: https://notes.dsc80.com/content/07/html.html
