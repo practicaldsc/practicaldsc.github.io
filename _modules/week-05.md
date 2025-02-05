@@ -36,5 +36,5 @@ days:
       - name: DIS 5
         type: disc
         title: Visualization, Imputation, and Web Scraping
-        # problems: https://study.practicaldsc.org/disc04/index.html
+        problems: https://study.practicaldsc.org/disc05/index.html
 ---
