@@ -1,6 +1,6 @@
 ---
 name: Angela Li
-role: Grader
+role: TA
 pronouns: she/her
 email: anqili@umich.edu
 photo: ../assets/staff-images/angela.png
