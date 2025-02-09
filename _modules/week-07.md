@@ -16,6 +16,9 @@ days:
       - name: HW 5
         type: hw
         title: Regular Expressions and Text Features
+      - name: SUR
+        type: survey
+        title: <b><a href="https://docs.google.com/forms/d/1h33AuYBz1q5KhKQ6u7J7Ews7UcX9BnqM5-M3qpaJ4cI/preview">Pre-Midterm Survey</a></b>
   - date: "2025-02-19"
     events:
       - name: LEC 12
