@@ -7,8 +7,8 @@ days:
       - name: LEC 9
         type: lecture
         title: Regular Expressions
-        # html: resources/lectures/lec11/lec11-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec11/
+        html: resources/lectures/lec09/lec09-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec09/
         reading: https://learningds.org/ch/13/text_regex.html?highlight=regular%20expressions
         reading_text: LDS 13.3
         # recording: https://leccap.engin.umich.edu/leccap/player/r/cLPbN6
