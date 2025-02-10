@@ -12,7 +12,7 @@ days:
         reading: https://learningds.org/ch/13/text_regex.html?highlight=regular%20expressions
         annotations: resources/lectures/lec09/lec09-annotated.pdf
         reading_text: LDS 13.3
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/cLPbN6
+        recording: https://leccap.engin.umich.edu/leccap/player/r/DNJN9g
   - date: "2025-02-11"
     events:
       - name: HW 4
