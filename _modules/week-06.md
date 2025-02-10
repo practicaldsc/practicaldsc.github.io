@@ -10,6 +10,7 @@ days:
         html: resources/lectures/lec09/lec09-filled.html
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec09/
         reading: https://learningds.org/ch/13/text_regex.html?highlight=regular%20expressions
+        annotations: resources/lectures/lec09/lec09-annotated.pdf
         reading_text: LDS 13.3
         # recording: https://leccap.engin.umich.edu/leccap/player/r/cLPbN6
   - date: "2025-02-11"
