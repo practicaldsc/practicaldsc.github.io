@@ -19,6 +19,7 @@ days:
         type: hw
         title: <b>Grouping, Pivoting, and Merging</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw03/hw03.ipynb
+        solutions: https://edstem.org/us/courses/69737/discussion/6141967
   - date: "2025-02-05"
     events:
       - name: LEC 8
