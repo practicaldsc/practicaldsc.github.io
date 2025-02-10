@@ -34,6 +34,7 @@ days:
         note: Looking for other sources of data for personal projects? Check out our <a href="resources#finding-datasets">Resources</a> page.
         annotations: resources/lectures/lec08/lec08-annotated.pdf
         recording: https://leccap.engin.umich.edu/leccap/player/r/BB8S6K
+        videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qRDDBNu4SrXqhTl4Zd4DC0l
   - date: "2025-02-06"
     events:
       - name: DIS 5
