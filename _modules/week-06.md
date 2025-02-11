@@ -36,5 +36,5 @@ days:
       - name: DIS 6
         type: disc
         title: Regular Expressions and Text Features
-        # problems: https://study.practicaldsc.org/disc06/index.html
+        problems: https://study.practicaldsc.org/disc06/index.html
 ---
