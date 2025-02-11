@@ -58,6 +58,7 @@ There are lots of readings linked on the course website. Here, we're collecting 
 - [Facts and myths about Python names and values](https://nedbatchelder.com/text/names.html) – good to read if you're confused about how variables and mutability work in Python.
 - [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html), the textbook for the introductory data science course at UC Berkeley.
 - [Data Science Discovery](https://discovery.cs.illinois.edu/), a set of guides for the introductory data science course at the University of Illinois.
+- [The OILER Method: A Framework for Debugging](https://umsi-mads.github.io/framework-book/), a textbook on debugging written for the School of Information MADS program here at Michigan.
 
 ### `pandas`
 
