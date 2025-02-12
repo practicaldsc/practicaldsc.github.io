@@ -13,6 +13,8 @@ days:
         reading_text: LDS 10-11
         annotations: resources/lectures/lec07/lec07-annotated.pdf
         recording: https://leccap.engin.umich.edu/leccap/player/r/Ph5UR6
+        guide: ../guides/data-wrangling/visualization
+        guide_title: "Visualization Tips and Examples"
   - date: "2025-02-04"
     events:
       - name: HW 3
