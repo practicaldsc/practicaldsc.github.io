@@ -15,7 +15,8 @@ days:
     events:
       - name: HW 5
         type: hw
-        title: Regular Expressions and Text Features
+        title: <b>Regular Expressions and Text Features</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw05/hw05.ipynb
       - name: SUR
         type: survey
         title: <b><a href="https://docs.google.com/forms/d/1h33AuYBz1q5KhKQ6u7J7Ews7UcX9BnqM5-M3qpaJ4cI/preview">Pre-Midterm Survey</a></b>
