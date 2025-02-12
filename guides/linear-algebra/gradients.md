@@ -67,9 +67,9 @@ We expand on this idea, and its connection to linear algebra, below, but it's ad
 
 <details markdown="1">
 
-<summary><b>Practice Questions 9.1-9.2</b></summary>
+<summary><b>Question 1</b></summary>
 
-**Question 9.1**
+**Question 1.1**
 
 Suppose $$g: \mathbb{R}^2 \rightarrow \mathbb{R}$$ is the function:
 
@@ -81,7 +81,7 @@ $$g(\vec x) = (x_1 - 3)^2 + (x_1^2 - x_2)^2$$
 
 ---
 
-**Question 9.2**
+**Question 1.2**
 
 **(a)** Suppose $$\vec{a} \in \mathbb{R}^3$$, and suppose $$f: \mathbb{R}^3 \rightarrow \mathbb{R}$$ is the function:
 

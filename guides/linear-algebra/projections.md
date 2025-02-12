@@ -34,9 +34,9 @@ nav_order: 4
 
 <details markdown="1">
 
-<summary><b>Practice Questions 7.1-7.2</b></summary>
+<summary><b>Question 1</b></summary>
 
-**Question 7.1**
+**Question 1.1**
 
 Before we get into any calculations, we'll start by recapping the most recent video through some proofs. Our conclusion was that the vector in $$\text{span}(\vec x)$$ that was closest to $$\vec y$$ was the vector $$w^* \vec x$$, where:
 
@@ -50,7 +50,7 @@ Show, using **calculus**, that $$w^*$$ minimizes $$\text{error}(w)$$. _Hint: Not
 
 ---
 
-**Question 7.2**
+**Question 1.2**
 
 Vectors get lonely, and so we will give each vector one friend to keep them company.
 
@@ -125,9 +125,7 @@ The video below summarizes the last few videos on projections. It doesn't introd
 
 <details markdown="1">
 
-<summary><b>Practice Question 8.1</b></summary>
-
-**Question 8.1**
+<summary><b>Question 2</b></summary>
 
 Consider the vectors $$\vec{u}$$, $$\vec{v}$$, defined below:
 

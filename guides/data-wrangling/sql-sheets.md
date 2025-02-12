@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SQL and Google Sheets
+title: SQL and Spreadsheets
 description: >-
   Translating our pandas knowledge to other table manipulation paradigms.
 parent: 🐼 Data Wrangling
@@ -911,7 +911,7 @@ In all of the examples above, the results matched our `pandas` implementations, 
 
 ---
 
-## Google Sheets
+## Round 3: Spreadsheets
 
 ### Overview and setup
 

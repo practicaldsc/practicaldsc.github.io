@@ -173,9 +173,9 @@ Note that as we add columns to $$B$$, we'd add columns to the output. If $$B$$ h
 
 <details markdown="1">
 
-<summary><b>Exercises 1-2</b></summary>
+<summary><b>Question 1</b></summary>
 
-**Question 6.1**
+**Question 1.1**
 
 Suppose $$M \in \mathbb{R}^{m \times n}$$ is a matrix, $$\vec{v} \in \mathbb{R}^n$$ is a vector, and $$s \in \mathbb{R}$$ is a scalar.
 
@@ -205,7 +205,7 @@ Determine whether each of the following quantities is a matrix, vector, scalar, 
 
 ---
 
-**Question 6.2**
+**Question 1.2**
 
 Consider the matrix $$X$$ and vector $$\vec w$$ defined below:
 

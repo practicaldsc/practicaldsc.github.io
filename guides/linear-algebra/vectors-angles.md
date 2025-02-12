@@ -35,7 +35,7 @@ nav_order: 1
 
 <details markdown="1">
 
-<summary><b>Practice Questions 1.1-1.3</b></summary>
+<summary><b>Question 1</b></summary>
 
 **Question 1.1**
 
@@ -85,7 +85,7 @@ Suppose $$\vec{1} \in \mathbb{R}^n$$ is a vector containing the value 1 for each
 
 <details markdown="1">
 
-<summary><b>Practice Questions 2.1-2.3</b></summary>
+<summary><b>Question 2</b></summary>
 
 **Question 2.1**
 

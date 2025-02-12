@@ -36,9 +36,7 @@ nav_order: 2
 
 <details markdown="1">
 
-<summary><b>Practice Question 3.1</b></summary>
-
-**Question 3.1**
+<summary><b>Question 1</b></summary>
 
 Consider the vectors $$\vec{u}$$ and $$\vec{v}$$ defined below:
 
@@ -74,9 +72,7 @@ _Hint: You'll need to use the [distributive property of the dot product](https:/
 
 <details markdown="1">
 
-<summary><b>Practice Question 4.1</b></summary>
-
-**Question 4.1**
+<summary><b>Question 2</b></summary>
 
 Consider the vectors $$\vec{a}$$ and $$\vec{b}_k$$ defined below:
 
@@ -128,9 +124,7 @@ which means that the vector with everyone's height in centimeters is redundant w
 
 <details markdown="1">
 
-<summary><b>Practice Question 5.1</b></summary>
-
-**Question 5.1**
+<summary><b>Question 3</b></summary>
 
 <!-- In the case where we have 3 arbitrary vectors $$\vec u, \vec v, \vec w \in \mathbb{R}^3$$ – that is, $$n = d = 3$$ – there is a special way we can determine whether $$\vec u, \vec v, \vec w$$ are linearly independent. -->
 
