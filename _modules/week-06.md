@@ -32,6 +32,7 @@ days:
         reading2_text: LDS 13.4
         guide: ../guides/linear-algebra/vectors-angles
         guide_title: Vectors and angles
+        note: Check out our new guides on <a href="guides/data-wrangling/sql-sheets">SQL and Spreadsheets</a>, <a href="guides/data-wrangling/visualization">Visualization Tips and Examples</a>, and <a href="https://www.youtube.com/playlist?list=PLEFTQpsm47qRDDBNu4SrXqhTl4Zd4DC0l">videos</a> about web scraping and APIs! 
         # recording: https://leccap.engin.umich.edu/leccap/player/r/Zs5a1f
   - date: "2025-02-13"
     events:
