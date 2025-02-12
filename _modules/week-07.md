@@ -15,7 +15,7 @@ days:
     events:
       - name: HW 5
         type: hw
-        title: <b>Regular Expressions and Text Features</b>
+        title: <b>APIs and Regular Expressions</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw05/hw05.ipynb
       - name: SUR
         type: survey
