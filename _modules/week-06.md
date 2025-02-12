@@ -24,8 +24,8 @@ days:
       - name: LEC 10
         type: lecture
         title: Text as Data
-        # html: resources/lectures/lec12/lec12-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec12/
+        html: resources/lectures/lec10/lec10-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec10/
         reading: https://notes.dsc80.com/content/08/nlp.html
         reading_text: DSP 8.2
         reading2: https://learningds.org/ch/13/text_sotu.html
