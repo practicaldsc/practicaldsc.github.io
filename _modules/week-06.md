@@ -30,6 +30,8 @@ days:
         reading_text: DSP 8.2
         reading2: https://learningds.org/ch/13/text_sotu.html
         reading2_text: LDS 13.4
+        guide: ../guides/linear-algebra/vectors-angles
+        guide_title: Vectors and angles
         # recording: https://leccap.engin.umich.edu/leccap/player/r/Zs5a1f
   - date: "2025-02-13"
     events:
