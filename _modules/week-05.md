@@ -42,5 +42,6 @@ days:
       - name: DIS 5
         type: disc
         title: Visualization, Imputation, and Web Scraping
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc05/disc05.ipynb
         problems: https://study.practicaldsc.org/disc05/index.html
 ---

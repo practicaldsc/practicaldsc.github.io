@@ -40,5 +40,6 @@ days:
       - name: DIS 6
         type: disc
         title: Regular Expressions and Text Features
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc06/disc06.ipynb
         problems: https://study.practicaldsc.org/disc06/index.html
 ---
