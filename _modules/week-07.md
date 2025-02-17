@@ -12,6 +12,7 @@ days:
         reading_text: LDS 4
         reading2: resources/other/40a-note-1.pdf
         reading2_text: UCSD 1.1-1.2
+        videos: https://youtu.be/0s7M8OsnBNA
   - date: "2025-02-18"
     events:
       - name: HW 5
@@ -30,7 +31,7 @@ days:
         reading_text: LDS 15.1-15.3
         reading2: resources/other/40a-note-2.pdf
         reading2_text: UCSD 2.1
-        # videos: https://youtu.be/WuQs1r0NQiY
+        videos: https://youtu.be/WuQs1r0NQiY
   - date: "2025-02-20"
     events:
       - name: DIS 7
