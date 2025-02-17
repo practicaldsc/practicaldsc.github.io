@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Modeling"
+title: "Week 7: Introduction to Machine Learning"
 weekNumber: 7
 days:
   - date: "2025-02-17"
@@ -8,6 +8,7 @@ days:
         type: lecture
         title: Introduction to Machine Learning
         reading: https://learningds.org/ch/04/modeling_intro.html
+        blank_slides: resources/lectures/lec11/lec11-blank.pdf
         reading_text: LDS 4
         reading2: resources/other/40a-note-1.pdf
         reading2_text: UCSD 1.1-1.2
