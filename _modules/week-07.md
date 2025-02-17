@@ -14,6 +14,7 @@ days:
         reading2: resources/other/40a-note-1.pdf
         reading2_text: UCSD 1.1-1.2
         videos: https://youtu.be/0s7M8OsnBNA
+        recording: https://leccap.engin.umich.edu/leccap/player/r/15QoQS
   - date: "2025-02-18"
     events:
       - name: HW 5
