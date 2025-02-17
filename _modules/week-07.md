@@ -9,6 +9,7 @@ days:
         title: Introduction to Machine Learning
         reading: https://learningds.org/ch/04/modeling_intro.html
         blank_slides: resources/lectures/lec11/lec11-blank.pdf
+        filled_slides: resources/lectures/lec11/lec11-filled.pdf
         reading_text: LDS 4
         reading2: resources/other/40a-note-1.pdf
         reading2_text: UCSD 1.1-1.2
