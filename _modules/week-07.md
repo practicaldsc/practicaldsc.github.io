@@ -13,8 +13,9 @@ days:
         reading_text: LDS 4
         reading2: resources/other/40a-note-1.pdf
         reading2_text: UCSD 1.1-1.2
-        videos: https://youtu.be/0s7M8OsnBNA
+        videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qQwTM7yz0XwaVOn54ooevNp
         recording: https://leccap.engin.umich.edu/leccap/player/r/15QoQS
+        note: Watch both videos in the playlist above, but especially <a href="https://youtu.be/NSIEP74ifyg?feature=shared">the first one</a>, as it covers a derivation that we ran out of time for in lecture but is relevant to upcoming discussions, homeworks, and exams.
   - date: "2025-02-18"
     events:
       - name: HW 5
