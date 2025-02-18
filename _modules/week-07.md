@@ -39,5 +39,5 @@ days:
       - name: DIS 7
         type: disc
         title: Loss Functions and Simple Linear Regression
-        # problems: https://study.practicaldsc.org/disc07/index.html
+        problems: https://study.practicaldsc.org/disc07/index.html
 ---
