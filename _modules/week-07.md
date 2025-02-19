@@ -15,7 +15,7 @@ days:
         reading2_text: UCSD 1.1-1.2
         videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qQwTM7yz0XwaVOn54ooevNp
         recording: https://leccap.engin.umich.edu/leccap/player/r/15QoQS
-        note: Watch both videos in the playlist above, but especially <a href="https://youtu.be/NSIEP74ifyg?feature=shared">the first one</a>, as it covers a derivation that we ran out of time for in lecture but is relevant to upcoming discussions, homeworks, and exams.
+        note: Watch all of the videos in the playlist above, but especially <a href="https://youtu.be/NSIEP74ifyg?feature=shared">the first one</a>, as it covers a derivation that we ran out of time for in lecture but is relevant to upcoming discussions, homeworks, and exams.
   - date: "2025-02-18"
     events:
       - name: HW 5
@@ -34,7 +34,9 @@ days:
         reading_text: LDS 15.1-15.3
         reading2: resources/other/40a-note-2.pdf
         reading2_text: UCSD 2.1
-        videos: https://youtu.be/WuQs1r0NQiY
+        videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qQwTM7yz0XwaVOn54ooevNp
+        note: This video playlist is the same as the one linked for Lecture 11.
+        blank_slides: resources/lectures/lec12/lec12-blank.pdf
   - date: "2025-02-20"
     events:
       - name: DIS 7
