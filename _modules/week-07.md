@@ -29,7 +29,7 @@ days:
     events:
       - name: LEC 12
         type: lecture
-        title: Simple Linear Regression
+        title: Loss Functions and Simple Linear Regression
         reading: https://learningds.org/ch/15/linear_intro.html
         reading_text: LDS 15.1-15.3
         reading2: resources/other/40a-note-2.pdf
