@@ -21,7 +21,8 @@ days:
     events:
       - name: HW 6
         type: hw
-        title: Loss Functions and Simple Linear Regression
+        title: <b>GPTEECS and Loss Functions</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw06/hw06.ipynb
   - date: "2025-03-12"
     events:
       - name: LEC 16
