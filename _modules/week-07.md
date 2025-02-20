@@ -37,6 +37,8 @@ days:
         videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qQwTM7yz0XwaVOn54ooevNp
         note: This video playlist is the same as the one linked for Lecture 11.
         blank_slides: resources/lectures/lec12/lec12-blank.pdf
+        filled_slides: resources/lectures/lec12/lec12-filled.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/uVcwV8
   - date: "2025-02-20"
     events:
       - name: DIS 7
