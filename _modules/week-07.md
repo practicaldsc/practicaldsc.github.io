@@ -45,4 +45,5 @@ days:
         type: disc
         title: Loss Functions and Simple Linear Regression
         problems: https://study.practicaldsc.org/disc07/index.html
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc07/disc07.ipynb
 ---
