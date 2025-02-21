@@ -19,7 +19,7 @@ days:
         type: hw
         title: <b>EDA and Web Scraping</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw04/hw04.ipynb
-        solutions: https://edstem.org/us/courses/69737/discussion/6224427
+        solutions: https://edstem.org/us/courses/69737/discussion/6224685
   - date: "2025-02-12"
     events:
       - name: LEC 10
