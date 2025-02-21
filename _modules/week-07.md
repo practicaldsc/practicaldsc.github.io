@@ -22,7 +22,7 @@ days:
         type: hw
         title: <b>APIs and Regular Expressions</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw05/hw05.ipynb
-        solutions: https://edstem.org/us/courses/69737/discussion/6224685
+        solutions: https://edstem.org/us/courses/69737/discussion/6224789
       - name: SUR
         type: survey
         title: <b><a href="https://docs.google.com/forms/d/1h33AuYBz1q5KhKQ6u7J7Ews7UcX9BnqM5-M3qpaJ4cI/preview">Pre-Midterm Survey</a></b>
