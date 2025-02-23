@@ -9,6 +9,7 @@ days:
         title: Exam Review, Day 1 (5-7PM, 1670 BBB and <a href="https://umich.zoom.us/j/95923283134">Zoom</a>)
         problems: https://study.practicaldsc.org/mt-review-sunday/index.html
         note: "We'll be covering the worksheet linked above. This review will be recorded."
+        blank_slides: resources/other/midterm-review-blank.pdf
   - date: "2025-02-24"
     events:
       - name: LEC 13
