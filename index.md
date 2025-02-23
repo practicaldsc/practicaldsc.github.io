@@ -21,11 +21,11 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {% endfor %}
 
 
-<!-- {: .green }
-**Welcome to Practical Data Science in Winter 2025 <span class="wave">👋</span>!** Make sure to read the [**Syllabus**](syllabus), follow the steps in [**Environment Setup**](env-setup), and fill out the [**Welcome Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfwn5kPDKgrHlyypVlp0hl2WyTVifBnQ1OO_g9U56FlrFE6aQ/viewform). -->
+{: .green }
+**The Midterm Exam is on Tuesday, February 25th, from 7-9PM. Read [this post on Ed](https://edstem.org/us/courses/69737/discussion/6233420) for logistical information, including your seat assignment, and come to our review sessions on Sunday from 5-7PM and Monday from 3-4:30PM!**
 
 
-[Jump to Week 7: Introduction to Machine Learning](#week-7-introduction-to-machine-learning){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
+[Jump to Week 8: Midterm Exam](#week-8-midterm-exam){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
 
 {% for module in site.modules %}
 {{ module }}

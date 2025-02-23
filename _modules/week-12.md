@@ -4,7 +4,7 @@ weekNumber: 12
 days:
   - date: "2025-03-24"
     events:
-      - name: LEC 19
+      - name: LEC 18
         type: lecture
         title: Cross-Validation
         # html: resources/lectures/lec19/lec19-filled.html
@@ -20,7 +20,7 @@ days:
         title: Feature Engineering and Pipelines
   - date: "2025-03-26"
     events:
-      - name: LEC 20
+      - name: LEC 19
         type: lecture
         title: Regularization
         # html: resources/lectures/lec21/lec21-filled.html

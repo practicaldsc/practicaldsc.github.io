@@ -4,7 +4,7 @@ weekNumber: 14
 days:
   - date: "2025-04-07"
     events:
-      - name: LEC 23
+      - name: LEC 22
         type: lecture
         title: Logistic Regression
         # html: resources/lectures/lec24/lec24-filled.html
@@ -22,7 +22,7 @@ days:
         title: Gradient Descent, Convexity, and Classification
   - date: "2025-04-09"
     events:
-      - name: LEC 24
+      - name: LEC 23
         type: lecture
         title: Clustering
         # html: resources/lectures/lec26/lec26-filled.html

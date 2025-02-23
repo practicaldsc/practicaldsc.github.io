@@ -4,7 +4,7 @@ weekNumber: 10
 days:
   - date: "2025-03-10"
     events:
-      - name: LEC 15
+      - name: LEC 14
         type: lecture
         title: Regression using Linear Algebra
         # blank_slides: resources/lectures/lec16/lec16-blank.pdf
@@ -25,7 +25,7 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw06/hw06.ipynb
   - date: "2025-03-12"
     events:
-      - name: LEC 16
+      - name: LEC 15
         type: lecture
         title: Multiple Linear Regression
         # html: resources/lectures/lec17/lec17-filled.html

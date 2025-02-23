@@ -4,7 +4,7 @@ weekNumber: 13
 days:
   - date: "2025-03-31"
     events:
-      - name: LEC 21
+      - name: LEC 20
         type: lecture
         title: Gradient Descent
         # html: resources/lectures/lec22/lec22-filled.html
@@ -20,7 +20,7 @@ days:
         title: Cross-Validation and Regularization
   - date: "2025-04-02"
     events:
-      - name: LEC 22
+      - name: LEC 21
         type: lecture
         title: Introduction to Classification
         # html: resources/lectures/lec23/lec23-filled.html

@@ -4,7 +4,7 @@ weekNumber: 16
 days:
   - date: "2025-04-21"
     events:
-      - name: LEC 27
+      - name: LEC 26
         type: lecture
         title: Conclusion
   - date: "2025-04-22"

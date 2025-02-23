@@ -4,7 +4,7 @@ weekNumber: 11
 days:
   - date: "2025-03-17"
     events:
-      - name: LEC 17
+      - name: LEC 16
         type: lecture
         title: Feature Engineering
         # html: resources/lectures/lec18/lec18-filled.html
@@ -23,7 +23,7 @@ days:
         # solutions: https://edstem.org/us/courses/61012/discussion/5729132
   - date: "2025-03-19"
     events:
-      - name: LEC 18
+      - name: LEC 17
         type: lecture
         title: Pipelines, Generalization
         # html: resources/lectures/lec19/lec19-filled.html
