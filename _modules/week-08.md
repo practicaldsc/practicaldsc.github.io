@@ -11,6 +11,7 @@ days:
         note: "We'll be covering the worksheet linked above. This review will be recorded."
         blank_slides: resources/other/midterm-review-blank.pdf
         recording: https://leccap.engin.umich.edu/leccap/player/r/mIcwey
+        annotations: resources/other/EECS 398 Midterm Review Session Annotated.pdf
   - date: "2025-02-24"
     events:
       - name: LEC 13
