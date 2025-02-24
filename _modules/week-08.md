@@ -10,6 +10,7 @@ days:
         problems: https://study.practicaldsc.org/mt-review-sunday/index.html
         note: "We'll be covering the worksheet linked above. This review will be recorded."
         blank_slides: resources/other/midterm-review-blank.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/mIcwey
   - date: "2025-02-24"
     events:
       - name: LEC 13
