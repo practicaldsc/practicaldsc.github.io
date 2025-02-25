@@ -22,7 +22,7 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 
 
 {: .green }
-**The Midterm Exam is on Tuesday, February 25th, from 7-9PM. Read [this post on Ed](https://edstem.org/us/courses/69737/discussion/6233420) for logistical information, including your seat assignment, and come to our review sessions on Sunday from 5-7PM and Monday from 3-4:30PM!**
+**The Midterm Exam is on Tuesday, February 25th, from 7-9PM. Read [this post on Ed](https://edstem.org/us/courses/69737/discussion/6233420) for logistical information, including your seat assignment.**
 
 [Jump to Week 8: Midterm Exam](#week-8-midterm-exam){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
 

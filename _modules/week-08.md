@@ -20,7 +20,7 @@ days:
         problems: https://study.practicaldsc.org/fa24-final/index.html
         note: "Here, we'll cover Questions 1-8 from the <a href='https://study.practicaldsc.org/fa24-final'>Fall 2024 Final</a>. If you plan on coming, attempt the problems in advance, but try not to look at the solutions!"
         blank_slides: resources/lectures/lec13/lec13-blank.pdf
-        # filled_slides:
+        filled_slides: resources/lectures/lec13/lec13-filled.pdf
         recording: https://leccap.engin.umich.edu/leccap/player/r/35QXF9
   - date: "2025-02-25"
     events:
