@@ -18,7 +18,7 @@ days:
         type: lecture
         title: Exam Review, Day 2
         problems: https://study.practicaldsc.org/fa24-final/index.html
-        note: "Here, we'll cover Questions 1-8 from the <a href='https://study.practicaldsc.org/fa24-final'>Fall 2024 Final</a>. If you plan on coming, attempt the problems in advance, but try not to look at the solutions!"
+        note: "See <a href='https://edstem.org/us/courses/69737/discussion/6249234'><b>this post on Ed</b></a> for links to several walkthrough videos from today's office hours."
         blank_slides: resources/lectures/lec13/lec13-blank.pdf
         filled_slides: resources/lectures/lec13/lec13-filled.pdf
         recording: https://leccap.engin.umich.edu/leccap/player/r/35QXF9
