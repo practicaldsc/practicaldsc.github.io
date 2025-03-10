@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Regression using Linear Algebra
         blank_slides: resources/lectures/lec14/lec14-blank.pdf
-        # filled_slides: resources/lectures/lec16/lec16-filled.pdf
+        filled_slides: resources/lectures/lec14/lec14-filled.pdf
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec14/
         html: resources/lectures/lec14/lec14-filled.html 
         reading: https://learningds.org/ch/15/linear_multi_fit.html
@@ -17,6 +17,7 @@ days:
         reading2_text: UCSD 2.2
         guide: ../guides/linear-algebra/projections
         guide_title: Projections
+        recording: https://leccap.engin.umich.edu/leccap/player/r/ShljO9
   - date: "2025-03-11"
     events:
       - name: HW 6

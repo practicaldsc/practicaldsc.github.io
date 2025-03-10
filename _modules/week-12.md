@@ -35,4 +35,9 @@ days:
         type: disc
         title: Cross-Validation and Regularization
         # problems: https://study.practicaldsc.org/disc11/index.html
+  - date: "2025-03-28"
+    events:
+      - name: PROJ
+        type: proj
+        title: Final Project Checkpoint
 ---

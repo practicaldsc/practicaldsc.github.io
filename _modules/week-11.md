@@ -38,10 +38,4 @@ days:
         type: disc
         title: Feature Engineering and Generalization
         # problems: https://study.practicaldsc.org/disc10/index.html
-  - date: "2025-03-21"
-    events:
-      - name: PROJ
-        type: proj
-        title: Final Project Checkpoint
-        note: This deadline will be moved back; details TBD.
 ---
