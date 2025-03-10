@@ -21,7 +21,7 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {% endfor %}
 
 {: .green }
-Welcome Back!
+Welcome back!
 
 [Jump to Week 10: Regression using Linear Algebra](#week-10-regression-using-linear-algebra){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
 
