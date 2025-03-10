@@ -38,5 +38,5 @@ days:
       - name: DIS 8
         type: disc
         title: Multiple Linear Regression
-        # problems: https://study.practicaldsc.org/disc09/index.html
+        problems: https://study.practicaldsc.org/disc08/index.html
 ---
