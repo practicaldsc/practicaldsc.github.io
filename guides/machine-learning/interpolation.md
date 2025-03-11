@@ -1,14 +1,16 @@
 ---
-layout: default
-nav_exclude: true
-title: "🫧 Polynomial Interpolation"
-liquid: false
+layout: page
+title: Polynomial Interpolation
+description: >-
+  A description of polynomial interpolation, and how it relates to linear regression and machine learning.
+parent: 🤖 Machine Learning
+grand_parent: 🧑‍🤝‍🧑 Guides
 ---
 
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
 
-# 🫧 Polynomial Interpolation
+# {{ page.title }}
 {:.no_toc}
 
 ## Table of contents
@@ -17,8 +19,10 @@ liquid: false
 1. TOC
 {:toc}
 
+---
 
-## Definition
+
+## Overview
 
 A **polynomial** is a function that consists solely of terms of the form $$ax^k$$, where $$k$$ is a non-negative integer, and $$a$$ is a real number. As a function, it takes real numbers as an input and returns real numbers as outputs ($$f \colon \mathbb{R} \rightarrow \mathbb{R}$$). More formally, we define an $$n$$th degree polynomial in the following way:
 
@@ -59,7 +63,7 @@ Here, we see the only line that passes through the points $$(1, 4)$$ and $$(3, 1
 
 <div align=center>
 
-<img src="../assets/interpolation/linear.png" width="400">
+<img src="../assets/linear.png" width="400">
 
 </div>
 
@@ -69,7 +73,7 @@ However, there are infinitely many parabolas that pass through these two points.
 
 <div align=center>
 
-<img src="../assets/interpolation/parabolas.png" width="400">
+<img src="../assets/parabolas.png" width="400">
 
 </div>
 
@@ -167,12 +171,12 @@ Since $$p(x)$$ passes through all 5 of our points, and theory tells that $$p(x)$
 
 <div align=center>
 
-<img src="../assets/interpolation/quartic.png" width="400">
+<img src="../assets/quartic.png" width="400">
 
 </div>
 
 <br>
 
-This entire process is known as **Lagrange Interpolation**. It is named after Lagrange, a famous French mathematician. Lagrange Interpolation is still tedious, though not nearly as tedious as the initial approach from the start of this section. You should practice this process on your own; create your own polynomial of degree $$n \leq 5$$, pick $$n+1$$ points on it, and see if you can correctly reconstruct your polynomial.
+This entire process is known as **Lagrange Interpolation**. It is named after Joseph-Louis Lagrange, a famous French mathematician. (The name may sound familiar – he's also the namesake of Lagrange multipliers, which you may have heard of if you've taken Calculus 3.) Lagrange Interpolation is still tedious, though not nearly as tedious as the initial approach from the start of this section. You should practice this process on your own; create your own polynomial of degree $$n \leq 5$$, pick $$n+1$$ points on it, and see if you can correctly reconstruct your polynomial.
 
-It should be noted though, that mastering the arithmetic, while important, isn't the main goal of learning this material. This material is presented so that you can add it to your mathematical toolbox.
+It should be noted though, that mastering the arithmetic, while important, isn't the main goal of learning this material. This material is presented so that you can add it to your mathematical toolbox, and use it to make connections to other ideas in class.
