@@ -17,8 +17,8 @@ days:
     events:
       - name: HW 7
         type: hw
-        title: Multiple Linear Regression
-        # github: https://github.com/practicaldsc/fa24/blob/main/homeworks/hw09/hw09.ipynb
+        title: <b>Multiple Linear Regression</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw07/hw07.ipynb
         # note: Note the later deadline!
         # solutions: https://edstem.org/us/courses/61012/discussion/5729132
   - date: "2025-03-19"
