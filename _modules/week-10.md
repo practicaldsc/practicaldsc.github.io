@@ -29,11 +29,12 @@ days:
       - name: LEC 15
         type: lecture
         title: Multiple Linear Regression
-        # html: resources/lectures/lec17/lec17-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec17/
+        html: resources/lectures/lec15/lec15-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec15/
+        reading: https://learningds.org/ch/15/linear_multi_fit.html
         # annotations: resources/lectures/lec17/lec17-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/WhzPW8
-        note: Guest lecture by Nishant Kheterpal; Suraj is in California supporting his <a href="https://dsc-capstone.org/showcase-25/">former UCSD students</a>.
+        note: Guest lecture by Nishant Kheterpal; Suraj is in California supporting his <a href="https://dsc-capstone.org/showcase-25/">former UCSD students</a> (but has OH today/tomorrow).
   - date: "2025-03-13"
     events:
       - name: DIS 8
