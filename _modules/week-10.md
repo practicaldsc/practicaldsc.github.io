@@ -33,6 +33,7 @@ days:
         # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec17/
         # annotations: resources/lectures/lec17/lec17-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/WhzPW8
+        note: Guest lecture by Nishant Kheterpal; Suraj is in California supporting his <a href="https://dsc-capstone.org/showcase-25/">former UCSD students</a>.
   - date: "2025-03-13"
     events:
       - name: DIS 8
