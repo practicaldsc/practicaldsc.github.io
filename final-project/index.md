@@ -95,12 +95,17 @@ Before choosing a dataset, read the rest of this page to see what's required of 
 
 ### Choosing Your Own Dataset
 
-You may not be interested in any of the above datasets, or may already be doing research/other work involving a dataset that is of particular interest to you. If that's the case, you _may_ be permitted to use a different dataset. **To request approval**, send Suraj (rampure@umich.edu) an email with the following:
+You may not be interested in any of the above datasets, or may already be doing research/other work involving a dataset that is of particular interest to you. If that's the case, you _may_ be permitted to use a different dataset. You can take a look at our [resources](https://practicaldsc.org/resources/#finding-datasets) for finding datasets if there’s another topic you’re interested in. **To request approval**, send Suraj (rampure@umich.edu) an email with answers to the following questions:
 
-1. A one paragraph description of why you’ve chosen this dataset and your plans for analysis. Comment on what draws you to this dataset over the default options, what preliminary questions you plan to answer, and what features you plan to use in a predictive model. Part of our filtering is making sure that your plans are sufficiently scoped for the project – that is, your proposal is neither too easy nor too difficult – so the more details, the better.
-1. Proof that you already have access to the data you want to work with. Ideally, attach a link to the data source or the file so that we can see it ourselves and verify that your plans are possible.
+1. Why do you want to work with this dataset over the default options?
+2. What preliminary research questions do you plan to address with this dataset?
+3. Which features in the dataset do you consider key to your initial analysis and why?
+4. What feature do you plan to predict, and what features do you anticipate using in your predictive model?
+5. What is the size of the dataset (number of observations and features)?
+6. Is there missing data? If so, how do you plan on handling it?
+7. Please provide a link / attach the dataset.
 
-**The deadline to request approval to use a different dataset is the same as the deadline of the checkpoint, March 28th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After March 28th, if you haven't requested approval, you **must** choose one of the default three options.
+**The deadline to request approval to use a different dataset is before the deadline for the checkpoint. You must email Suraj by Wednesday, March 26th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After **March 26th**, if you haven't requested approval, you **must** choose one of the default three options.
 
 Below is an example of a custom dataset Final Project from last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/). Again, use these projects as inspiration when designing your own analysis with a custom dataset:
 
@@ -112,7 +117,7 @@ Below is an example of a custom dataset Final Project from last semester's (FA24
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the course GitHub repo, [github.com/practicaldsc/fa24](https://github.com/practicaldsc/fa24). Within the `homeworks/portfolio` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/practicaldsc/fa24/blob/main/homeworks/portfolio/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the course GitHub repo, [github.com/practicaldsc/WN25](https://github.com/practicaldsc/wn25). Within the `homeworks/final-project` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/practicaldsc/fa24/blob/main/homeworks/portfolio/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Download the [dataset](#choosing-a-dataset) you chose and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
