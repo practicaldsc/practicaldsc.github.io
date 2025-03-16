@@ -49,10 +49,13 @@ The project is worth a total of 100 points. You can see the distribution of poin
 
 ## Table of Contents
 
-{: .no_toc .text-delta }
+<!-- {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+   {:toc} -->
+
+{:text-delta}
+{:toc}
 
 ---
 
