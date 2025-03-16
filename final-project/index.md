@@ -289,27 +289,57 @@ The above instructions give you all you need to create and make updates to your 
 
 Using RubyInstaller for Windows:
 
-1. Install Ruby and Devkit:
-   - Download a Ruby+Devkit version (RubyInstaller-2.4 or newer) from the [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). Use default installation options. Use the Ruby+Devkit 3.3.X (x64) installer if you are unsure which to use; it's the bolded option starting with **=>**.
+1. **Install Ruby and Devkit:**
+   - Download a Ruby+Devkit version (RubyInstaller-2.4 or newer) from the [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). If you're not sure which version to choose, use the Ruby+Devkit 3.3.X (x64) installer—the bolded option starting with **=>**.
+   - Use the default installation options.
    - In the final step of the installer, run the `ridk install` command and choose the "MSYS2 and MINGW development toolchain" option. This is necessary for building native extensions when installing gems.
-1. Set Up Your Environment:
+1. **Set Up Your Environment:**
    - Open a new Command Prompt window (this ensures your udpated PATH is active).
-1. Install Jekyll and Bundler:
+1. **Install Jekyll and Bundler:**
    - Run the following command to install Jekyll and Bundler:
+   ```bash
+   gem install jekyll bundler
+   ```
+   - Verify the installation with:
+   ```bash
+   jekyll -v
+   ```
+   - If an error occurs, reboot your system and try again.
+   - If you want to use Windows Subsystem for Linux (WSL), please consult [Installation via Bash on Windows 10](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10).
 
-```
-gem install jekyll bundler
-```
+#### macOS
 
-- Verify the installation with:
-
-```
-jekyll -v
-```
-
-If an error occurs, reboot your system and try again.
-
-### macOS
+1. **Install Homebrew:**
+   - Open Terminal and run:
+   ```bash
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+1. **Install a Ruby Version Manager:**
+   - Install **chruby** and **ruby-install** using Homebrew:
+   ```bash
+     brew install chruby ruby-install
+   ```
+1. **Install a Newer Ruby Version:**
+   - Install the latest stable version of Ruby (e.g., 3.4.1) with:
+     ```bash
+     ruby-install ruby 3.4.1
+     ```
+   - Configure your shell by adding these lines to your configuration file (e.g., `~/.zshrc` for Zsh or `~/.bash_profile` for Bash):
+     ```bash
+     source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh
+     source $(brew --prefix)/opt/chruby/share/chruby/auto.sh
+     echo "chruby ruby-3.4.1" >> ~/.zshrc
+     ```
+   - Quit and relaunch Terminal, then verify by running:
+     ```bash
+     ruby -v
+     ```
+     It should display Ruby 3.4.1 (or a newer version).
+1. **Install Jekyll and Bundler:**
+   - With the new Ruby version active, run:
+     ```bash
+     gem install jekyll bundler
+     ```
 
 {: .red }
 
@@ -325,7 +355,7 @@ gem "github-pages", group: :jekyll_plugins
 ```
 
 > 1. Run `bundle install` and then `bundle exec jekyll serve`.
->    If, after that, you still can't render your site locally, let us know what error `bundle exec jekyll serve` throws for you and we'll try and troubleshoot!
+>    If, after that, you still can't render your site locally, let us know what error `bundle exec jekyll serve` throws for you and we'll try and troubleshoot! Or, checkout [Troublshooting](https://jekyllrb.com/docs/troubleshooting/) to see if your questions have already been answered.
 
 ---
 
