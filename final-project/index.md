@@ -77,10 +77,18 @@ The dataset description pages linked above each have three sections:
 
 When selecting which dataset you are going to use for your project, try choosing the one whose topic appeals to you the most as that will make finishing the project a lot more enjoyable.
 
-To help contextualize the kinds of analysis you can do in this project, it might help to look at these examples from a related course taught at UC San Diego. These examples offer insights into crafting effective research questions, but bear in mind that they have their own strengths and weaknesses. Treat them as a foundation for inspiration, but **don't** just repeat or copy their work – be original! Also note that the UC San Diego version of this assignment had slightly more requirements, so you'll see sections involving (for example) hypothesis tests that you aren't expected to have.
+To help contextualize the kinds of analysis you can do in this project, it might help to look at these examples from a last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/), which were formerly known as the "Portfolio Homework." These examples offer insights into crafting effective research questions, but bear in mind that they have their own strengths and weaknesses. Treat them as a foundation for inspiration, but **don't** just repeat or copy their work - be original!
+
+1. [What Causes Sever Outages?](https://andregalagarza.github.io/power-outage-analysis/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
+
+2. [Cooking Time, Calories, and Ratings: The Secret Ingredients of Recipe Success](https://jpswag.github.io/recipes-and-ratings/): This project clearly outlines how to address data quality challenges. In your own project, ensure that you document your data cleaning process and provide clear justifications for your decisions.
+
+3. [How big is League of Lengends snowball effect?](https://naouyang.github.io/2022-league-of-legends-analysis/): This project excelled in clarifying their research aims, making the study understandable to a broader audience. In your own project, ensure that you provide a lucid and detailed explanation of your research focus.
+
+<!-- To help contextualize the kinds of analysis you can do in this project, it might help to look at these examples from a related course taught at UC San Diego. These examples offer insights into crafting effective research questions, but bear in mind that they have their own strengths and weaknesses. Treat them as a foundation for inspiration, but **don't** just repeat or copy their work – be original! Also note that the UC San Diego version of this assignment had slightly more requirements, so you'll see sections involving (for example) hypothesis tests that you aren't expected to have.
 
 1. [League of Legends First Blood Statistical Analysis](https://krystalqjx.github.io/LOL-analysis/): This homework excelled in clarifying their research aims, making the study understandable to a broader audience. In your own project, ensure that you provide a lucid and detailed explanation of your research focus.
-2. [Analyzing Power Outages](https://nghosh24.github.io/power-outages/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
+2. [Analyzing Power Outages](https://nghosh24.github.io/power-outages/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data. -->
 
 {: .green }
 Before choosing a dataset, read the rest of this page to see what's required of you!
@@ -92,7 +100,11 @@ You may not be interested in any of the above datasets, or may already be doing 
 1. A one paragraph description of why you’ve chosen this dataset and your plans for analysis. Comment on what draws you to this dataset over the default options, what preliminary questions you plan to answer, and what features you plan to use in a predictive model. Part of our filtering is making sure that your plans are sufficiently scoped for the project – that is, your proposal is neither too easy nor too difficult – so the more details, the better.
 1. Proof that you already have access to the data you want to work with. Ideally, attach a link to the data source or the file so that we can see it ourselves and verify that your plans are possible.
 
-**The deadline to request approval to use a different dataset is the same as the deadline of the checkpoint, November 25th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After November 25th, if you haven't requested approval, you **must** choose one of the default three options.
+**The deadline to request approval to use a different dataset is the same as the deadline of the checkpoint, March 28th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After March 28th, if you haven't requested approval, you **must** choose one of the default three options.
+
+Below are some custom dataset project from last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/). Again, use these projects as inspiration when designing your own analysis with a custom dataset:
+
+1. [Trip Times and Trends](https://dgraham6.github.io/Taxi-EDA/): This project effectivelycreates new, insightful features that capture underlying patterns. In your own project, think creatively to derive features that add predictive value where applicable.
 
 ---
 
