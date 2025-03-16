@@ -291,16 +291,16 @@ Using RubyInstaller for Windows:
 
 1. Install Ruby and Devkit:
 
-- Download a Ruby+Devkit version (RubyInstaller-2.4 or newer) from the [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). Use default installation options. Use the Ruby+Devkit 3.3.X (x64) installer if you are unsure which to use; it's the bolded option starting with **=>**.
-- In the final step of the installer, run the `ridk install` command and choose the "MSYS2 and MINGW development toolchain" option. This is necessary for building native extensions when installing gems.
+   - Download a Ruby+Devkit version (RubyInstaller-2.4 or newer) from the [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). Use default installation options. Use the Ruby+Devkit 3.3.X (x64) installer if you are unsure which to use; it's the bolded option starting with **=>**.
+   - In the final step of the installer, run the `ridk install` command and choose the "MSYS2 and MINGW development toolchain" option. This is necessary for building native extensions when installing gems.
 
-2. Set Up Your Environment:
+1. Set Up Your Environment:
 
-- Open a new Command Prompt window (this ensures your udpated PATH is active).
+   - Open a new Command Prompt window (this ensures your udpated PATH is active).
 
-3. Install Jekyll and Bundler:
+1. Install Jekyll and Bundler:
 
-- Run the following command to install Jekyll and Bundler:
+   - Run the following command to install Jekyll and Bundler:
 
 ```
 gem install jekyll bundler
