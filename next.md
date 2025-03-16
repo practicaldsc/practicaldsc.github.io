@@ -2,8 +2,8 @@
 layout: minimal
 title: "EECS 398 Spring 2025 Information"
 description: "Information about EECS 398: Practical Data Science in Spring 2025."
-nav_order: 3
-# nav_exclude: true
+# nav_order: 3
+nav_exclude: true
 ---
 
 # Practical Data Science 🛠️
