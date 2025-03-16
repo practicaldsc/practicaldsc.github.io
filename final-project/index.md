@@ -77,22 +77,39 @@ The dataset description pages linked above each have three sections:
 
 When selecting which dataset you are going to use for your project, try choosing the one whose topic appeals to you the most as that will make finishing the project a lot more enjoyable.
 
-To help contextualize the kinds of analysis you can do in this project, it might help to look at these examples from a related course taught at UC San Diego. These examples offer insights into crafting effective research questions, but bear in mind that they have their own strengths and weaknesses. Treat them as a foundation for inspiration, but **don't** just repeat or copy their work – be original! Also note that the UC San Diego version of this assignment had slightly more requirements, so you'll see sections involving (for example) hypothesis tests that you aren't expected to have.
+To help contextualize the kinds of analysis you can do in this project, it might help to look at these examples from a last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/), which were formerly known as the "Portfolio Homework." These examples offer insights into crafting effective research questions, but bear in mind that they have their own strengths and weaknesses. Treat them as a foundation for inspiration, but **don't** just repeat or copy their work - be original!
+
+1. [What Causes Severe Outages?](https://andregalagarza.github.io/power-outage-analysis/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
+
+2. [Cooking Time, Calories, and Ratings: The Secret Ingredients of Recipe Success](https://jpswag.github.io/recipes-and-ratings/): This project clearly outlines how to address data quality challenges. In your own project, ensure that you document your data cleaning process and provide clear justifications for your decisions.
+
+3. [How big is League of Lengends snowball effect?](https://naouyang.github.io/2022-league-of-legends-analysis/): This project excelled in clarifying their research aims, making the study understandable to a broader audience. In your own project, ensure that you provide a lucid and detailed explanation of your research focus.
+
+<!-- To help contextualize the kinds of analysis you can do in this project, it might help to look at these examples from a related course taught at UC San Diego. These examples offer insights into crafting effective research questions, but bear in mind that they have their own strengths and weaknesses. Treat them as a foundation for inspiration, but **don't** just repeat or copy their work – be original! Also note that the UC San Diego version of this assignment had slightly more requirements, so you'll see sections involving (for example) hypothesis tests that you aren't expected to have.
 
 1. [League of Legends First Blood Statistical Analysis](https://krystalqjx.github.io/LOL-analysis/): This homework excelled in clarifying their research aims, making the study understandable to a broader audience. In your own project, ensure that you provide a lucid and detailed explanation of your research focus.
-2. [Analyzing Power Outages](https://nghosh24.github.io/power-outages/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
+2. [Analyzing Power Outages](https://nghosh24.github.io/power-outages/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data. -->
 
 {: .green }
 Before choosing a dataset, read the rest of this page to see what's required of you!
 
 ### Choosing Your Own Dataset
 
-You may not be interested in any of the above datasets, or may already be doing research/other work involving a dataset that is of particular interest to you. If that's the case, you _may_ be permitted to use a different dataset. **To request approval**, send Suraj (rampure@umich.edu) an email with the following:
+You may not be interested in any of the above datasets, or may already be doing research/other work involving a dataset that is of particular interest to you. If that's the case, you _may_ be permitted to use a different dataset. You can take a look at our [resources](https://practicaldsc.org/resources/#finding-datasets) for finding datasets if there’s another topic you’re interested in. **To request approval**, send Suraj (rampure@umich.edu) an email with answers to the following questions:
 
-1. A one paragraph description of why you’ve chosen this dataset and your plans for analysis. Comment on what draws you to this dataset over the default options, what preliminary questions you plan to answer, and what features you plan to use in a predictive model. Part of our filtering is making sure that your plans are sufficiently scoped for the project – that is, your proposal is neither too easy nor too difficult – so the more details, the better.
-1. Proof that you already have access to the data you want to work with. Ideally, attach a link to the data source or the file so that we can see it ourselves and verify that your plans are possible.
+1. Why do you want to work with this dataset over the default options?
+2. What preliminary research questions do you plan to address with this dataset?
+3. Which features in the dataset do you consider key to your initial analysis and why?
+4. What feature do you plan to predict, and what features do you anticipate using in your predictive model?
+5. What is the size of the dataset (number of observations and features)?
+6. Is there missing data? If so, how do you plan on handling it?
+7. Please provide a link / attach the dataset.
 
-**The deadline to request approval to use a different dataset is the same as the deadline of the checkpoint, November 25th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After November 25th, if you haven't requested approval, you **must** choose one of the default three options.
+**The deadline to request approval to use a different dataset is before the deadline for the checkpoint. You must email Suraj by Wednesday, March 26th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After **March 26th**, if you haven't requested approval, you **must** choose one of the default three options.
+
+Below is an example of a custom dataset Final Project from last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/). Again, use these projects as inspiration when designing your own analysis with a custom dataset:
+
+1. [Trip Times and Trends](https://dgraham6.github.io/Taxi-EDA/): This project effectively creates new, insightful features that capture underlying patterns. In your own project, think creatively to derive features that add predictive value where applicable.
 
 ---
 
@@ -100,7 +117,7 @@ You may not be interested in any of the above datasets, or may already be doing 
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the course GitHub repo, [github.com/practicaldsc/fa24](https://github.com/practicaldsc/fa24). Within the `homeworks/portfolio` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/practicaldsc/fa24/blob/main/homeworks/portfolio/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the course GitHub repo, [github.com/practicaldsc/wn25](https://github.com/practicaldsc/wn25). Within the `homeworks/final-project` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/practicaldsc/wn25/blob/main/homeworks/final-project/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Download the [dataset](#choosing-a-dataset) you chose and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -164,6 +181,10 @@ While your website will be neatly organized and tailored for public consumption,
 
 ## Part 2: Report
 
+Your website is the public-facing component of your Final Project. While GitHub Pages (specifically [Jekyll](https://jekyllrb.com), a framework built into GitHub Pages that allows you to create professional-looking websites just by writing Markdown is the easiest and free option for hosting a static website, you are not limited to this approach. In fact, [practicaldsc.org](https://practicaldsc.org) is built using Jekyll!. GitHub Pages does the "hard" part of converting your Markdown to HTML.), a framework built into GitHub Pages
+
+If you wish to build a dynamic website, consider frameworks like Streamlit or Marimo. Dynamic websites allow you to incorporate interactive elements and real-time data updates. However, for simplicity and ease of maintenance, many students choose GitHub Pages. Ultimately, you can host your website however you want—as long as your final submission includes a link that is publicly accessible.
+
 The purpose of your website is to provide the general public – your classmates, friends, family, recruiters, and random internet strangers – with an overview of your project and its findings, without forcing them to understand every last detail. We don't expect the website creation process to take very much time, but it will certainly be rewarding. Once you've completed your analysis and know _what_ you will put in your website, start reading this section.
 
 Your website must clearly contain the following five headings, corresponding to the five steps mentioned in [Part 1](#part-1-analysis):
@@ -178,7 +199,7 @@ Your website must clearly contain the following five headings, corresponding to 
 
 The specific content your website needs to contain is described in the "Report on Website" columns above. **Make sure to also give your website a creative title that relates to the question you're trying to answer, and clearly state your name(s) and email(s).**
 
-Your report will be in the form of a _static_ website, hosted for free on GitHub Pages. More specifically, you'll use [Jekyll](https://jekyllrb.com), a framework built into GitHub Pages that allows you to create professional-looking websites just by writing Markdown ([practicaldsc.org](https://practicaldsc.org) is built using Jekyll!). GitHub Pages does the "hard" part of converting your Markdown to HTML.
+<!-- Your report will be in the form of a _static_ website, hosted for free on GitHub Pages. More specifically, you'll use [Jekyll](https://jekyllrb.com), a framework built into GitHub Pages that allows you to create professional-looking websites just by writing Markdown ([practicaldsc.org](https://practicaldsc.org) is built using Jekyll!). GitHub Pages does the "hard" part of converting your Markdown to HTML. -->
 
 If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) tutorial, you're welcome to, though we will provide you with a perhaps simpler set of instructions here. A very basic site with an embedded visualization can be found at [rampure.org/dsc80-proj3-test1/](http://rampure.org/dsc80-proj3-test1/); the source code for the site is [here](https://github.com/surajrampure/dsc80-proj3-test1). Note that this example site doesn't have the same headings that you're required to have.
 
@@ -186,7 +207,7 @@ If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github
 
 1. Create a GitHub account, if you don't already have one.
 1. Create a new GitHub repository for your project. Give it a descriptive name, like `league-of-legends-analysis`, not `eecs398-portfolio-hw`.
-   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/practicaldsc.org/fa24](https://github.com/practicaldsc/fa24) is [practicaldsc.github.io/fa24](https://practicaldsc.github.io/fa24), which we redirect to from [practicaldsc.org](https://practicaldsc.org)).
+   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/practicaldsc.org/wn25](https://github.com/practicaldsc/wn25) is [practicaldsc.github.io/wn25](https://practicaldsc.github.io/wn25), which we redirect to from [practicaldsc.org](https://practicaldsc.org)).
    - As such, **don't** include "EECS 398" or "Final Project" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for EECS 398 at U-M in the repository description.
    - **Make sure to make your repository public.**
    - Select "ADD a README file." This ensures that your repository starts off non-empty, which is necessary to continue.
@@ -268,6 +289,85 @@ displays a string, containing the Markdown representation of the first 5 rows of
 
 The above instructions give you all you need to create and make updates to your site. However, you _may_ want to set up Jekyll locally, so that you can look at how changes to your site would look without having to push and wait for GitHub to re-build your site. To do so, follow the steps [here](https://jekyllrb.com/docs/installation/) and then [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
+### Windows
+
+Using RubyInstaller for Windows:
+
+1. **Install Ruby and Devkit:**
+   - Download a Ruby+Devkit version (RubyInstaller-2.4 or newer) from the [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). If you're not sure which version to choose, use the Ruby+Devkit 3.3.X (x64) installer—the bolded option starting with **=>**.
+   - Use the default installation options.
+   - In the final step of the installer, run the `ridk install` command and choose the "MSYS2 and MINGW development toolchain" option. This is necessary for building native extensions when installing gems.
+1. **Set Up Your Environment:**
+   - Open a new Command Prompt window (this ensures your udpated PATH is active).
+1. **Install Jekyll and Bundler:**
+   - Run the following command to install Jekyll and Bundler:
+   ```bash
+   gem install jekyll bundler
+   ```
+   - Verify the installation with:
+   ```bash
+   jekyll -v
+   ```
+   - If an error occurs, reboot your system and try again.
+   - If you want to use Windows Subsystem for Linux (WSL), please consult [Installation via Bash on Windows 10](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10).
+
+#### macOS
+
+1. **Install Homebrew:**
+   - Open Terminal and run:
+   ```bash
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+1. **Install a Ruby Version Manager:**
+   - Install **chruby** and **ruby-install** using Homebrew:
+   ```bash
+     brew install chruby ruby-install
+   ```
+1. **Install a Newer Ruby Version:**
+   - Install the latest stable version of Ruby (e.g., 3.4.1) with:
+     ```bash
+     ruby-install ruby 3.4.1
+     ```
+   - Configure your shell by adding these lines to your configuration file (e.g., `~/.zshrc` for Zsh or `~/.bash_profile` for Bash):
+     ```bash
+     source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh
+     source $(brew --prefix)/opt/chruby/share/chruby/auto.sh
+     echo "chruby ruby-3.4.1" >> ~/.zshrc
+     ```
+   - Quit and relaunch Terminal, then verify by running:
+     ```bash
+     ruby -v
+     ```
+     It should display Ruby 3.4.1 (or a newer version).
+1. **Install Jekyll and Bundler:**
+   - With the new Ruby version active, run:
+     ```bash
+     gem install jekyll bundler
+     ```
+
+#### [Building your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally)
+
+1. **Open Git Bash** (your terminal with Git installed).
+1. **Navigate to Your Site's Publishing source:**
+   - `cd` into your root folder where your Jekyll files (including `_config.yml`) are located.
+1. **Install Dependencies with Bundler:**
+   - Make sure you have a `GemFile` in your site's root directory that lists all required gems (like Jekyll and any plugins).
+   - Run the following command to install all dependencies:
+   ```
+   bundle install
+   ```
+   - This command reads your `Gemfile` and installs the necessary Ruby gems.
+1. **Serve Your Jekyll Site Locally:**
+   - To build your site and start a local web server, run:
+   ```
+   bundle exec jekyll serve
+   ```
+   - This command performs several tasks:
+     - Reads your `_config.yml` file.
+     - Builds your site into the `_site` directory.
+     - Starts a local server (usually at `http://127.0.0.1:4000/`) with auto-regeneration enabled, so your site rebuilds when you make changes.
+   - Open your web browser and go to `http://localhost:4000` to preview your site.
+
 {: .red }
 
 > If, after running the above steps, running `bundle exec jekyll serve` in your local website repository doesn't work, then follow these steps.
@@ -282,7 +382,7 @@ gem "github-pages", group: :jekyll_plugins
 ```
 
 > 1. Run `bundle install` and then `bundle exec jekyll serve`.
->    If, after that, you still can't render your site locally, let us know what error `bundle exec jekyll serve` throws for you and we'll try and troubleshoot!
+>    If, after that, you still can't render your site locally, let us know what error `bundle exec jekyll serve` throws for you and we'll try and troubleshoot! Or, checkout [Troublshooting](https://jekyllrb.com/docs/troubleshooting/) to see if your questions have already been answered.
 
 ---
 
