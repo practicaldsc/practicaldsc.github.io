@@ -285,7 +285,7 @@ displays a string, containing the Markdown representation of the first 5 rows of
 
 The above instructions give you all you need to create and make updates to your site. However, you _may_ want to set up Jekyll locally, so that you can look at how changes to your site would look without having to push and wait for GitHub to re-build your site. To do so, follow the steps [here](https://jekyllrb.com/docs/installation/) and then [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
-#### Windows
+### Windows
 
 Using RubyInstaller for Windows:
 
@@ -314,7 +314,7 @@ jekyll -v
 
 If an error occurs, reboot your system and try again.
 
-#### macOS
+### macOS
 
 {: .red }
 
