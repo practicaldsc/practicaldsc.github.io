@@ -15,10 +15,10 @@ nav_exclude: true
 
 {:.no_toc}
 
-- [Checkpoint](#checkpoint-submission) due **Friday, March 28th at 11:59PM**
+- [Checkpoint](#checkpoint-submission) due **Friday, March 28th at 11:59PM** (slip days allowed!)
 - Final Submission due **Tuesday, April 22nd at 11:59PM** (no slip days allowed!)
 
-_last updated March 13 at 12:14PM_
+_last updated March 16 at 2:03PM_
 
 ---
 
