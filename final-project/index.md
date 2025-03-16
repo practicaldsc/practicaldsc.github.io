@@ -105,7 +105,7 @@ You may not be interested in any of the above datasets, or may already be doing 
 6. Is there missing data? If so, how do you plan on handling it?
 7. Please provide a link / attach the dataset.
 
-**The deadline to request approval to use a different dataset is before the deadline for the checkpoint. You must email Suraj by Wednesday, March 28th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After **March 28th**, if you haven't requested approval, you **must** choose one of the default three options.
+**The deadline to request approval to use a different dataset is before the deadline for the checkpoint. You must email Suraj by Wednesday, March 26th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After **March 26th**, if you haven't requested approval, you **must** choose one of the default three options.
 
 Below is an example of a custom dataset Final Project from last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/). Again, use these projects as inspiration when designing your own analysis with a custom dataset:
 
@@ -117,7 +117,7 @@ Below is an example of a custom dataset Final Project from last semester's (FA24
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the course GitHub repo, [github.com/practicaldsc/WN25](https://github.com/practicaldsc/wn25). Within the `homeworks/final-project` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/practicaldsc/fa24/blob/main/homeworks/portfolio/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the course GitHub repo, [github.com/practicaldsc/wn25](https://github.com/practicaldsc/wn25). Within the `homeworks/final-project` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/practicaldsc/wn25/blob/main/homeworks/final-project/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Download the [dataset](#choosing-a-dataset) you chose and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
