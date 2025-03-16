@@ -181,6 +181,10 @@ While your website will be neatly organized and tailored for public consumption,
 
 ## Part 2: Report
 
+Your website is the public-facing component of your Final Project. While GitHub Pages (specifically [Jekyll](https://jekyllrb.com), a framework built into GitHub Pages that allows you to create professional-looking websites just by writing Markdown is the easiest and free option for hosting a static website, you are not limited to this approach. In fact, [practicaldsc.org](https://practicaldsc.org) is built using Jekyll!. GitHub Pages does the "hard" part of converting your Markdown to HTML.), a framework built into GitHub Pages
+
+If you wish to build a dynamic website, consider frameworks like Streamlit or Marimo. Dynamic websites allow you to incorporate interactive elements and real-time data updates. However, for simplicity and ease of maintenance, many students choose GitHub Pages. Ultimately, you can host your website however you want—as long as your final submission includes a link that is publicly accessible.
+
 The purpose of your website is to provide the general public – your classmates, friends, family, recruiters, and random internet strangers – with an overview of your project and its findings, without forcing them to understand every last detail. We don't expect the website creation process to take very much time, but it will certainly be rewarding. Once you've completed your analysis and know _what_ you will put in your website, start reading this section.
 
 Your website must clearly contain the following five headings, corresponding to the five steps mentioned in [Part 1](#part-1-analysis):
@@ -195,7 +199,7 @@ Your website must clearly contain the following five headings, corresponding to 
 
 The specific content your website needs to contain is described in the "Report on Website" columns above. **Make sure to also give your website a creative title that relates to the question you're trying to answer, and clearly state your name(s) and email(s).**
 
-Your report will be in the form of a _static_ website, hosted for free on GitHub Pages. More specifically, you'll use [Jekyll](https://jekyllrb.com), a framework built into GitHub Pages that allows you to create professional-looking websites just by writing Markdown ([practicaldsc.org](https://practicaldsc.org) is built using Jekyll!). GitHub Pages does the "hard" part of converting your Markdown to HTML.
+<!-- Your report will be in the form of a _static_ website, hosted for free on GitHub Pages. More specifically, you'll use [Jekyll](https://jekyllrb.com), a framework built into GitHub Pages that allows you to create professional-looking websites just by writing Markdown ([practicaldsc.org](https://practicaldsc.org) is built using Jekyll!). GitHub Pages does the "hard" part of converting your Markdown to HTML. -->
 
 If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) tutorial, you're welcome to, though we will provide you with a perhaps simpler set of instructions here. A very basic site with an embedded visualization can be found at [rampure.org/dsc80-proj3-test1/](http://rampure.org/dsc80-proj3-test1/); the source code for the site is [here](https://github.com/surajrampure/dsc80-proj3-test1). Note that this example site doesn't have the same headings that you're required to have.
 
@@ -203,7 +207,7 @@ If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github
 
 1. Create a GitHub account, if you don't already have one.
 1. Create a new GitHub repository for your project. Give it a descriptive name, like `league-of-legends-analysis`, not `eecs398-portfolio-hw`.
-   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/practicaldsc.org/fa24](https://github.com/practicaldsc/fa24) is [practicaldsc.github.io/fa24](https://practicaldsc.github.io/fa24), which we redirect to from [practicaldsc.org](https://practicaldsc.org)).
+   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/practicaldsc.org/wn25](https://github.com/practicaldsc/wn25) is [practicaldsc.github.io/wn25](https://practicaldsc.github.io/wn25), which we redirect to from [practicaldsc.org](https://practicaldsc.org)).
    - As such, **don't** include "EECS 398" or "Final Project" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for EECS 398 at U-M in the repository description.
    - **Make sure to make your repository public.**
    - Select "ADD a README file." This ensures that your repository starts off non-empty, which is necessary to continue.
@@ -345,7 +349,7 @@ Using RubyInstaller for Windows:
 
 1. **Open Git Bash** (your terminal with Git installed).
 1. **Navigate to Your Site's Publishing source:**
-   - cd into your root folder where your Jekyll files (including `_config.yml`) are located.
+   - `cd` into your root folder where your Jekyll files (including `_config.yml`) are located.
 1. **Install Dependencies with Bundler:**
    - Make sure you have a `GemFile` in your site's root directory that lists all required gems (like Jekyll and any plugins).
    - Run the following command to install all dependencies:
