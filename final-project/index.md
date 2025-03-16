@@ -29,8 +29,8 @@ This project is a mini-homework of sorts, and aims to be a culmination of everyt
 The Final Project is worth 100 points total; the breakdown is described in the [Rubric](#rubric) section at the bottom of this page. The Final Project is different from other homeworks in a few crucial ways:
 
 - You **can work with one partner** (but don't have to). If you choose to work with a partner, read the [Partner Guidelines](#partner-guidelines) section at the bottom.
-- There is a **checkpoint**, due right before Thanksgiving, worth 15 points out of the 100 points the project is scored out of. It exists to make sure you've picked a dataset and started some preliminary work. See the [Checkpoint Submission](#checkpoint-submission) section for more details and for the Gradescope submission link.
-- You **cannot use slip days** on either the checkpoint or the final submission, since they're due so close to the end of the semester that we need all the time we can get to grade them. All components of the project are **manually graded**.
+- There is a **checkpoint**, due March 28, 2025, worth 15 points out of the 100 points the project is scored out of. It exists to make sure you've picked a dataset and started some preliminary work. See the [Checkpoint Submission](#checkpoint-submission) section for more details and for the Gradescope submission link.
+- You can use slip days on the checkpoint; however, you **cannot use slip days** on the final submission, since it's due so close to the end of the semester that we need all the time we can get to grade them. All components of the project are **manually graded**.
 - You **cannot drop** the Final Project – it will be a part of your overall project grade no matter what. Your lowest score among Homeworks 1-11 will be the one that is dropped.
 - As your final deliverables, you'll submit two things to us:
   - a **public-facing website**. We'll eventually create a public "showcase" site that has links to everyone's submissions – **that is, your website will be available to the entire internet!**
