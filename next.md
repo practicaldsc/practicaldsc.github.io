@@ -19,12 +19,12 @@ EECS 398, Spring 2025 at the <b><span style="background-color: #FFCB05; color: #
 
 ## Content
 
-See the [Winter 2025 course website](https://practicaldsc.org) for details. The Spring offering will closely follow the Winter offering, wtih modifications made to better suit the smaller class size and faster pace.
+See the [Winter 2025 course website](https://practicaldsc.org) for details. The Spring offering will closely follow the Winter offering, with modifications made to better suit the smaller class size and faster pace.
 
 
 ## Format
 
-- **Lectures (TuTh 2-5PM, 1005 DOW)**: Introduce core content in an interactive format. Recorded, and attendance will **not** be taken, but is highly encouraged. Will take breaks in between.
+- **Lectures (TuTh 2-5PM)**: Introduce core content in an interactive format. Recorded, and attendance will **not** be taken, but is highly encouraged. Will take breaks in between.
 - **Discussions (W 2-4PM)**: Focused on developing a theoretical understanding of the material by practicing old exam questions. Attendance will also **not** be taken.
 - **Assignments**: 11 homeworks (lowest 2 dropped) plus one Final Project. 8 slip days.
 - **Exams**: 1 Midter Exam and one Final Exam, both in-person and on-paper, dates TBD. Midterm Exam may have a "Technical Interview" component.
