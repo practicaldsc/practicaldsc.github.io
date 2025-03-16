@@ -102,7 +102,7 @@ You may not be interested in any of the above datasets, or may already be doing 
 
 **The deadline to request approval to use a different dataset is the same as the deadline of the checkpoint, March 28th.** Once you email Suraj with the above, you should hear back within 48 hours with your approval or denial and reasoning. Note that submitting the checkpoint is not the same as requesting approval; the only way to request approval to use a different dataset is to email Suraj with answers to the questions above. After March 28th, if you haven't requested approval, you **must** choose one of the default three options.
 
-Below are some custom dataset project from last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/). Again, use these projects as inspiration when designing your own analysis with a custom dataset:
+Below is an example of a custom dataset Final Project from last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/). Again, use these projects as inspiration when designing your own analysis with a custom dataset:
 
 1. [Trip Times and Trends](https://dgraham6.github.io/Taxi-EDA/): This project effectivelycreates new, insightful features that capture underlying patterns. In your own project, think creatively to derive features that add predictive value where applicable.
 
