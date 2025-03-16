@@ -79,7 +79,7 @@ When selecting which dataset you are going to use for your project, try choosing
 
 To help contextualize the kinds of analysis you can do in this project, it might help to look at these examples from a last semester's (FA24) [Showcase Page](https://practicaldsc.org/showcase/), which were formerly known as the "Portfolio Homework." These examples offer insights into crafting effective research questions, but bear in mind that they have their own strengths and weaknesses. Treat them as a foundation for inspiration, but **don't** just repeat or copy their work - be original!
 
-1. [What Causes Sever Outages?](https://andregalagarza.github.io/power-outage-analysis/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
+1. [What Causes Severe Outages?](https://andregalagarza.github.io/power-outage-analysis/): This project presents a noval way to do the data visualization. In your project, please think about what is the best way to present your data.
 
 2. [Cooking Time, Calories, and Ratings: The Secret Ingredients of Recipe Success](https://jpswag.github.io/recipes-and-ratings/): This project clearly outlines how to address data quality challenges. In your own project, ensure that you document your data cleaning process and provide clear justifications for your decisions.
 
