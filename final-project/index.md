@@ -341,6 +341,29 @@ Using RubyInstaller for Windows:
      gem install jekyll bundler
      ```
 
+#### [Building your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally)
+
+1. **Open Git Bash** (your terminal with Git installed).
+1. **Navigate to Your Site's Publishing source:**
+   - cd into your root folder where your Jekyll files (including `_config.yml`) are located.
+1. **Install Dependencies with Bundler:**
+   - Make sure you have a `GemFile` in your site's root directory that lists all required gems (like Jekyll and any plugins).
+   - Run the following command to install all dependencies:
+   ```
+   bundle install
+   ```
+   - This command reads your `Gemfile` and installs the necessary Ruby gems.
+1. **Serve Your Jekyll Site Locally:**
+   - To build your site and start a local web server, run:
+   ```
+   bundle exec jekyll serve
+   ```
+   - This command performs several tasks:
+     - Reads your `_config.yml` file.
+     - Builds your site into the `_site` directory.
+     - Starts a local server (usually at `http://127.0.0.1:4000/`) with auto-regeneration enabled, so your site rebuilds when you make changes.
+   - Open your web browser and go to `http://localhost:4000` to preview your site.
+
 {: .red }
 
 > If, after running the above steps, running `bundle exec jekyll serve` in your local website repository doesn't work, then follow these steps.
