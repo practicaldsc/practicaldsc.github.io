@@ -442,7 +442,7 @@ Working with a partner? Keep the following points in mind:
 1. You should decide on your partnership as soon as possible, but certainly before the checkpoint deadline of March 28th (which you're required to submit on your own).
 1. Ultimately, you will submit three deliverables for this project to three separate Gradescope assignments – the checkpoint, a PDF of your notebook, and a link to your website. **Make sure to have just one partner submit these deliverables, and have them tag the other partner!** That is, don't make duplicate submissions of the same work.
 
-## Frequentyl Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 ### How should I decide between regression and classification for my model?
 
