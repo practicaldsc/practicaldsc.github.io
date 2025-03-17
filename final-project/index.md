@@ -249,7 +249,7 @@ Note that you're free to use any Jekyll theme, not just the ones that appear [he
 
 ### Step 3: Embedding Content
 
-Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/practicaldsc/fa24/gh-pages/portfolio/index.md) – meta!).
+Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/practicaldsc/practicaldsc.github.io/refs/heads/main/final-project/index.md) – meta!).
 
 What will be a bit trickier is embedding `plotly` plots in your site so that they are interactive. Note that you are **required** to do this, you cannot simply take screenshots of plots from your notebooks and embed them in your site. Here's how to embed a `plotly` plot directly in your site.
 
