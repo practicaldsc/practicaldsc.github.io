@@ -343,7 +343,7 @@ Using RubyInstaller for Windows:
    - If an error occurs, reboot your system and try again.
    - If you want to use Windows Subsystem for Linux (WSL), please consult [Installation via Bash on Windows 10](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10).
 
-#### macOS
+### macOS
 
 1. **Install Homebrew:**
    - Open Terminal and run:
