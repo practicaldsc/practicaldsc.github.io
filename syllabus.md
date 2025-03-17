@@ -296,7 +296,7 @@ good habit to submit early and often. If you make a submission after the
 deadline, your assignment will be counted as late.
 
 You have **8 "slip days"** to use throughout the semester. A slip day extends
-the deadline of a homework by 24 hours. **You may use up to 2 slip days on any one homework assignment. You cannot use slip days on the Final Project.**
+the deadline of a homework by 24 hours. **You may use up to 2 slip days on any one homework assignment. You cannot use slip days on the Final Project.** Note that you do **not** use up any slip days on homeworks you don't submit, e.g. if you choose not to submit Homework 2, it costs you 0 slip days.
 
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete a homework on its original due date (or if you forgot about it). But slip days are also meant for things like the internet going down at 11:58PM just as you
