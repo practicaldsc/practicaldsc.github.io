@@ -439,7 +439,7 @@ Note that the rubric is intentionally vague when it comes to Steps 3-5. This is 
 Working with a partner? Keep the following points in mind:
 
 1. You are both required to actively contribute to all parts of the project. You must both be working on the assignment at the same time together, either physically or virtually on a Zoom call. You are encouraged to follow the **pair programming model**, in which you work on just a single computer and alternate who writes the code and who thinks about the problems at a high level. **In particular, you cannot split up the project and each work on separate parts independently.** So, you **cannot** say Partner 1 is responsible for the analysis and Partner 2 is responsible for the website.
-1. You should decide on your partnership as soon as possible, but certainly before the checkpoint deadline of November 25th (which you're required to submit on your own).
+1. You should decide on your partnership as soon as possible, but certainly before the checkpoint deadline of March 28th (which you're required to submit on your own).
 1. Ultimately, you will submit three deliverables for this project to three separate Gradescope assignments – the checkpoint, a PDF of your notebook, and a link to your website. **Make sure to have just one partner submit these deliverables, and have them tag the other partner!** That is, don't make duplicate submissions of the same work.
 
 ## Frequentyl Asked Questions (FAQs)
