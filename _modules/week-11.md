@@ -7,8 +7,8 @@ days:
       - name: LEC 16
         type: lecture
         title: Feature Engineering
-        # html: resources/lectures/lec18/lec18-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec18/
+        html: resources/lectures/lec16/lec16-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec16/
         # recording: https://leccap.engin.umich.edu/leccap/player/r/M7Uj16
         reading: https://learningds.org/ch/15/linear_feature_eng.html
         reading_text: LDS 15.7
