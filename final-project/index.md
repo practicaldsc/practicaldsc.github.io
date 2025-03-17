@@ -441,3 +441,21 @@ Working with a partner? Keep the following points in mind:
 1. You are both required to actively contribute to all parts of the project. You must both be working on the assignment at the same time together, either physically or virtually on a Zoom call. You are encouraged to follow the **pair programming model**, in which you work on just a single computer and alternate who writes the code and who thinks about the problems at a high level. **In particular, you cannot split up the project and each work on separate parts independently.** So, you **cannot** say Partner 1 is responsible for the analysis and Partner 2 is responsible for the website.
 1. You should decide on your partnership as soon as possible, but certainly before the checkpoint deadline of November 25th (which you're required to submit on your own).
 1. Ultimately, you will submit three deliverables for this project to three separate Gradescope assignments – the checkpoint, a PDF of your notebook, and a link to your website. **Make sure to have just one partner submit these deliverables, and have them tag the other partner!** That is, don't make duplicate submissions of the same work.
+
+## Frequentyl Asked Questions (FAQs)
+
+### How should I decide between regression and classification for my model?
+
+A useful heuristic when designing your model is to decide whether your variables should be treated as continuous or as categorical. Ask yourself:
+
+- **Can you measure the difference between the maximum and minimum values quantitatively?**  
+  If you can, then a regression model is appropriate because it captures incremental differences and predicts precise numerical outcomes.
+
+- **Or, is the distinction between high and low values more qualitative—where the maximum is simply "better" or "more" than the minimum?**  
+  In this case, a classification model might be more suitable, as it groups outcomes into distinct categories.
+
+This approach helps ensure that your model reflects the true nature of your data. For a deeper discussion on this topic, see this [Stack Exchange discussion](https://stats.stackexchange.com/questions/68834/what-is-the-benefit-of-breaking-up-a-continuous-predictor-variable).
+
+### Can I use dynamic website frameworks instead of GitHub Pages?
+
+Yes! Although [GitHub Pages](https://github.com) using [Jekyll](https://jekyllrb.com) is the easiest and free option for hosting a static site, you can also choose to build a dynamic website using frameworks like Streamlit or Marimo. The key requirement is that your website must be publicly accessible for your final submission.
