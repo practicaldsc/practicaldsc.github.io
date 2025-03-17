@@ -377,7 +377,7 @@ Using RubyInstaller for Windows:
      gem install jekyll bundler
      ```
 
-#### [Building your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally)
+### [Building your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally)
 
 1. **Open Git Bash** (your terminal with Git installed).
 1. **Navigate to Your Site's Publishing source:**
