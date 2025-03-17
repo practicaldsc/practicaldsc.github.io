@@ -9,11 +9,12 @@ nav_exclude: true
 
 # Final Project 📊
 
-{:.no_toc}
+<!--
+{:.no_toc} -->
 
 <!-- ### Checkpoint due Monday, November 25th at 11:59PM (no slip days allowed!)<br>Final Submission due Saturday, December 7th at 11:59PM (no slip days allowed!) -->
 
-{:.no_toc}
+<!-- {:.no_toc} -->
 
 - [Checkpoint](#checkpoint-submission) due **Friday, March 28th at 11:59PM** (slip days allowed!)
 - Final Submission due **Tuesday, April 22nd at 11:59PM** (no slip days allowed!)
@@ -49,7 +50,7 @@ The project is worth a total of 100 points. You can see the distribution of poin
 
 ## Table of Contents
 
-{:toc}
+{::toc}
 
 <!-- {: .no_toc .text-delta }
 
