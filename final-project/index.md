@@ -251,14 +251,19 @@ Note that you're free to use any Jekyll theme, not just the ones that appear [he
 
 Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/practicaldsc/practicaldsc.github.io/refs/heads/main/final-project/index.md) – meta!).
 
+### Embedding Interactive Plotly Visualizations
+
 What will be a bit trickier is embedding `plotly` plots in your site so that they are interactive. Note that you are **required** to do this, you cannot simply take screenshots of plots from your notebooks and embed them in your site. Here's how to embed a `plotly` plot directly in your site.
 
-1. First, you'll need to convert your plot to HTML. If `fig` is a `plotly` `Figure` object (for instance, the result of calling `px.express`, `go.Figure`, or `.plot` when `pd.options.plotting.backend = "plotly"` has been run), then the method `fig.write_html` saves the plot as HTML to a file. Call it using `fig.write_html('file-name.html', include_plotlyjs='cdn')`.
+1. **Export Your Plot to HTML:**
+   First, you'll need to convert your plot to HTML. If `fig` is a `plotly` `Figure` object (for instance, the result of calling `px.express`, `go.Figure`, or `.plot` when `pd.options.plotting.backend = "plotly"` has been run), then the method `fig.write_html` saves the plot as HTML to a file. Call it using `fig.write_html('file-name.html', include_plotlyjs='cdn')`.
    - Change `'file-name.html'` to the path where you'd like to initially save your plot.
    - `include_plotlyjs='cdn'` tells `write_html` to load the source code for the `plotly` library from a server, rather than including the entire source code in your HTML file. This drastically reduces the size of the resulting HTML file, keeping your repo size down.
-1. Move the `.html` file(s) you've created into a folder in your website repo called `assets` (or something similar).
+1. **Move the HTML File:**
+   Move the `.html` file(s) you've created into a folder in your website repo called `assets` (or something similar).
    - Depending on where your template notebook is saved, you could combine this step with the step above by calling `fig.write_html` with the correct path (e.g. `fig.write_html('../league-match-analysis/assets/matches-per-year.html')).
-1. In `README.md`, embed your plot using the following syntax:
+1. **Embed the Plot in Your Markdown:**
+   In `README.md`, embed your plot using the following syntax:
 
 ```html
 <iframe
@@ -277,13 +282,40 @@ Refer [here](https://rampure.org/dsc80-proj3-test1/#assessment-of-missingness) f
 {: .note }
 Try your best to make your plots look professional and unique to your group – add axis labels, change the font and colors, add annotations, etc. Remember, potential employers will see this – you don't want your plots to look like everyone else's! If you'd like to match the styles of the `plotly` plots used in lecture (e.g. with the white backgrounds), you can import and use the `lec_utils.py` file that's in the `homeworks/portfolio` folder of our public repo, alongside `template.ipynb`.
 
-To convert a DataFrame in your notebook to Markdown source code (which you need to do for both the **Data Cleaning** and **Interesting Aggregates** sections of Step 2: Data Cleaning and Exploratory Data Analysis in Part 1), use the `.to_markdown()` method on the DataFrame. For instance,
+### Embedding Tables
+
+- **Direct Markdown Tables:**
+  To convert a DataFrame in your notebook to Markdown source code (which you need to do for both the **Data Cleaning** and **Interesting Aggregates** sections of Step 2: Data Cleaning and Exploratory Data Analysis in Part 1), use the `.to_markdown()` method on the DataFrame. For instance,
 
 ```py
 print(counts[['semester', 'Count']].head().to_markdown(index=False))
+# Output looks something like:
+| semester    | Count |
+|-------------|-------|
+| Fall 2020   | 3     |
+| Winter 2021 | 2     |
+| Spring 2021 | 6     |
+| Summer 2021 | 4     |
+| Fall 2021   | 55    |
+
 ```
 
 displays a string, containing the Markdown representation of the first 5 rows of `counts`, including only the `'semester'` and `'Count'` columns (and not including the index). You can see how this appears [here](http://rampure.org/dsc80-proj3-test1/#assessment-of-missingness); remember, no screenshots (and also remember that the "Assessment of Missingness" title is not something you need to have, that's just an example website). You may need to play with this a little bit so that you don't show DataFrames that are super, super wide and look ugly.
+
+- **Embedding Pre-rendered Tables:**
+  For larger or more complex tables, you can export them as an HTML file or as an image:
+- HTML: Embed via an <iframe> similar to Plotly plots:
+
+```html
+<iframe src="assets/table.html" width="800" height="400" frameborder="0">
+</iframe>
+```
+
+- Image: Embed the table image using Markdown:
+
+```markdown
+![Table Description](assets/table.png)
+```
 
 ### Local Setup
 
@@ -459,3 +491,15 @@ This approach helps ensure that your model reflects the true nature of your data
 ### Can I use dynamic website frameworks instead of GitHub Pages?
 
 Yes! Although [GitHub Pages](https://github.com) using [Jekyll](https://jekyllrb.com) is the easiest and free option for hosting a static site, you can also choose to build a dynamic website using frameworks like Streamlit or Marimo. The key requirement is that your website must be publicly accessible for your final submission.
+
+### How Should I Organize My Assets?
+
+Keep all images, HTML files, and other assets in a dedicated folder (e.g., `assets`) within your repository. This practice helps maintain a clean project structure and makes it much easier to update or locate files later.
+
+### How Do I Decide Between Interactive and Static Visualizations?
+
+Use interactive visualizations when you want to allow users to explore the data in real time. For simpler displays or when interactivity is not essential, static images are a great alternative. Choose the method that best suits your data and the story you wish to tell.
+
+### How Can I Ensure My Visualizations Are Consistent?
+
+Ensure that every visualization you include has clear titles, axis labels, and legends. This makes each plot self-contained and easy for viewers to understand without needing extra context.
