@@ -304,7 +304,7 @@ displays a string, containing the Markdown representation of the first 5 rows of
 
 - **Embedding Pre-rendered Tables:**
   For larger or more complex tables, you can export them as an HTML file or as an image:
-- HTML: Embed via an <iframe> similar to Plotly plots:
+  - HTML: Embed via an <iframe> similar to Plotly plots:
 
 ```html
 <iframe src="assets/table.html" width="800" height="400" frameborder="0">
