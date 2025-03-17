@@ -10,7 +10,7 @@ days:
         html: resources/lectures/lec16/lec16-filled.html
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec16/
         annotations: resources/lectures/lec16/lec16-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/M7Uj16
+        recording: https://leccap.engin.umich.edu/leccap/player/r/ODZGzR
         reading: https://learningds.org/ch/15/linear_feature_eng.html
         reading_text: LDS 15.7
         # annotations: resources/lectures/lec18/lec18-annotated.pdf
