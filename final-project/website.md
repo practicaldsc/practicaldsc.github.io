@@ -4,6 +4,7 @@ title: 🕸️ Website Instructions
 description: Instructions for creating a website for your Final Project.
 nav_order: 2
 parent: 📊 Final Project
+has_toc: true
 ---
 
 # {{ page.title }}

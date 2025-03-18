@@ -4,6 +4,7 @@ title: 📊 Final Project
 description: Description of the Final Project, the final assignment of the semester.
 nav_order: 6
 has_children: true
+has_toc: true
 ---
 
 <script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
