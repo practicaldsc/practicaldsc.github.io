@@ -9,23 +9,23 @@ has_children: true
 <script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 # {{ page.title }}
-
 {: .no_toc }
 
-- (Optional) custom dataset proposal due **Wednesday, March 26th**
-- [Checkpoint](#checkpoint-submission) due **Friday, March 28th at 11:59PM** (slip days allowed!)
-- Final Submission due **Tuesday, April 22nd at 11:59PM** (<b><span style="color:red">no slip days allowed!</span>)
+{: .green }
+> This project has two (optionally, three) deadlines:
+> - (Optional) custom dataset proposal due **Wednesday, March 26th**
+> - [Checkpoint](#checkpoint-submission) due **Friday, March 28th at 11:59PM** (slip days allowed!)
+> - Final Submission due **Tuesday, April 22nd at 11:59PM** (<b><span style="color:red">no slip days allowed!</span>)
 
-_last updated March 18 at 3PM_
+_last updated March 18 at 4:45PM_
 
 ---
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
@@ -223,5 +223,3 @@ Working with a partner? Keep the following points in mind:
 1. You are both required to actively contribute to all parts of the project. You must both be working on the assignment at the same time together, either physically or virtually on a Zoom call. You are encouraged to follow the **pair programming model**, in which you work on just a single computer and alternate who writes the code and who thinks about the problems at a high level. **In particular, you cannot split up the project and each work on separate parts independently.** So, you **cannot** say Partner 1 is responsible for the analysis and Partner 2 is responsible for the website.
 1. You should decide on your partnership as soon as possible, but certainly before the checkpoint deadline of March 28th, which you're required to submit in your partnerships.
 1. Ultimately, you will submit three deliverables for this project to three separate Gradescope assignments – the checkpoint, a PDF of your notebook, and a link to your website. **Make sure to have just one partner submit these deliverables, and have them tag the other partner!** That is, don't make duplicate submissions of the same work.
-
----
