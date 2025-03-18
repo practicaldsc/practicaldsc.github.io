@@ -11,6 +11,5 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: <b>Final Project (<span style="color:red">no slip days!</span>)</b>
-        specifications: final-project
+        title: Final Project (no slip days!)
 ---

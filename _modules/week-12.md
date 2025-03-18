@@ -29,9 +29,6 @@ days:
         # recording: https://leccap.engin.umich.edu/leccap/player/r/XY5tdq
         reading_text: LDS 16.4
         reading: https://learningds.org/ch/16/ms_regularization.html
-      - name: PROJ
-        type: proj
-        title: (Optional) Deadline to Propose Custom Dataset
   - date: "2025-03-27"
     events:
       - name: DIS 10
@@ -42,6 +39,5 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: <b>Final Project Checkpoint</b>
-        specifications: final-project
+        title: Final Project Checkpoint
 ---
