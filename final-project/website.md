@@ -7,7 +7,6 @@ parent: 📊 Final Project
 ---
 
 # {{ page.title }}
-
 {:.no_toc}
 
 See below for instructions on how to create your website in Part 2. Make sure you've read the [main project specifications](../) first.
@@ -15,11 +14,10 @@ See below for instructions on how to create your website in Part 2. Make sure yo
 ---
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
@@ -113,17 +111,17 @@ What will be a bit tricky is embedding `plotly` plots in your site so that they 
 1. **Embed the Plot in Markdown:**
    In `README.md`, embed your plot using the following syntax:
 
-   ```html
-   <iframe
-     src="assets/file-name.html"
-     width="800"
-     height="600"
-     frameborder="0"
-   ></iframe>
-   ```
+    ```html
+    <iframe
+    src="assets/file-name.html"
+    width="800"
+    height="600"
+    frameborder="0"
+    ></iframe>
+    ```
 
-   - `iframe` stands for "inline frame"; it allows us to embed HTML files within other HTML files.
-   - You can change the `width` and `height` arguments, but don't change the `frameBorder` argument.
+    - `iframe` stands for "inline frame"; it allows us to embed HTML files within other HTML files.
+    - You can change the `width` and `height` arguments, but don't change the `frameBorder` argument.
 
 Refer [here](https://rampure.org/dsc80-proj3-test1/#assessment-of-missingness) for a working example (and [here](https://github.com/surajrampure/dsc80-proj3-test1) for its source code).
 
@@ -132,8 +130,8 @@ Try your best to make your plots look professional and unique to your group – 
 
 ### Embedding Tables
 
-To convert a DataFrame in your notebook to Markdown source code (which you need to do for both the **Data Cleaning** and **Interesting Aggregates** sections of Step 2: Data Cleaning and Exploratory Data Analysis in Part 1), use the `.to_markdown()` method on the DataFrame.
-
+To convert a DataFrame in your notebook to Markdown source code (which you need to do for both the **Data Cleaning** and **Interesting Aggregates** sections of Step 2: Data Cleaning and Exploratory Data Analysis in Part 1), use the `.to_markdown()` method on the DataFrame. 
+  
 For instance, if you run a line like this in your **notebook**:
 
 ```py
@@ -159,8 +157,7 @@ You can see how this appears [here](http://rampure.org/dsc80-proj3-test1/#assess
 For larger or more complex tables, you can export them as an HTML file. To export a DataFrame as `html`, use the `.to_html()` method on it. This will give you a string representation of the DataFrame as HTML, which you can then copy and save into some `.html` file which you load into your site as an `<iframe>`:
 
 ```html
-# Here, table.html is an HTML file that you created by manually
-copying-and-pasting the output of df.to_html().
+# Here, table.html is an HTML file that you created by manually copying-and-pasting the output of df.to_html().
 <iframe src="assets/table.html" width="800" height="400" frameborder="0">
 </iframe>
 ```
@@ -257,16 +254,16 @@ These steps are largely taken from [here](https://docs.github.com/en/pages/setti
    - Open your web browser and go to `http://localhost:4000` to preview your site.
    - Moving forward, all you need to do is `cd` to your site repo and run `bundle exec jekyll serve` to preview your site.
 
-If, after running the above steps, running `bundle exec jekyll serve` in your local website repository doesn't work, then follow these steps.
 
+If, after running the above steps, running `bundle exec jekyll serve` in your local website repository doesn't work, then follow these steps.
 1. In your Terminal, `cd` to your local website repository (folder).
 1. Run `bundle init` to create a Gemfile (a file that specifies which Ruby extensions your project needs).
 1. Open the Gemfile created in your local repository, delete everything that's currently there, and replace it all with:
 
-   ```
-   source "https://rubygems.org"
-   gem "github-pages", group: :jekyll_plugins
-   ```
+    ```
+    source "https://rubygems.org"
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
 1. Run `bundle install` and then `bundle exec jekyll serve`.
 1. If, after that, you still can't render your site locally, let us know what error `bundle exec jekyll serve` throws for you and we'll try and troubleshoot! Or, check out Jekyll's [Troubleshooting](https://jekyllrb.com/docs/troubleshooting/) page to see if your questions have already been answered.
