@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Power Outages 🔋
-description: Description of the power outages dataset option for the Portfolio Homework.
-nav_exclude: true
+title: 🔋 Power Outages
+description: Description of the power outages dataset option for the Final Project.
+nav_order: 3
+grand_parent: 📊 Final Project
+parent: 👨‍💻 Dataset Options
 ---
 
-<small> <a href="../#choosing-a-dataset">go back to the Portfolio Homework spec</a> </small>
-
-# Power Outages 🔋
+# {{ page.title }}
 {:.no_toc}
 
 ## Table of Contents

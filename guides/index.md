@@ -3,7 +3,7 @@ layout: page
 title: 🧑‍🤝‍🧑 Guides
 description: >-
   Explanations of selected topics from lectures and homeworks.
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 

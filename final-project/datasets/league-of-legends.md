@@ -1,13 +1,13 @@
 ---
 layout: page
-title: League of Legends ⌨️
-description: Description of the League of Legends dataset option for the Portfolio Homework.
-nav_exclude: true
+title: ⌨️ League of Legends
+description: Description of the League of Legends dataset option for the Final Project.
+nav_order: 2
+grand_parent: 📊 Final Project
+parent: 👨‍💻 Dataset Options
 ---
 
-<small> <a href="../#choosing-a-dataset">go back to the Portfolio Homework spec</a> </small>
-
-# League of Legends ⌨️
+# {{ page.title }}
 {:.no_toc}
 
 ## Table of Contents
@@ -29,7 +29,7 @@ You'll probably want to be at least a little bit familiar with [*League of Legen
 
 The data can be found on the website [Oracle's Elixir](https://oracleselixir.com/tools/downloads) at the provided Google Drive link.
 
-We've verified that it's possible to satisfy the requirements of the homework using match data from 2022. You're welcome to use newer or older datasets if you wish, but keep in mind that League of Legends changes significantly between years; this can make it difficult to combine or make comparisons between datasets from different years.
+We've verified that it's possible to satisfy the requirements of the project using match data from 2022. You're welcome to use newer or older datasets if you wish, but keep in mind that League of Legends changes significantly between years; this can make it difficult to combine or make comparisons between datasets from different years.
 
 ---
 
@@ -50,6 +50,7 @@ Feel free to use one of the prompts below to build your predictive model in Step
 * Predict which team will get the first Baron.
 
 Make sure to justify what information you would know at the "time of prediction" and to only train your model using those features.
+
 ---
 
 ## Special Considerations

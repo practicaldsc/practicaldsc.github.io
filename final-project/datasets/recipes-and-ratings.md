@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Recipes and Ratings 🍽️
-description: Description of the recipes and ratings dataset option for the Portfolio Homework.
-nav_exclude: true
+title: 🍽️ Recipes and Ratings
+description: Description of the recipes and ratings dataset option for the Final Project.
+nav_order: 1
+grand_parent: 📊 Final Project
+parent: 👨‍💻 Dataset Options
 ---
 
-<small> <a href="../#choosing-a-dataset">go back to the Portfolio Homework spec</a> </small>
-
-# Recipes and Ratings 🍽️
+# {{ page.title }}
 {:.no_toc}
 
 ## Table of Contents
