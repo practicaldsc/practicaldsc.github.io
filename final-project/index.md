@@ -4,11 +4,13 @@ title: 📊 Final Project
 description: Description of the Final Project, the final assignment of the semester.
 nav_order: 6
 has_children: true
+has_toc: false
 ---
 
 <script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 # {{ page.title }}
+
 {: .no_toc }
 
 - (Optional) custom dataset proposal due **Wednesday, March 26th**
@@ -20,10 +22,11 @@ _last updated March 18 at 3PM_
 ---
 
 ## Table of Contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
@@ -123,7 +126,6 @@ A useful heuristic when designing your model is to decide whether your response 
 
 This approach helps ensure that your model reflects the true nature of your data. For a deeper discussion on this topic, see this [Stack Exchange discussion](https://stats.stackexchange.com/questions/68834/what-is-the-benefit-of-breaking-up-a-continuous-predictor-variable). **Framing your prediction problem appropriately is one of the most important parts of the project, so ask questions in office hours if you're unsure of your approach.**
 
-
 ### Step 3: Framing a Prediction Problem
 
 | Step                       | Analysis in Notebook                                                                                                                                                                                                                                                                                                                                                                                       | Report on Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -157,7 +159,6 @@ While your website will be neatly organized and tailored for public consumption,
 ## Part 2: Report
 
 Your website is the public-facing component of your Final Project. The purpose of your website is to provide the general public – your classmates, friends, family, recruiters, and random internet strangers – with an overview of your project and its findings, without forcing them to understand every last detail. Once you've completed your analysis and know _what_ you will put in your website, start reading this section.
-
 
 The easiest (and free) option is to use GitHub Pages with [Jekyll](https://jekyllrb.com), a framework built into GitHub that allows you to create professional-looking websites just by writing Markdown. GitHub Pages does the "hard" part of converting your Markdown to HTML. In fact, [practicaldsc.org](https://practicaldsc.org) is built using Jekyll!
 
