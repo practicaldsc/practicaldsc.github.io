@@ -5,6 +5,7 @@ description: Instructions for creating a website for your Final Project.
 nav_order: 2
 parent: 📊 Final Project
 toc: false
+show_page_toc: false
 ---
 
 # {{ page.title }}
