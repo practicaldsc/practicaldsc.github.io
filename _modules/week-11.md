@@ -33,6 +33,7 @@ days:
         # annotations: resources/lectures/lec19/lec19-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/mt3h23
         reading_text: LDS 16
+        note: See some suggested classes for next semester <a href="https://edstem.org/us/courses/69737/discussion/6390007">here</a>.
   - date: "2025-03-20"
     events:
       - name: DIS 9
