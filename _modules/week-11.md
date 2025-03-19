@@ -38,6 +38,6 @@ days:
     events:
       - name: DIS 9
         type: disc
-        title: Feature Engineering and Generalization
-        # problems: https://study.practicaldsc.org/disc10/index.html
+        title: Feature Engineering and Pipelines
+        problems: https://study.practicaldsc.org/disc09/index.html
 ---
