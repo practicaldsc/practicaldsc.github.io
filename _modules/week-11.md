@@ -26,9 +26,9 @@ days:
     events:
       - name: LEC 17
         type: lecture
-        title: Pipelines, Generalization
-        # html: resources/lectures/lec19/lec19-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec19/
+        title: Pipelines
+        html: resources/lectures/lec17/lec17-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec17/
         reading: https://learningds.org/ch/16/ms_intro.html
         # annotations: resources/lectures/lec19/lec19-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/mt3h23

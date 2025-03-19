@@ -6,7 +6,7 @@ days:
     events:
       - name: LEC 18
         type: lecture
-        title: Cross-Validation
+        title: Generalization and Cross-Validation
         # html: resources/lectures/lec19/lec19-filled.html
         # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec19/
         reading: https://learningds.org/ch/16/ms_cv.html
