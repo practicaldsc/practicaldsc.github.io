@@ -30,7 +30,7 @@ days:
         html: resources/lectures/lec17/lec17-filled.html
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec17/
         reading: https://learningds.org/ch/16/ms_intro.html
-        # annotations: resources/lectures/lec19/lec19-annotated.pdf
+        annotations: resources/lectures/lec17/lec17-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/mt3h23
         reading_text: LDS 16
         note: See some suggested classes for next semester <a href="https://edstem.org/us/courses/69737/discussion/6390007">here</a>.
