@@ -40,4 +40,5 @@ days:
         type: disc
         title: Feature Engineering and Pipelines
         problems: https://study.practicaldsc.org/disc09/index.html
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc09/disc09.ipynb
 ---
