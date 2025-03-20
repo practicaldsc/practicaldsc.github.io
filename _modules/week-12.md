@@ -13,11 +13,11 @@ days:
         reading_text: LDS 16.3
         # annotations: resources/lectures/lec19/lec19-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/mt3h23
-  - date: "2025-03-25"
-    events:
-      - name: HW 8
-        type: hw
-        title: Feature Engineering and Pipelines
+  # - date: "2025-03-25"
+  #   events:
+      # - name: HW 8
+      #   type: hw
+      #   title: <b>Feature Engineering and Pipelines<b>
   - date: "2025-03-26"
     events:
       - name: LEC 19
@@ -32,6 +32,11 @@ days:
       - name: PROJ
         type: proj
         title: (Optional) Deadline to Propose Custom Dataset
+      - name: HW 8
+        type: hw
+        title: <b>Feature Engineering and Pipelines</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw08/hw08.ipynb
+        note: Note the later deadline!
   - date: "2025-03-27"
     events:
       - name: DIS 10
