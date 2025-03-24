@@ -3,7 +3,7 @@ layout: page
 title: 💾 Archive
 description: >-
   Links to previous course websites.
-nav_order: 7
+nav_order: 9
 ---
 
 # {{ page.title }}

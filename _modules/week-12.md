@@ -1,5 +1,5 @@
 ---
-title: "Week 12: Cross-Validation and Regularization"
+title: "Week 12: Model Selection"
 weekNumber: 12
 days:
   - date: "2025-03-24"
@@ -7,10 +7,12 @@ days:
       - name: LEC 18
         type: lecture
         title: Generalization and Cross-Validation
-        # html: resources/lectures/lec19/lec19-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec19/
+        html: resources/lectures/lec18/lec18-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec18/
         reading: https://learningds.org/ch/16/ms_cv.html
         reading_text: LDS 16.3
+        reading2: https://mlu-explain.github.io/cross-validation/
+        reading2_text: MLU Explain
         # annotations: resources/lectures/lec19/lec19-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/mt3h23
   # - date: "2025-03-25"
