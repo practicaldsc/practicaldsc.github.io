@@ -63,7 +63,7 @@ After downloading the datasets, you **must** follow the following steps to merge
 1. Left merge the recipes and interactions datasets together.
 2. In the merged dataset, fill all ratings of 0 with `np.nan`. (Think about _why_ this is a reasonable step, and include your justification in your website.)
 3. Find the average rating per recipe, as a Series.
-4. Add this Series containing the average rating per recipe back to the recipes dataset however you'd like (e.g., by merging). **Use the resulting dataset for all of your analysis.**
+4. Add this Series containing the average rating per recipe back to the merged dataset. **Use this resulting dataset for all of your analysis.**
 
 ---
 
