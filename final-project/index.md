@@ -195,7 +195,7 @@ You will ultimately submit your project in two ways:
 To both submissions, make sure to tag your partner. You don't need to submit your actual `.ipynb` file anywhere. **While your website must be public and you should share it with others, you should _not_ make your code for this project available publicly.**
 
 {: .warning }
-Remember that you can't use slip days on any part of this project – not on the checkpoint, not on the final PDF submission, and not on the final website link submission. There are a lot of moving parts to this assignment – don't wait until the last minute to try and submit!
+Remember that you can't use slip days on the final submission. There are a lot of moving parts to this assignment – don't wait until the last minute to try and submit!
 
 ### Rubric
 
