@@ -46,4 +46,4 @@ We will offer support on Ed, and 1-2 remote office hours per week, but we **will
 
 **Will Practical Data Science be offered in Fall 2025 or in the future?**
 
-Practical Data Science will not be offered in Fall 2025, and we are not currently planning on offering it in Winter 2026, as Suraj will be designing a different new course (details TBD). That said, we do plan on bringing it back in future semesters!
+Practical Data Science will not be offered in Fall 2025, and we are not currently planning on offering it in Winter 2026, as Suraj will be designing [a different new course](https://rampure.org/math-for-ML). That said, we do plan on bringing it back in future semesters!
