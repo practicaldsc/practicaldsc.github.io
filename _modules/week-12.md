@@ -45,6 +45,7 @@ days:
         type: disc
         title: Cross-Validation and Regularization
         problems: https://study.practicaldsc.org/disc10/index.html
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc10/disc10.ipynb
   - date: "2025-03-28"
     events:
       - name: PROJ
