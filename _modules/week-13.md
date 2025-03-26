@@ -13,11 +13,6 @@ days:
         reading_text: LDS 20
         # annotations: resources/lectures/lec22/lec22-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/NiYB9E
-  - date: "2025-04-01"
-    events:
-      - name: HW 9
-        type: hw
-        title: Cross-Validation and Regularization
   - date: "2025-04-02"
     events:
       - name: LEC 21
@@ -30,6 +25,9 @@ days:
         # recording: https://leccap.engin.umich.edu/leccap/player/r/1pYVtk
         # annotations: resources/lectures/lec23/lec23-annotated.pdf
         # note: There are some slides involving logistic regression in this lecture, but we greatly improved them for Lecture 24, so look there for logistic regression!
+      - name: HW 9
+        type: hw
+        title: Cross-Validation and Regularization
   - date: "2025-04-03"
     events:
       - name: DIS 11

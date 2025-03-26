@@ -20,10 +20,8 @@ days:
       - name: LEC 19
         type: lecture
         title: Regularization
-        # html: resources/lectures/lec21/lec21-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec21/
-        # annotations: resources/lectures/lec21/lec21-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/XY5tdq
+        html: resources/lectures/lec19/lec19-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec19/
         guide: ../guides/machine-learning/ridge-regression
         guide_title: Ridge Regression
         reading_text: LDS 16.4
