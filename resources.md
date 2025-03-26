@@ -29,7 +29,7 @@ If you'd like some additional practice from similar classes Suraj taught at UC S
 
 ## Guides
 
-This semester, we're 
+This semester, we're developing several supplementary guides that directly relate to lecture material. Find them [**here**](https://practicaldsc.org/guides/).
 
 ---
 
