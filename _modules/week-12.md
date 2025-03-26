@@ -15,11 +15,6 @@ days:
         reading2_text: MLU Explain
         annotations: resources/lectures/lec18/lec18-annotated.pdf
         recording: https://leccap.engin.umich.edu/leccap/player/r/nfntWB
-  # - date: "2025-03-25"
-  #   events:
-      # - name: HW 8
-      #   type: hw
-      #   title: <b>Feature Engineering and Pipelines<b>
   - date: "2025-03-26"
     events:
       - name: LEC 19
@@ -29,6 +24,8 @@ days:
         # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec21/
         # annotations: resources/lectures/lec21/lec21-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/XY5tdq
+        guide: ../guides/machine-learning/ridge-regression
+        guide_title: Ridge Regression
         reading_text: LDS 16.4
         reading: https://learningds.org/ch/16/ms_regularization.html
       - name: PROJ
