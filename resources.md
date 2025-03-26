@@ -103,7 +103,7 @@ There are lots of readings linked on the course website. Here, we're collecting 
     - [Train, Test, and Validation Sets](https://mlu-explain.github.io/train-test-validation/).
     - [Cross-Validation](https://mlu-explain.github.io/cross-validation/).
     - and other ideas we'll see later in the semester!
-
+- [DSC 40A Demos](https://dsc40a.com/pages/demos.html), which contains several interactive dashboards that illustrate concepts that we're learning about.
 
 ---
 
