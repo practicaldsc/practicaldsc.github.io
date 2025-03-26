@@ -27,6 +27,7 @@ days:
         guide_title: Ridge Regression
         reading_text: LDS 16.4
         reading: https://learningds.org/ch/16/ms_regularization.html
+        recording: https://leccap.engin.umich.edu/leccap/player/r/MTgHNh
       - name: PROJ
         type: proj
         title: (Optional) Deadline to Propose Custom Dataset
