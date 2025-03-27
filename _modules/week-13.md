@@ -27,7 +27,9 @@ days:
         # note: There are some slides involving logistic regression in this lecture, but we greatly improved them for Lecture 24, so look there for logistic regression!
       - name: HW 9
         type: hw
-        title: Cross-Validation and Regularization
+        title: <b>Cross-Validation and Regularization</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw09/hw09.ipynb
+        note: Note the later deadline!
   - date: "2025-04-03"
     events:
       - name: DIS 11
