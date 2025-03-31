@@ -12,7 +12,7 @@ days:
         reading: https://learningds.org/ch/20/gd_intro.html
         reading_text: LDS 20
         annotations: resources/lectures/lec20/lec20-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/NiYB9E
+        recording: https://leccap.engin.umich.edu/leccap/player/r/QHnJYd
   - date: "2025-04-02"
     events:
       - name: LEC 21
@@ -29,7 +29,7 @@ days:
         type: hw
         title: <b>Cross-Validation and Regularization</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw09/hw09.ipynb
-        note: Note the later deadline!
+        note: Note the later deadline! Homeworks 10 and 11 will also be due on Wednesdays.
   - date: "2025-04-03"
     events:
       - name: DIS 11
