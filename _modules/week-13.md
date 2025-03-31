@@ -7,8 +7,8 @@ days:
       - name: LEC 20
         type: lecture
         title: Gradient Descent
-        # html: resources/lectures/lec22/lec22-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec22/
+        html: resources/lectures/lec20/lec20-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec20/
         reading: https://learningds.org/ch/20/gd_intro.html
         reading_text: LDS 20
         # annotations: resources/lectures/lec22/lec22-annotated.pdf

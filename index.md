@@ -20,7 +20,7 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {{ staffer }}
 {% endfor %}
 
-[Jump to Week 12: Model Selection](#week-12-model-selection){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
+[Jump to Week 13: Gradient Descent and Classification](#week-13-gradient-descent-and-classification){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
 
 {% for module in site.modules %}
 {{ module }}
