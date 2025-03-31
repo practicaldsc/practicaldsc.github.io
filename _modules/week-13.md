@@ -11,7 +11,7 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec20/
         reading: https://learningds.org/ch/20/gd_intro.html
         reading_text: LDS 20
-        # annotations: resources/lectures/lec22/lec22-annotated.pdf
+        annotations: resources/lectures/lec20/lec20-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/NiYB9E
   - date: "2025-04-02"
     events:
