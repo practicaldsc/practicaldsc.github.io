@@ -35,5 +35,6 @@ days:
       - name: DIS 11
         type: disc
         title: Gradient Descent and Classification
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc11/disc11.ipynb
         # problems: https://study.practicaldsc.org/disc12/index.html
 ---
