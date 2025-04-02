@@ -22,8 +22,8 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec21/
         reading: https://learningds.org/ch/19/class_intro.html
         reading_text: LDS 19
+        annotations: resources/lectures/lec21/lec21-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/1pYVtk
-        # annotations: resources/lectures/lec23/lec23-annotated.pdf
       - name: HW 9
         type: hw
         title: <b>Cross-Validation and Regularization</b>
