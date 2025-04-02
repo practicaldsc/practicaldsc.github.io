@@ -23,7 +23,7 @@ days:
         reading: https://learningds.org/ch/19/class_intro.html
         reading_text: LDS 19
         annotations: resources/lectures/lec21/lec21-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/1pYVtk
+        recording: https://leccap.engin.umich.edu/leccap/player/r/S9Quiy
       - name: HW 9
         type: hw
         title: <b>Cross-Validation and Regularization</b>
