@@ -18,13 +18,12 @@ days:
       - name: LEC 21
         type: lecture
         title: Introduction to Classification
-        # html: resources/lectures/lec23/lec23-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec23/
+        html: resources/lectures/lec21/lec21-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec21/
         reading: https://learningds.org/ch/19/class_intro.html
         reading_text: LDS 19
         # recording: https://leccap.engin.umich.edu/leccap/player/r/1pYVtk
         # annotations: resources/lectures/lec23/lec23-annotated.pdf
-        # note: There are some slides involving logistic regression in this lecture, but we greatly improved them for Lecture 24, so look there for logistic regression!
       - name: HW 9
         type: hw
         title: <b>Cross-Validation and Regularization</b>
