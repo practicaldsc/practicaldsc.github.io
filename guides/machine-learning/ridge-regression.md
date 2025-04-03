@@ -521,7 +521,7 @@ You should notice that the coefficients of 0.00670059 and -0.39950019 are the sa
 
 Okay – one last set of definitions. Again, this all has a purpose! We define the **adjusted** design matrix and observation vector – $$X_\text{adj}$$ and $$\vec{y}_\text{adj}$$, respectively – as follows:
 
-$$X_\text{adj} = \begin{bmatrix} X_c \\ \sqrt{n \lambda_\text{ridge}}\cdot I_{d \times d} \end{bmatrix} = \begin{bmatrix}x_1^{(1)} - \mu_1 && x_1^{(2)} - \mu_2 && ... && x_1^{(d)} - \mu_d \\ x_2^{(1)} - \mu_1 && x_2^{(2)} - \mu_2 && ... && x_2^{(d)} - \mu_d \\ \vdots && \vdots && \vdots && \vdots \\ x_n^{(1)} - \mu_1 && x_n^{(2)} - \mu_2 && ... && x_n^{(d)} - \mu_d \\ \sqrt{n \lambda_\text{ridge}} && 0 && ... && 0 \\ 0 && \sqrt{n \lambda_\text{ridge}} && ... && 0 \\ \vdots && \vdots && ... && \vdots \\ 0 && 0 && ... && \sqrt{n \lambda_\text{ridge}} \end{bmatrix}_{\:(n + d) \times d} \qquad \vec{y}_\text{adj} = \begin{bmatrix}y_c \\ \vec 0_{d \times 1} \end{bmatrix} = \begin{bmatrix} y_1 \\ y_2 \\ \vdots \\ y_n \\ 0 \\ 0 \\ \vdots \\ 0 \end{bmatrix}_{\:(n + d) \times 1}$$
+$$X_\text{adj} = \begin{bmatrix} X_c \\ \sqrt{n \lambda_\text{ridge}}\cdot I_{d \times d} \end{bmatrix} = \begin{bmatrix}x_1^{(1)} - \mu_1 && x_1^{(2)} - \mu_2 && ... && x_1^{(d)} - \mu_d \\ x_2^{(1)} - \mu_1 && x_2^{(2)} - \mu_2 && ... && x_2^{(d)} - \mu_d \\ \vdots && \vdots && \vdots && \vdots \\ x_n^{(1)} - \mu_1 && x_n^{(2)} - \mu_2 && ... && x_n^{(d)} - \mu_d \\ \sqrt{n \lambda_\text{ridge}} && 0 && ... && 0 \\ 0 && \sqrt{n \lambda_\text{ridge}} && ... && 0 \\ \vdots && \vdots && ... && \vdots \\ 0 && 0 && ... && \sqrt{n \lambda_\text{ridge}} \end{bmatrix}_{\:(n + d) \times d} \qquad \vec{y}_\text{adj} = \begin{bmatrix}y_c \\ \vec 0_{d \times 1} \end{bmatrix} = \begin{bmatrix} y_1 - \bar{y} \\ y_2 - \bar{y} \\ \vdots \\ y_n - \bar{y} \\ 0 \\ 0 \\ \vdots \\ 0 \end{bmatrix}_{\:(n + d) \times 1}$$
 
 In short:
 - To create $$X_\text{adj}$$, we take $$X_c$$ and "append" to the bottom a $$d \times d$$ diagonal matrix, with 0s everywhere except the diagonal, which contains $$\sqrt{n \lambda_\text{ridge}}$$.
@@ -562,7 +562,7 @@ $$X_\text{adj}^TX_\text{adj} = X_c^TX_c + n \lambda_\text{ridge} I$$
 
 Note that both of these look like the sort of terms we invert, when doing non-regularized linear regression ($$X_\text{adj}^TX_\text{adj}$$) and ridge regression ($$X_c^TX_c + n \lambda_\text{ridge} I$$) respectively.
 
-Let's examine what the product and shapes are. Here, suppose $$\vec{x^{(i)}}$$ represents column $$i$$ of $$X_c$$, i.e. $$\vec{x^{(i)}}$$ is already centered.
+Let's examine what the product and shapes are. **Here, suppose $$\vec{x^{(i)}}$$ represents column $$i$$ of $$X_c$$, i.e. $$\vec{x^{(i)}}$$ is already centered.**
 
 $$
 X^T_\text{adj} X_\text{adj} = \begin{bmatrix} \rule[.5ex]{1.5em}{0.4pt} \ \vec{x^{(1)}} \ \rule[.5ex]{1.5em}{0.4pt} & \sqrt{n\lambda_\text{ridge}}  & 0 & \dots & \dots\\ 
