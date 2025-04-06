@@ -21,7 +21,7 @@ days:
         title: <b>Multiple Linear Regression</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw07/hw07.ipynb
         # note: Note the later deadline!
-        # solutions: https://edstem.org/us/courses/61012/discussion/5729132
+        solutions: https://edstem.org/us/courses/69737/discussion/6442503
   - date: "2025-03-19"
     events:
       - name: LEC 17
