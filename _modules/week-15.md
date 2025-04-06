@@ -16,13 +16,20 @@ days:
       - name: LEC 25
         type: lecture
         title: Principal Components Analysis (PCA)
-      - name: HW 11
-        type: hw
-        title: Logistic Regression and Unsupervised Learning
-        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
+      # - name: HW 11
+      #   type: hw
+      #   title: Logistic Regression and Unsupervised Learning
+      #   # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
   - date: "2025-04-17"
     events:
       - name: DIS 13
         type: disc
         title: Unsupervised Learning
+  - date: "2025-04-18"
+    events:
+      - name: HW 11
+        type: hw
+        title: Logistic Regression and Unsupervised Learning
+        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw11/hw11.ipynb
+
 ---
