@@ -7,8 +7,8 @@ days:
       - name: LEC 22
         type: lecture
         title: Logistic Regression
-        # html: resources/lectures/lec24/lec24-filled.html
-        # github: https://github.com/practicaldsc/fa24/blob/main/lectures/lec24/
+        html: resources/lectures/lec22/lec22-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec22/
         reading: https://learningds.org/ch/19/class_log_model.html
         reading_text: LDS 19.3-19.6
         reading2: https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html
@@ -41,5 +41,5 @@ days:
         type: hw
         title: <b>Gradient Descent and Classification</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
-        note: Note the later deadline! Homework 11 will also be due on Friday (April 18th)
+        note: Note the later deadline!
 ---

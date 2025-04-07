@@ -30,6 +30,7 @@ days:
       - name: HW 11
         type: hw
         title: Logistic Regression and Unsupervised Learning
+        note: Note the later deadline!
         # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw11/hw11.ipynb
 
 ---
