@@ -13,13 +13,13 @@ days:
         reading_text: LDS 19.3-19.6
         reading2: https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html
         reading2_text: Berkeley 22-23
-        # annotations: resources/lectures/lec24/lec24-annotated.pdf
+        annotations: resources/lectures/lec22/lec22-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/l4JFGq
   - date: "2025-04-09"
     events:
       - name: LEC 23
         type: lecture
-        title: Naïve Bayes
+        title: Logistic Regression, Naïve Bayes
         # reading: https://ds100.org/course-notes/clustering/clustering.html
         # reading_text: Berkeley 26
         # reading2: https://stats.stackexchange.com/questions/133656/how-to-understand-the-drawbacks-of-k-means
