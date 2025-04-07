@@ -36,6 +36,7 @@ days:
         title: <b>Feature Engineering and Pipelines</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw08/hw08.ipynb
         note: Note the later deadline!
+        solutions: https://edstem.org/us/courses/69737/discussion/6482379
   - date: "2025-03-27"
     events:
       - name: DIS 10

@@ -24,6 +24,7 @@ days:
         type: hw
         title: <b>GPTEECS and Loss Functions</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw06/hw06.ipynb
+        solutions: https://edstem.org/us/courses/69737/discussion/6418644
   - date: "2025-03-12"
     events:
       - name: LEC 15
@@ -43,4 +44,3 @@ days:
         problems: https://study.practicaldsc.org/disc08/index.html
         slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc08/disc08.ipynb
 ---
-

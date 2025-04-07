@@ -26,13 +26,20 @@ days:
         # reading2_text: StackExchange
         # annotations: resources/lectures/lec26/lec26-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/LOywTq
-      - name: HW 10
-        type: hw
-        title: Gradient Descent and Classification
-        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
+      # - name: HW 10
+      #   type: hw
+      #   title: Gradient Descent and Classification
+      #   github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
   - date: "2025-04-10"
     events:
       - name: DIS 12
         type: disc
         title: Logistic Regression and Clustering
+  - date: "2025-04-11"
+    events:
+      - name: HW 10
+        type: hw
+        title: <b>Gradient Descent and Classification</b>
+        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
+        note: Note the later deadline! Homework 11 will also be due on Friday (April 18th)
 ---
