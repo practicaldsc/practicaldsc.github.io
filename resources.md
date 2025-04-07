@@ -104,6 +104,7 @@ There are lots of readings linked on the course website. Here, we're collecting 
     - [Cross-Validation](https://mlu-explain.github.io/cross-validation/).
     - and other ideas we'll see later in the semester!
 - [DSC 40A Demos](https://dsc40a.com/pages/demos.html), which contains several interactive dashboards that illustrate concepts that we're learning about.
+- [Decision Boundary Visualizer](https://ml-visualizer.herokuapp.com/), which allows you to visualize decision boundaries for different classifiers.
 
 ---
 
