@@ -14,7 +14,7 @@ days:
         reading2: https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html
         reading2_text: Berkeley 22-23
         annotations: resources/lectures/lec22/lec22-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/l4JFGq
+        recording: https://leccap.engin.umich.edu/leccap/player/r/h73IGk
   - date: "2025-04-09"
     events:
       - name: LEC 23
