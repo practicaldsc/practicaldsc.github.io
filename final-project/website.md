@@ -170,7 +170,7 @@ We'll stress that you should keep all images, HTML files, and other assets in a 
 
 ## Local Rendering
 
-The above instructions give you all you need to create and make updates to your site. However, you _may_ want to set up Jekyll locally, so that you can look at how changes to your site would look without having to push and wait for GitHub to re-build your site. To do so, follow the steps [here](https://jekyllrb.com/docs/installation/) and then [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+The above instructions give you all you need to create and make updates to your site. However, you _may_ want to set up Jekyll locally, so that you can look at how changes to your site would look without having to push and wait for GitHub to re-build your site. To do so, follow the steps [here](https://jekyllrb.com/docs/installation/) and then [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll). The steps below largely come from these two sites.
 
 ### Step 1: Installation (Windows)
 
@@ -211,12 +211,13 @@ Using RubyInstaller for Windows:
      ```bash
      ruby-install ruby 3.4.1
      ```
-   - Configure your shell by adding these lines to your configuration file (e.g., `~/.zshrc` for Zsh or `~/.bash_profile` for Bash):
+   - Configure your shell to always use the correct version of Ruby. Run each of these lines, one by one, in your Terminal:
      ```bash
-     source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh
-     source $(brew --prefix)/opt/chruby/share/chruby/auto.sh
+     echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+     echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
      echo "chruby ruby-3.4.1" >> ~/.zshrc
      ```
+     **Important**: If you’re using Bash, replace `~/.zshrc` with `~/.bash_profile`. If you’re not sure, read this external guide to [find out which shell you’re using](https://www.moncefbelyamani.com/which-shell-am-i-using-how-can-i-switch/).
    - Quit and relaunch Terminal, then verify by running:
      ```bash
      ruby -v
