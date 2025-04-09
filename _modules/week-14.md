@@ -30,7 +30,7 @@ days:
     events:
       - name: DIS 12
         type: disc
-        title: Logistic Regression and Clustering
+        title: Logistic Regression
         problems: https://study.practicaldsc.org/disc12/index.html
         slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc12/disc12.ipynb
   - date: "2025-04-11"
