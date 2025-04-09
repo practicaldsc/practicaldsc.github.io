@@ -19,17 +19,13 @@ days:
     events:
       - name: LEC 23
         type: lecture
-        title: Logistic Regression, Naïve Bayes
-        # reading: https://ds100.org/course-notes/clustering/clustering.html
-        # reading_text: Berkeley 26
-        # reading2: https://stats.stackexchange.com/questions/133656/how-to-understand-the-drawbacks-of-k-means
-        # reading2_text: StackExchange
-        # annotations: resources/lectures/lec26/lec26-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/LOywTq
-      # - name: HW 10
-      #   type: hw
-      #   title: Gradient Descent and Classification
-      #   github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
+        title: Logistic Regression, Continued
+        html: resources/lectures/lec23/lec23-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec23/
+        reading: http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
+        reading_text: Softmax Notes
+        # annotations: resources/lectures/lec23/lec23-annotated.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/h73IGk
   - date: "2025-04-10"
     events:
       - name: DIS 12
