@@ -25,7 +25,7 @@ days:
         reading: http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
         reading_text: Softmax Notes
         annotations: resources/lectures/lec23/lec23-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/h73IGk
+        recording: https://leccap.engin.umich.edu/leccap/player/r/QwsdET
   - date: "2025-04-10"
     events:
       - name: DIS 12
