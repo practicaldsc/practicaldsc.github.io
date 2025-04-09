@@ -24,7 +24,7 @@ days:
         github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec23/
         reading: http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
         reading_text: Softmax Notes
-        # annotations: resources/lectures/lec23/lec23-annotated.pdf
+        annotations: resources/lectures/lec23/lec23-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/h73IGk
   - date: "2025-04-10"
     events:
