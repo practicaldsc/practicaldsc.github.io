@@ -35,6 +35,7 @@ days:
       - name: DIS 12
         type: disc
         title: Logistic Regression and Clustering
+        problems: https://study.practicaldsc.org/disc12/index.html
   - date: "2025-04-11"
     events:
       - name: HW 10
