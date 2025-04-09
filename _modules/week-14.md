@@ -36,6 +36,7 @@ days:
         type: disc
         title: Logistic Regression and Clustering
         problems: https://study.practicaldsc.org/disc12/index.html
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc12/disc12.ipynb
   - date: "2025-04-11"
     events:
       - name: HW 10
