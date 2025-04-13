@@ -4,9 +4,9 @@ weekNumber: 16
 days:
   - date: "2025-04-21"
     events:
-      - name: LEC 26
+      - name: LEC 25
         type: lecture
-        title: Conclusion
+        title: Computer Vision, Conclusion
   - date: "2025-04-22"
     events:
       - name: PROJ
