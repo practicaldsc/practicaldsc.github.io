@@ -1,5 +1,5 @@
 ---
-title: "Week 14: Probabilistic Models"
+title: "Week 14: Logistic Regression"
 weekNumber: 14
 days:
   - date: "2025-04-07"
