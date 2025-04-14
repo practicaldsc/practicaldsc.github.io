@@ -40,4 +40,5 @@ days:
         title: <b>Gradient Descent and Classification</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
         note: Note the later deadline!
+        solutions: https://edstem.org/us/courses/69737/discussion/6536012
 ---

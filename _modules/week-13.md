@@ -29,6 +29,7 @@ days:
         title: <b>Cross-Validation and Regularization</b>
         github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw09/hw09.ipynb
         # note: Note the later deadline! Homeworks 10 and 11 will now be due on Fridays.
+        solutions: https://edstem.org/us/courses/69737/discussion/6536012
   - date: "2025-04-03"
     events:
       - name: DIS 11
