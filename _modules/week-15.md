@@ -21,6 +21,8 @@ days:
       - name: DIS 13
         type: disc
         title: Clustering
+        problems: https://study.practicaldsc.org/disc13/index.html
+        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc13/disc13.ipynb
   - date: "2025-04-18"
     events:
       - name: HW 11
