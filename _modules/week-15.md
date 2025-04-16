@@ -9,7 +9,7 @@ days:
     events:
       - name: LEC 24
         type: lecture
-        title: Clustering
+        title: Clustering (on <b><a href="https://umich.zoom.us/j/95923283134">Zoom</a></b>!)
         # reading: https://ds100.org/course-notes/clustering/clustering.html
         # reading_text: Berkeley 26
         reading: https://stats.stackexchange.com/questions/133656/how-to-understand-the-drawbacks-of-k-means
