@@ -20,11 +20,13 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {% endfor %}
 
 {: .green }
-> Wednesday (4/16)'s lecture is on Zoom at <a href="https://umich.zoom.us/j/95923283134"><b>this link</b></a>.
-> 
+> Lecture on Monday (4/21) is back in-person.
+>
+> We have two review sessions this week, both in 1670 BBB: Wednesday 3-5PM and Saturday 1-3PM. Details TBD.
+>
 > If at least 85% of the class fills out both the <b><a href="https://docs.google.com/forms/d/1M5bqqDJB96b2KbXPJFe9iOTTqk6mPnKkyPzGiLbVBNQ/preview">End-of-Semester Survey</a></b> and <b><a href="https://umich.bluera.com/umich/">Official Evals</a></b> by 4/23 at 11:59PM, we'll add 1% of extra credit to everyone's overall grade.
 
-[Jump to Week 15: Unsupervised Learning](#week-15-unsupervised-learning){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
+[Jump to Week 16: Conclusion, Review](#week-16-conclusion-review){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
 
 {% for module in site.modules %}
 {{ module }}
