@@ -7,6 +7,8 @@ days:
       - name: LEC 25
         type: lecture
         title: Computer Vision, Conclusion
+        html: resources/lectures/lec25/lec25-filled.html
+        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec25/
   - date: "2025-04-22"
     events:
       - name: PROJ
