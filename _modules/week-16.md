@@ -21,8 +21,9 @@ days:
     events:
       - name: REV
         type: lecture
-        title: <b>Review Session 1 (3-5PM, 1670 BBB)</b>
-        note: We will be releasing a review worksheet at least 48 hours in advance of the review session. Attempt the worksheet before coming.
+        title: Review Session 1 (3-5PM, 1670 BBB)
+        problems: https://study.practicaldsc.org/fi-review-wednesday/index.html
+        note: Attempt the worksheet before coming.
       - name: SUR
         type: survey
         title: <b><a href="https://docs.google.com/forms/d/1M5bqqDJB96b2KbXPJFe9iOTTqk6mPnKkyPzGiLbVBNQ/preview">End-of-Semester Survey</a></b> and <b><a href="https://umich.bluera.com/umich/">Official Evals</a></b>
@@ -31,6 +32,7 @@ days:
     events:
       - name: REV
         type: lecture
-        title: <b>Review Session 2 (1-3PM, 1670 BBB)</b>
-        note: We will be releasing a review worksheet (<b>that is different from Wednesday's worksheet</b>) at least 48 hours in advance of the review session. Attempt the worksheet before coming.
+        title: Review Session 2 (1-3PM, 1670 BBB)
+        problems: https://study.practicaldsc.org/fi-review-saturday/index.html
+        note: This worksheet is different from Wednesday's worksheet. Attempt the worksheet before coming.
 ---
