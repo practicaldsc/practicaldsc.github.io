@@ -25,6 +25,7 @@ days:
         problems: https://study.practicaldsc.org/fi-review-wednesday/index.html
         blank_slides: resources/lectures/fi-review/fi-review-wednesday-blank.pdf
         filled_slides: resources/lectures/fi-review/fi-review-wednesday-filled.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/3S2pme
       - name: SUR
         type: survey
         title: <b><a href="https://docs.google.com/forms/d/1M5bqqDJB96b2KbXPJFe9iOTTqk6mPnKkyPzGiLbVBNQ/preview">End-of-Semester Survey</a></b> and <b><a href="https://umich.bluera.com/umich/">Official Evals</a></b>
