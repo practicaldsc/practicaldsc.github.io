@@ -24,7 +24,7 @@ days:
         title: Review Session 1 (3-5PM, 1670 BBB)
         problems: https://study.practicaldsc.org/fi-review-wednesday/index.html
         blank_slides: resources/lectures/fi-review/fi-review-wednesday-blank.pdf
-        note: Attempt the worksheet before coming.
+        filled_slides: resources/lectures/fi-review/fi-review-wednesday-filled.pdf
       - name: SUR
         type: survey
         title: <b><a href="https://docs.google.com/forms/d/1M5bqqDJB96b2KbXPJFe9iOTTqk6mPnKkyPzGiLbVBNQ/preview">End-of-Semester Survey</a></b> and <b><a href="https://umich.bluera.com/umich/">Official Evals</a></b>
