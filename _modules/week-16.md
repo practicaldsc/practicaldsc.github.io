@@ -23,6 +23,7 @@ days:
         type: lecture
         title: Review Session 1 (3-5PM, 1670 BBB)
         problems: https://study.practicaldsc.org/fi-review-wednesday/index.html
+        blank_slides: resources/lectures/fi-review/fi-review-wednesday-blank.pdf
         note: Attempt the worksheet before coming.
       - name: SUR
         type: survey
