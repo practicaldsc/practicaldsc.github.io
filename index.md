@@ -20,9 +20,9 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {% endfor %}
 
 {: .green }
-> We have two review sessions this week, both in 1670 BBB: Wednesday 3-5PM and Saturday 1-3PM. Attempt their associated worksheets (linked below) **before** coming.
+> The Final Exam is on **Monday, April 28th from 10:30AM-12:30PM**. Find your assigned room and other logistics [**here**](https://edstem.org/us/courses/69737/discussion/6600862).
 >
-> If at least 85% of the class fills out both the <b><a href="https://docs.google.com/forms/d/1M5bqqDJB96b2KbXPJFe9iOTTqk6mPnKkyPzGiLbVBNQ/preview">End-of-Semester Survey</a></b> and <b><a href="https://umich.bluera.com/umich/">Official Evals</a></b> by 4/23 at 11:59PM, we'll add 1% of extra credit to everyone's overall grade.
+> We have one more review session this week, on Saturday 4/26 from 1-3PM in 1670 BBB. Attempt the worksheet (linked below) **before** coming.
 
 [Jump to Week 16: Conclusion, Review](#week-16-conclusion-review){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
 
