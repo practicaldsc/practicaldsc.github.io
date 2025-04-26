@@ -35,6 +35,7 @@ days:
       - name: REV
         type: lecture
         title: Review Session 2 (1-3PM, 1670 BBB)
+        blank_slides: resources/lectures/fi-review/fi-review-saturday-blank.pdf
         problems: https://study.practicaldsc.org/fi-review-saturday/index.html
         note: This worksheet is different from Wednesday's worksheet. Attempt the worksheet before coming.
 ---
