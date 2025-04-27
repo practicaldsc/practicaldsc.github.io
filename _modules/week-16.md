@@ -38,5 +38,6 @@ days:
         blank_slides: resources/lectures/fi-review/fi-review-saturday-blank.pdf
         problems: https://study.practicaldsc.org/fi-review-saturday/index.html
         note: This worksheet is different from Wednesday's worksheet. Attempt the worksheet before coming.
+        recording: https://leccap.engin.umich.edu/leccap/player/r/Yj9Jzc
         filled_slides: resources/other/Annotated-EECS 398 Final Review Session.pdf
 ---
