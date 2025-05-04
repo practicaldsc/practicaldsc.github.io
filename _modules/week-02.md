@@ -30,8 +30,8 @@ days:
     events:
       - name: HW 2
         type: hw
-        title: Arrays and DataFrames
-        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw02/hw02.ipynb
+        title: <b>Arrays and DataFrames</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw02/hw02.ipynb
   - date: "2025-05-15"
     events:
       - name: LEC 7

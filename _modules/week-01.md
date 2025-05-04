@@ -64,7 +64,7 @@ days:
         url: https://forms.gle/eZFdhpwn156CQuk29
       - name: HW 1
         type: hw
-        title: Python Fundamentals
-        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw01/hw01.ipynb
+        title: <b>Python Fundamentals</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw01/hw01.ipynb
         # solutions: https://edstem.org/us/courses/69737/discussion/6009701
 ---
