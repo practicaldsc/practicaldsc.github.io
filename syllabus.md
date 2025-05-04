@@ -113,8 +113,6 @@ Note that we will **not** be using Canvas for anything this semester (so please 
 As soon as you are able to, go follow the steps in the [⚙️ Environment Setup](../env-setup) page of the course website to set up your programming
 environment for the course.
 
-<!-- **held on Thursday, January 9th**, will be dedicated to making sure you've followed these steps. -->
-
 ### Forms
 
 Please fill out the required [Welcome Survey](https://forms.gle/eZFdhpwn156CQuk29) to tell us a bit more about your background and whether you need an alternate exam **no later than Friday, May 9th** (the same day that Homework 1 is due).

@@ -58,4 +58,10 @@ days:
         # annotations: resources/lectures/lec08/lec08-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/BB8S6K
         videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qRDDBNu4SrXqhTl4Zd4DC0l
+  - date: "2025-05-16"
+    events:
+      - name: INT
+        type: interview
+        title: Technical Interview Signups Open
+        note: Technical Interview slots are on May 22nd, 23rd, and 26th, all in-person. Practice interview slots are on May 19th (Zoom), May 20th (in-person), and May 21st (Zoom). See the <a href="../syllabus#technical-interview">Syllabus</a> for more details.
 ---
