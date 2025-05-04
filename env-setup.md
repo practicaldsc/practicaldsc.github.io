@@ -32,8 +32,8 @@ It's a long, but useful video. In addition to walking you through the setup stag
 - [24:53](https://www.loom.com/share/b74ed3c77fe74ef4a4fa4fcc2b247699?t=1493): JupyterLab, Jupyter Notebook, Jupyter Notebook Classic, VSCode, and Bash Profiles
 - [29:25](https://www.loom.com/share/b74ed3c77fe74ef4a4fa4fcc2b247699?t=1765): Verifying public tests pass on Gradescope
 
-{: .green }
-**You're encouraged to follow along by walking through and submitting the "Example Homework", which can be found in our public course GitHub repository. It is not a real assignment, but just exists to make sure you know how to access, run, and submit our assignments.**
+<!-- {: .green }
+**You're encouraged to follow along by walking through and submitting the "Example Homework", which can be found in our public course GitHub repository. It is not a real assignment, but just exists to make sure you know how to access, run, and submit our assignments.** -->
 
 ---
 
@@ -162,7 +162,7 @@ You can also use [VSCode](https://code.visualstudio.com/) (not the same as Visua
 ### Accessing assignments using Git
 
 All of our course materials, including your assignments, are hosted on
-GitHub in [this Git repository](https://github.com/practicaldsc/wn25). This means that you'll need to download and use Git in order to work with the course
+GitHub in [this Git repository](https://github.com/practicaldsc/sp25). This means that you'll need to download and use Git in order to work with the course
 materials. You can do so [here](https://git-scm.com/).
 
 Git is a *version control system*. In short, it is used to keep track of
@@ -175,7 +175,7 @@ There are Git GUIs, and you can use them for this class. You can also
 use the command-line version of Git. To get started, you\'ll need to
 \"clone\" the course repository. The command to do this is:
 
-    git clone https://github.com/practicaldsc/wn25
+    git clone https://github.com/practicaldsc/sp25
 
 This will copy the repository to a directory on your computer. You should only need to do this once.
 
@@ -190,7 +190,7 @@ to lose work (although it\'s still possible!).
 
 **Merge Conflicts**
 
-You might – but hopefully won't! – face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/practicaldsc/wn25) by updating assignments on our side.
+You might – but hopefully won't! – face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/practicaldsc/sp25) by updating assignments on our side.
 
 To minimize frustration, working with GitHub pulls, merges, etc., it's a good idea to save your important work locally so that if you accidentally overwrite your files you still have the work saved. **Save your work locally, in a separate, duplicated folder (e.g. duplicate `eecs398` to `eecs398-copy`, if your local folder is called `eecs398`) before following the steps below.**
 

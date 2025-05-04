@@ -2,7 +2,8 @@
 layout: page
 title: 📊 Final Project
 description: Description of the Final Project, the final assignment of the semester.
-nav_order: 6
+# nav_order: 6
+nav_exclude: true
 has_children: true
 ---
 
@@ -17,7 +18,7 @@ has_children: true
 > - [Checkpoint](#checkpoint-submission) due **Friday, March 28th at 11:59PM** (slip days allowed!)
 > - Final Submission due **Tuesday, April 22nd at 11:59PM** (<b><span style="color:red">no slip days allowed!</span>)
 
-_last updated March 18 at 4:45PM_
+<!-- _last updated March 18 at 4:45PM_ -->
 
 ---
 

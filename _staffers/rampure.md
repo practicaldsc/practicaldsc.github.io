@@ -9,6 +9,6 @@ description: Lecturer III, Computer Science and Engineering
 hometown: Windsor, Ontario, Canada 🇨🇦
 askabout: credit card points, <a href="https://my.flightradar24.com/surajrampure">traveling</a>, and planes; my dog Junior, (trying to) gym, <a href="https://rampure.org/assets/me_dancing.gif">this</a>
 foodemoji: 🍜
-food: Kitab Cafe, Frita Batidos, Tomukun, Buffalo Wild Wings, Antonino's, Joe's Pizza
-lecture: MW 3-4:30PM, 1670 BBB
+food: Kitab Cafe, Frita Batidos, Miss Kim, Buffalo Wild Wings, Antonino's, Joe's Pizza
+lecture: TuTh 2-5PM, 1690 BBB
 ---

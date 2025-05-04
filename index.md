@@ -9,7 +9,7 @@ nav_order: 1
 # Practical Data Science 🛠️
 {: .no_toc }
 {: .mb-2 }
-EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #00274C">University of Michigan</span></b>
+EECS 398, Spring 2025 🌸 at the <b><span style="background-color: #FFCB05; color: #00274C">University of Michigan</span></b>
 {: .no_toc }
 {: .fs-6 .fw-300 .mb-2 }
 
@@ -20,11 +20,9 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {% endfor %}
 
 {: .green }
-> The Final Exam is on **Monday, April 28th from 10:30AM-12:30PM**. Find your assigned room and other logistics [**here**](https://edstem.org/us/courses/69737/discussion/6600862).
->
-> We have one more review session this week, on Saturday 4/26 from 1-3PM in 1670 BBB. Attempt the worksheet (linked below) **before** coming.
+> Welcome to the Spring 2025 offering of EECS 398! Make sure to read the [**Syllabus**](/syllabus) and complete the action items in the [**Getting Started**](/syllabus#getting-started) section ASAP!
 
-[Jump to Week 16: Conclusion, Review](#week-16-conclusion-review){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
+[Jump to Week 1: Python, NumPy, and Pandas](#week-1-python-numpy-and-pandas){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple }
 
 {% for module in site.modules %}
 {{ module }}

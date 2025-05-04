@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: EECS 398
-tagline: Practical Data Science, Winter 2025 at the University of Michigan
+tagline: Practical Data Science, Spring 2025 at the University of Michigan
 # description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Practical Data Science course staff
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -33,13 +33,13 @@ sass:
 
 aux_links:
   GitHub:
-    - "https://github.com/practicaldsc/wn25"
+    - "https://github.com/practicaldsc/sp25"
   🧠 Study:
     - "https://study.practicaldsc.org/"
   Ed:
-    - "https://edstem.org/us/courses/69737/discussion/"
+    - "https://edstem.org/us/join/PvraxJ/"
   Gradescope:
-    - "https://www.gradescope.com/courses/930446/"
+    - "https://www.gradescope.com/courses/1033440/"
   🤔 Lecture Questions:
     - "https://docs.google.com/forms/d/e/1FAIpQLSd4oliiZYeNh76jWy-arfEtoAkCrVSsobZxPwxifWggo3EO0Q/viewform"
   📬 Feedback:

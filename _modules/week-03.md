@@ -1,28 +1,67 @@
 ---
-title: "Week 3: DataFrames"
+title: "Week 3: Text Data, Introduction to Machine Learning"
 weekNumber: 3
 days:
-  - date: "2025-01-20"
+  - date: "2025-05-19"
     events:
-      - title: "No Lecture: MLK Day"
-  - date: "2025-01-22"
+      - name: HW 3
+        type: hw
+        title: Grouping, Pivoting, and Merging
+  - date: "2025-05-20"
     events:
-      - name: LEC 4
+      - name: LEC 9
         type: lecture
-        title: DataFrame Fundamentals
-        html: resources/lectures/lec04/lec04-filled.html
-        annotations: resources/lectures/lec04/lec04-annotated.pdf
-        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec04/
-        reading: https://learningds.org/ch/06/pandas_subsetting.html
-        reading_text: LDS 6.1
-        videos: https://youtu.be/zCGkmrubmqU
-        note: The "extra video" covers the value_counts method in-depth.
-        recording: https://leccap.engin.umich.edu/leccap/player/r/4bRDv4
-  - date: "2025-01-23"
+        title: Regular Expressions
+        # html: resources/lectures/lec09/lec09-filled.html
+        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec09/
+        reading: https://learningds.org/ch/13/text_regex.html?highlight=regular%20expressions
+        # annotations: resources/lectures/lec09/lec09-annotated.pdf
+        reading_text: LDS 13.3
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/DNJN9g
+      - name: LEC 10
+        type: lecture
+        title: Text as Data
+        # html: resources/lectures/lec10/lec10-filled.html
+        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec10/
+        reading: https://notes.dsc80.com/content/08/nlp.html
+        reading_text: DSP 8.2
+        reading2: https://learningds.org/ch/13/text_sotu.html
+        reading2_text: LDS 13.4
+        guide: ../guides/linear-algebra/vectors-angles
+        guide_title: Vectors and angles
+        # annotations: resources/lectures/lec10/lec10-annotated.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/cPSRvm
+  - date: "2025-05-21"
     events:
-      - name: DISC 3
-        type: disc
-        title: DataFrames and Querying
-        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc03/disc03.ipynb
-        problems: https://study.practicaldsc.org/disc03/index.html
+      - name: HW 4
+        type: hw
+        title: EDA and Web Scraping
+        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw04/hw04.ipynb
+  - date: "2025-05-22"
+    events:
+      - name: LEC 11
+        type: lecture
+        title: Introduction to Machine Learning
+        reading: https://learningds.org/ch/04/modeling_intro.html
+        # blank_slides: resources/lectures/lec11/lec11-blank.pdf
+        # filled_slides: resources/lectures/lec11/lec11-filled.pdf
+        reading_text: LDS 4
+        reading2: resources/other/40a-note-1.pdf
+        reading2_text: UCSD 1.1-1.2
+        videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qQwTM7yz0XwaVOn54ooevNp
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/15QoQS
+        note: Watch all of the videos in the playlist above, but especially <a href="https://youtu.be/NSIEP74ifyg?feature=shared">the first one</a>, as it covers a derivation that is relevant to upcoming homeworks and exams.
+      - name: LEC 12
+        type: lecture
+        title: Loss Functions and Simple Linear Regression
+        reading: https://learningds.org/ch/15/linear_intro.html
+        reading_text: LDS 15.1-15.3
+        reading2: resources/other/40a-note-2.pdf
+        reading2_text: UCSD 2.1
+        # blank_slides: resources/lectures/lec12/lec12-blank.pdf
+        # filled_slides: resources/lectures/lec12/lec12-filled.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/uVcwV8
+
+
+
 ---

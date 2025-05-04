@@ -1,47 +1,60 @@
 ---
-title: "Week 5: Real, Messy Data"
+title: "Week 5: Feature Engineering, Generalization"
 weekNumber: 5
 days:
-  - date: "2025-02-03"
-    events:
-      - name: LEC 7
+- date: "2025-06-02"
+  events:
+    - name: HW 6
+      type: hw
+      title: GPTEECS and Loss Functions
+- date: "2025-06-03"
+  events:
+      - name: LEC 16
         type: lecture
-        title: EDA, Visualization, and Missing Value Imputation
-        html: resources/lectures/lec07/lec07-filled.html
-        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec07/
-        reading: https://learningds.org/ch/10/eda_intro.html
-        reading_text: LDS 10-11
-        annotations: resources/lectures/lec07/lec07-annotated.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/Ph5UR6
-        guide: ../guides/data-wrangling/visualization
-        guide_title: "Visualization Tips and Examples"
-  - date: "2025-02-04"
-    events:
-      - name: HW 3
-        type: hw
-        title: <b>Grouping, Pivoting, and Merging</b>
-        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw03/hw03.ipynb
-        solutions: https://edstem.org/us/courses/69737/discussion/6141967
-  - date: "2025-02-05"
-    events:
-      - name: LEC 8
+        title: Feature Engineering
+        # html: resources/lectures/lec16/lec16-filled.html
+        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec16/
+        # annotations: resources/lectures/lec16/lec16-annotated.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/ODZGzR
+        reading: https://learningds.org/ch/15/linear_feature_eng.html
+        reading_text: LDS 15.7
+      - name: LEC 17
         type: lecture
-        title: Web Scraping and APIs
-        html: resources/lectures/lec08/lec08-filled.html
-        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec08/
-        reading: https://learningds.org/ch/14/web_http.html
-        reading_text: LDS 14.3
-        reading2: https://notes.dsc80.com/content/07/html.html
-        reading2_text: DSP 7.3
-        note: Looking for other sources of data for personal projects? Check out our <a href="resources#finding-datasets">Resources</a> page.
-        annotations: resources/lectures/lec08/lec08-annotated.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/BB8S6K
-        videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qRDDBNu4SrXqhTl4Zd4DC0l
-  - date: "2025-02-06"
-    events:
-      - name: DIS 5
-        type: disc
-        title: Visualization, Imputation, and Web Scraping
-        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc05/disc05.ipynb
-        problems: https://study.practicaldsc.org/disc05/index.html
+        title: Pipelines
+        # html: resources/lectures/lec17/lec17-filled.html
+        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec17/
+        reading: https://learningds.org/ch/16/ms_intro.html
+        # annotations: resources/lectures/lec17/lec17-annotated.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/kYJ2ap
+        reading_text: LDS 16
+- date: "2025-06-04"
+  events:
+    - name: HW 7
+      type: hw
+      title: Multiple Linear Regression
+- date: "2025-06-05"
+  events:
+    - name: LEC 18
+      type: lecture
+      title: Generalization and Cross-Validation
+      # html: resources/lectures/lec18/lec18-filled.html
+      # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec18/
+      reading: https://learningds.org/ch/16/ms_cv.html
+      reading_text: LDS 16.3
+      reading2: https://mlu-explain.github.io/cross-validation/
+      reading2_text: MLU Explain
+      # annotations: resources/lectures/lec18/lec18-annotated.pdf
+      # recording: https://leccap.engin.umich.edu/leccap/player/r/nfntWB
+    - name: LEC 19
+      type: lecture
+      title: Regularization
+      # html: resources/lectures/lec19/lec19-filled.html
+      # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec19/
+      guide: ../guides/machine-learning/ridge-regression
+      # annotations: resources/lectures/lec19/lec19-annotated.pdf
+      guide_title: Ridge Regression
+      reading_text: LDS 16.4
+      reading: https://learningds.org/ch/16/ms_regularization.html
+      # recording: https://leccap.engin.umich.edu/leccap/player/r/MTgHNh
 ---
+  

@@ -1,45 +1,51 @@
 ---
-title: "Week 4: More Pandas"
+title: "Week 4: Midterm Exam, Regression with Linear Algebra"
 weekNumber: 4
 days:
-  - date: "2025-01-27"
+  - date: "2025-05-26"
     events:
-      - name: LEC 5
-        type: lecture
-        title: "Aggregation: Grouping and Pivoting"
-        html: resources/lectures/lec05/lec05-filled.html
-        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec05/
-        reading: https://learningds.org/ch/06/pandas_aggregating.html
-        reading_text: LDS 6.2
-        guide: ../guides/data-wrangling/df-internals
-        guide_title: DataFrame Internals
-        annotations: resources/lectures/lec05/lec05-annotated.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/EQalPj
-  - date: "2025-01-28"
-    events:
-      - name: HW 2
+      - name: HW 5
         type: hw
-        title: <b>Arrays, Probability, and DataFrames</b>
-        github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw02/hw02.ipynb
-        solutions: https://edstem.org/us/courses/69737/discussion/6098287
-  - date: "2025-01-29"
+        title: APIs and Regular Expressions
+  - date: "2025-05-27"
     events:
-      - name: LEC 6
+      - name: LEC 13
         type: lecture
-        title: Pivoting, Merging, and Transforming
-        html: resources/lectures/lec06/lec06-filled.html
-        github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec06/
-        reading: https://learningds.org/ch/06/pandas_joining.html
-        reading_text: LDS 6.3
-        reading2: https://notes.dsc80.com/content/05/introduction.html
-        reading2_text: DSP 5
-        annotations: resources/lectures/lec06/lec06-annotated.pdf
-        recording: https://leccap.engin.umich.edu/leccap/player/r/6z4ocO
-  - date: "2025-01-30"
+        title: Exam Review
+  - date: "2025-05-28"
     events:
-      - name: DIS 4
-        type: disc
-        title: Grouping, Pivoting, and Merging
-        slides: https://github.com/practicaldsc/wn25/blob/main/discussions/disc04/disc04.ipynb
-        problems: https://study.practicaldsc.org/disc04/index.html
+      - name: EXAM
+        type: exam
+        title: <b>Midterm Exam (2-4PM, 1690 BBB, in-person)</b>
+  - date: "2025-05-29"
+    events:
+      - name: LEC 14
+        type: lecture
+        title: Regression using Linear Algebra
+        # blank_slides: resources/lectures/lec14/lec14-blank.pdf
+        # filled_slides: resources/lectures/lec14/lec14-filled.pdf
+        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec14/
+        # html: resources/lectures/lec14/lec14-filled.html
+        reading: https://learningds.org/ch/15/linear_multi_fit.html
+        reading_text: LDS 15.4-15.5
+        reading2: resources/other/40a-note-2.pdf#page=9
+        reading2_text: UCSD 2.2
+        guide: ../guides/linear-algebra/projections
+        guide_title: Projections
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/ShljO9
+      - name: LEC 15
+        type: lecture
+        title: Multiple Linear Regression
+        # html: resources/lectures/lec15/lec15-filled.html
+        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec15/
+        reading: https://learningds.org/ch/15/linear_multi_fit.html
+        # annotations: resources/lectures/lec15/lec15-annotated.pdf
+        # recording: https://leccap.engin.umich.edu/leccap/player/r/6Zpa1q
+        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw07/hw07.ipynb
+        # note: Note the later deadline!
+  - date: "2025-05-30"
+    events:
+      - name: PROJ
+        type: proj
+        title: Final Project Checkpoint
 ---
