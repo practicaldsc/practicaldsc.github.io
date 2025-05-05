@@ -8,7 +8,7 @@ days:
         type: lecture
         title: Introduction, Jupyter Notebooks
         html: resources/lectures/lec01/lec01-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec01/
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec01/
         # recording: https://leccap.engin.umich.edu/leccap/player/r/oTAiJl
         # annotations: resources/lectures/lec01/lec01-annotated.pdf
         reading_text: LDS 1
@@ -16,7 +16,7 @@ days:
         type: lecture
         title: Python Basics
         html: resources/lectures/lec02/lec02-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec02/
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec02/
         videos: https://youtu.be/IaEuWJCcwjk?feature=shared
         reading: https://wesmckinney.com/book/python-basics
         # recording: https://leccap.engin.umich.edu/leccap/player/r/SgWJsK
@@ -35,10 +35,10 @@ days:
       - name: LEC 3
         type: lecture
         title: NumPy and Random Simulations
-        # html: resources/lectures/lec03/lec03-filled.html
+        html: resources/lectures/lec03/lec03-filled.html
         # annotations: resources/lectures/lec03/lec03-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/W4Dwoi
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec03/
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec03/
         reading: https://wesmckinney.com/book/numpy-basics
         reading_text: PDA 4
         reading2: https://inferentialthinking.com/chapters/09/3/Simulation.html
@@ -47,9 +47,9 @@ days:
       - name: LEC 4
         type: lecture
         title: DataFrame Fundamentals
-        # html: resources/lectures/lec04/lec04-filled.html
+        html: resources/lectures/lec04/lec04-filled.html
         # annotations: resources/lectures/lec04/lec04-annotated.pdf
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec04/
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec04/
         reading: https://learningds.org/ch/06/pandas_subsetting.html
         reading_text: LDS 6.1
         videos: https://youtu.be/zCGkmrubmqU
