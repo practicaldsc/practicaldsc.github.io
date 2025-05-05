@@ -51,7 +51,7 @@ This course is worth 4 credits, and counts for the following major requirements:
 - Data Science: Advanced Technical Elective or Application Elective
 - Electrical Engineering: Flexible Technical Elective
 
-Refer to the [Fall 2024 course evaluations](../assets/marketing/fa24-evals.pdf) to see what students from Fall 2024 said about the course. Student perceptions of workload from Fall 2024 are shown below; we expect this offering's workload to be similar, with the caveat that this Spring offering is being taught at twice the speed of Fall/Winter terms.
+Refer to the [Fall 2024](../assets/marketing/fa24-evals.pdf) and Winter 2025 ([Section 1](../assets/marketing/wn25-evals-1.pdf), [Section 2](../assets/marketing/wn25-evals-2.pdf)) course evaluations to see what students from last year said about the course. Student perceptions of workload from Fall 2024 are shown below; we expect this offering's workload to be similar, with the caveat that this Spring offering is being taught at twice the speed of Fall/Winter terms.
 
 <center><img src="../assets/marketing/workload.png" width=500></center>
 
