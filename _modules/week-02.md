@@ -63,5 +63,5 @@ days:
       - name: INT
         type: interview
         title: Technical Interview Signups Open
-        note: Technical Interview slots are on May 22nd, 23rd, and 26th, all in-person. Practice interview slots are on May 19th (Zoom), May 20th (in-person), and May 21st (Zoom). See the <a href="../syllabus#technical-interview">Syllabus</a> for more details.
+        note: Technical Interview slots are on May 22nd, 23rd, and 27th, all in-person. Practice interview slots are on May 19th (Zoom), May 20th (in-person), and May 21st (Zoom). See the <a href="../syllabus#technical-interview">Syllabus</a> for more details.
 ---

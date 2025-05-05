@@ -273,7 +273,7 @@ To help prepare for the Technical Interview, Suraj will offer several 20 minute 
 
 Signups for both Technical Interviews and practice interviews will open **on May 16th via Google Calendar**, for the following dates:
 
-- **Technical Interviews (30 minutes)**: May 22nd, May 23rd, May 26th (all in-person)
+- **Technical Interviews (30 minutes)**: May 22nd, May 23rd, May 27th (all in-person)
 - **Practice Interviews (20 minutes)**: May 19th (Zoom), May 20th (in-person), May 21st (Zoom)
 
 If there are changes to these dates, we will post an update on Ed, but note that all slots for the Technical Interview are **before the Midterm Exam**. If you would like to schedule either a Technical Interview or a practice interview, but aren't available at the times listed, please let Suraj know.
