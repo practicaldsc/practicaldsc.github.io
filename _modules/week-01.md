@@ -7,7 +7,7 @@ days:
       - name: LEC 1
         type: lecture
         title: Introduction, Jupyter Notebooks
-        # html: resources/lectures/lec01/lec01-filled.html
+        html: resources/lectures/lec01/lec01-filled.html
         # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec01/
         # recording: https://leccap.engin.umich.edu/leccap/player/r/oTAiJl
         # annotations: resources/lectures/lec01/lec01-annotated.pdf
@@ -15,7 +15,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Python Basics
-        # html: resources/lectures/lec02/lec02-filled.html
+        html: resources/lectures/lec02/lec02-filled.html
         # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec02/
         videos: https://youtu.be/IaEuWJCcwjk?feature=shared
         reading: https://wesmckinney.com/book/python-basics
@@ -43,8 +43,7 @@ days:
         reading_text: PDA 4
         reading2: https://inferentialthinking.com/chapters/09/3/Simulation.html
         reading2_text: CIT 9.3
-        videos: https://youtu.be/shc1YcPrfXE?feature=shared
-        # note: The "extra video" covers the airplane seats example from the end of lecture.
+        videos: https://youtube.com/playlist?list=PLEFTQpsm47qTA6bbunn7jAwZUyLKgvJrr
       - name: LEC 4
         type: lecture
         title: DataFrame Fundamentals
