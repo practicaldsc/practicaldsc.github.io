@@ -10,7 +10,7 @@ days:
         html: resources/lectures/lec01/lec01-filled.html
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec01/
         # recording: https://leccap.engin.umich.edu/leccap/player/r/oTAiJl
-        # annotations: resources/lectures/lec01/lec01-annotated.pdf
+        annotations: resources/lectures/lec01/lec01-annotated.pdf
         reading_text: LDS 1
       - name: LEC 2
         type: lecture
@@ -20,7 +20,7 @@ days:
         videos: https://youtu.be/IaEuWJCcwjk?feature=shared
         reading: https://wesmckinney.com/book/python-basics
         # recording: https://leccap.engin.umich.edu/leccap/player/r/SgWJsK
-        # annotations: resources/lectures/lec02/lec02-annotated.pdf
+        annotations: resources/lectures/lec02/lec02-annotated.pdf
         reading_text: PDA 2-3
         # note: The "extra video" covers the area codes example in-depth.
   # - date: "2025-05-07"
