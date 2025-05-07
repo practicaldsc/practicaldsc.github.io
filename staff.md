@@ -21,9 +21,9 @@ nav_order: 8
 {{ staffer }}
 {% endfor %}
 
-<!-- ## Graders
+## Graders
 
 {% assign tas = site.staffers | where: 'role', 'Grader' %}
 {% for staffer in tas %}
 {{ staffer }}
-{% endfor %} -->
+{% endfor %}
