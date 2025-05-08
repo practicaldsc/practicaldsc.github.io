@@ -36,7 +36,7 @@ days:
         type: lecture
         title: NumPy and Random Simulations
         html: resources/lectures/lec03/lec03-filled.html
-        # annotations: resources/lectures/lec03/lec03-annotated.pdf
+        annotations: resources/lectures/lec03/lec03-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/W4Dwoi
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec03/
         reading: https://wesmckinney.com/book/numpy-basics
@@ -48,7 +48,7 @@ days:
         type: lecture
         title: DataFrame Fundamentals
         html: resources/lectures/lec04/lec04-filled.html
-        # annotations: resources/lectures/lec04/lec04-annotated.pdf
+        annotations: resources/lectures/lec04/lec04-annotated.pdf
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec04/
         reading: https://learningds.org/ch/06/pandas_subsetting.html
         reading_text: LDS 6.1
