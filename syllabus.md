@@ -193,12 +193,12 @@ We will release the spec for the Final Project by the end of the second week of 
 
 In typical Fall/Winter terms, discussion sections are used to prepare students for exams, by having students work through worksheets with theoretical practice problems from related courses. Given the faster pace of the Spring term and the pace of homework deadlines (most weeks have 2 homeworks due), we have made the decision to **not hold discussion sections** this term.
 
-Instead, we're planning on replacing the discussion section slot – which is currently scheduled on Wednesdays from 2-4PM in 1690 BBB (the same room as lecture) – with a new type of meeting, called a "study session." Study sessions are like group office hours, where you can come to work on homeworks, meet your classmates, and get help from course staff. There will almost always be a homework due on the day of a study session, which make them a great place to wrap up the currently-due homework.
+Instead, we're planning on replacing the discussion section slot with a new type of meeting, called a "study session." Study sessions are like group office hours, where you can come to work on homeworks, meet your classmates, and get help from course staff. There will almost always be a homework due on the day of a study session, which make them a great place to wrap up the currently-due homework.
+
+{: .red }
+**Based on availability shared in the Welcome Survey, we've decided not to hold study sessions from 2-4PM on Wednesdays (the originally-scheduled discussion section slot), but rather, hold them later in the evenings on Wednesdays. See the [Calendar](../calendar) tab of the course website for the most up-to-date schedule.**
 
 Study session attendance is **optional**. In Week 1, the study session is a great place to come to get started on Homework 1 and iron out any issues you ran into while following the steps in the [⚙️ Environment Setup](../env-setup) page.
-
-In the [Welcome Survey](https://forms.gle/eZFdhpwn156CQuk29), we will ask for your general availability for office hours and study sessions. If it turns out that most students can't – or would prefer not to – attend the Wednesday 2-4PM study session slot, we may reschedule it and/or replace it with standard office hours.
-
 
 ### Office Hours
 

@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Python, NumPy, and Pandas<br><small>In this week's lectures, the <b>⏯️ videos</b> cover extra examples that reinforce ideas from lecture.<br>These are <b>not</b> the lecture recordings; recordings will be posted after class.</small>"
+title: "Week 1: Python, NumPy, and Pandas"
 weekNumber: 1
 days:
   - date: "2025-05-06"
