@@ -1,5 +1,5 @@
 ---
-title: "Week 2: More Pandas, EDA, and Web Scraping<br><small>In-person lecture on Tuesday, May 13th is cancelled. Pre-recorded videos will be posted in advance.</small>"
+title: "Week 2: More Pandas, EDA, and Web Scraping<br><small>In-person lecture on Tuesday, May 13th is cancelled. Lecture videos from last semester have already been posted below. Make sure to read the DataFrame Internals guide!</small>"
 weekNumber: 2
 days:
   - date: "2025-05-13"
@@ -7,25 +7,25 @@ days:
       - name: LEC 5
         type: lecture
         title: "Aggregation: Grouping and Pivoting"
-        # html: resources/lectures/lec05/lec05-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec05/
+        html: resources/lectures/lec05/lec05-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec05/
         reading: https://learningds.org/ch/06/pandas_aggregating.html
         reading_text: LDS 6.2
         guide: ../guides/data-wrangling/df-internals
         guide_title: DataFrame Internals
-        # annotations: resources/lectures/lec05/lec05-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/EQalPj
+        annotations: resources/lectures/lec05/lec05-annotated.pdf
+        recording: https://youtu.be/TLzUE-FyVcM
       - name: LEC 6
         type: lecture
         title: Pivoting, Merging, and Transforming
-        # html: resources/lectures/lec06/lec06-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec06/
+        html: resources/lectures/lec06/lec06-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec06/
         reading: https://learningds.org/ch/06/pandas_joining.html
         reading_text: LDS 6.3
         reading2: https://notes.dsc80.com/content/05/introduction.html
         reading2_text: DSP 5
-        # annotations: resources/lectures/lec06/lec06-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/6z4ocO
+        annotations: resources/lectures/lec06/lec06-annotated.pdf
+        recording: https://youtu.be/HE79g_7EC8I
   - date: "2025-05-14"
     events:
       - name: HW 2
