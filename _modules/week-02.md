@@ -1,5 +1,5 @@
 ---
-title: "Week 2: More Pandas, EDA, and Web Scraping<br><small>In-person lecture on Tuesday, May 13th is cancelled. Lecture videos from last semester have already been posted below. Make sure to read the DataFrame Internals guide!</small>"
+title: "Week 2: More Pandas, EDA, and Web Scraping<br><small>In-person lecture on Tuesday, May 13th is cancelled. Lecture videos from last semester have been posted below. Make sure to read the DataFrame Internals guide!</small>"
 weekNumber: 2
 days:
   - date: "2025-05-13"
