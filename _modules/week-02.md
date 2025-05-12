@@ -37,8 +37,8 @@ days:
       - name: LEC 7
         type: lecture
         title: EDA, Visualization, and Missing Value Imputation
-        # html: resources/lectures/lec07/lec07-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec07/
+        html: resources/lectures/lec07/lec07-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec07/
         reading: https://learningds.org/ch/10/eda_intro.html
         reading_text: LDS 10-11
         # annotations: resources/lectures/lec07/lec07-annotated.pdf
@@ -48,8 +48,8 @@ days:
       - name: LEC 8
         type: lecture
         title: Web Scraping and APIs
-        # html: resources/lectures/lec08/lec08-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec08/
+        html: resources/lectures/lec08/lec08-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec08/
         reading: https://learningds.org/ch/14/web_http.html
         reading_text: LDS 14.3
         reading2: https://notes.dsc80.com/content/07/html.html
