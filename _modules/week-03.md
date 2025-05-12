@@ -6,7 +6,8 @@ days:
     events:
       - name: HW 3
         type: hw
-        title: Grouping, Pivoting, and Merging
+        title: <b>Grouping, Pivoting, and Merging</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw03/hw03.ipynb
   - date: "2025-05-20"
     events:
       - name: LEC 9
