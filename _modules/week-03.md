@@ -36,8 +36,8 @@ days:
     events:
       - name: HW 4
         type: hw
-        title: EDA and Web Scraping
-        # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw04/hw04.ipynb
+        title: <b>EDA and Web Scraping</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw04/hw04.ipynb
   - date: "2025-05-22"
     events:
       - name: LEC 11
