@@ -13,8 +13,8 @@ days:
       - name: LEC 9
         type: lecture
         title: Regular Expressions
-        # html: resources/lectures/lec09/lec09-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec09/
+        html: resources/lectures/lec09/lec09-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec09/
         reading: https://learningds.org/ch/13/text_regex.html?highlight=regular%20expressions
         # annotations: resources/lectures/lec09/lec09-annotated.pdf
         reading_text: LDS 13.3
@@ -22,8 +22,8 @@ days:
       - name: LEC 10
         type: lecture
         title: Text as Data
-        # html: resources/lectures/lec10/lec10-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec10/
+        html: resources/lectures/lec10/lec10-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec10/
         reading: https://notes.dsc80.com/content/08/nlp.html
         reading_text: DSP 8.2
         reading2: https://learningds.org/ch/13/text_sotu.html
