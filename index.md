@@ -19,8 +19,8 @@ EECS 398, Spring 2025 🌸 at the <b><span style="background-color: #FFCB05; col
 {{ staffer }}
 {% endfor %}
 
-<!-- {: .green }
-> In-person lecture on Tuesday, May 13th is cancelled. Lecture videos from last semester have been posted below. We'll see you back in lecture on Thursday! -->
+{: .green }
+> Technical Interview (and practice interview) signups are now open; check [**this post on Ed**](https://edstem.org/us/courses/78535/discussion/6710256) for details.
 
 [Jump to Week 2: More Pandas, EDA, and Web Scraping](#week-2-more-pandas-eda-and-web-scraping){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple }
 

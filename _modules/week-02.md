@@ -62,6 +62,6 @@ days:
     events:
       - name: INT
         type: interview
-        title: Technical Interview Signups Open
-        note: Technical Interview slots are on May 22nd, 23rd, and 27th, all in-person. Practice interview slots are on May 19th (Zoom), May 20th (in-person), and May 21st (Zoom). See the <a href="../syllabus#technical-interview">Syllabus</a> for more details.
+        title: <b><a href="https://edstem.org/us/courses/78535/discussion/6710256">Technical Interview Signups Open</a></b>
+        note: Click the link above to make an appointment, and see the <a href="../syllabus#technical-interview">Syllabus</a> for more details.
 ---
