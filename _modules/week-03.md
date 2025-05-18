@@ -54,12 +54,12 @@ days:
         note: Watch all of the videos in the playlist above, but especially <a href="https://youtu.be/NSIEP74ifyg?feature=shared">the first one</a>, as it covers a derivation that is relevant to upcoming homeworks and exams.
       - name: LEC 12
         type: lecture
-        title: Loss Functions and Simple Linear Regression
+        title: Simple Linear Regression
         reading: https://learningds.org/ch/15/linear_intro.html
         reading_text: LDS 15.1-15.3
         reading2: resources/other/40a-note-2.pdf
         reading2_text: UCSD 2.1
-        # blank_slides: resources/lectures/lec12/lec12-blank.pdf
+        blank_slides: resources/lectures/lec12/lec12-blank.pdf
         # filled_slides: resources/lectures/lec12/lec12-filled.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/uVcwV8
 
