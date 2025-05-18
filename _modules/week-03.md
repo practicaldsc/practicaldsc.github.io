@@ -63,6 +63,4 @@ days:
         # filled_slides: resources/lectures/lec12/lec12-filled.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/uVcwV8
 
-
-
 ---

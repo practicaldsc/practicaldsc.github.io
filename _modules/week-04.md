@@ -11,7 +11,10 @@ days:
     events:
       - name: LEC 13
         type: lecture
-        title: Exam Review
+        title: Exam Review (from 2-3:30PM; OH from 3:30-5PM)
+        blank_slides: resources/lectures/lec13/lec13-blank.pdf
+        problems: https://study.practicaldsc.org/fa24-final/
+        note: Here, we will work through the first 8 questions of the Fall 2024 Final Exam (back when the Final was cumulative).
   - date: "2025-05-28"
     events:
       - name: EXAM
