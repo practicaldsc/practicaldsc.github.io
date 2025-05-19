@@ -6,7 +6,8 @@ days:
     events:
       - name: HW 5
         type: hw
-        title: APIs and Regular Expressions
+        title: <b>APIs and Regular Expressions</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw05/hw05.ipynb
       - name: sur
         type: survey
         title: <b><a href="https://forms.gle/6gXnucLevXTZEX2x5">Pre-Midterm Survey</a></b>
