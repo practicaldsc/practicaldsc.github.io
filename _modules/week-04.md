@@ -7,6 +7,9 @@ days:
       - name: HW 5
         type: hw
         title: APIs and Regular Expressions
+      - name: sur
+        type: survey
+        title: <b><a href="https://forms.gle/6gXnucLevXTZEX2x5">Pre-Midterm Survey</a></b>
   - date: "2025-05-27"
     events:
       - name: LEC 13
