@@ -241,7 +241,7 @@ schedule (which is subject to change in any given week):
 
 This class has one Midterm Exam and one Final Exam. The Final Exam is **not** cumulative, in that the focus will be on content from the second half of the semester, though the content in the second half of the course builds on the first half. The exams will feature a mix of multiple choice, select all, short answer, and long answer questions, including questions that require you to write code and do math. See [study.practicaldsc.org](https://study.practicaldsc.org) for links to the exams from previous offerings.
 
-- **Midterm Exam**: Wednesday, May 28th, 2-4PM (held during the discussion section slot)
+- **Midterm Exam**: Wednesday, May 28th, 2-4PM
 
 - **Final Exam:** Tuesday, June 24th, 1:30-3:30PM
 
