@@ -16,7 +16,7 @@ days:
         html: resources/lectures/lec09/lec09-filled.html
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec09/
         reading: https://learningds.org/ch/13/text_regex.html?highlight=regular%20expressions
-        # annotations: resources/lectures/lec09/lec09-annotated.pdf
+        annotations: resources/lectures/lec09/lec09-annotated.pdf
         reading_text: LDS 13.3
         # recording: https://leccap.engin.umich.edu/leccap/player/r/DNJN9g
       - name: LEC 10
@@ -30,7 +30,7 @@ days:
         reading2_text: LDS 13.4
         guide: ../guides/linear-algebra/vectors-angles
         guide_title: Vectors and angles
-        # annotations: resources/lectures/lec10/lec10-annotated.pdf
+        annotations: resources/lectures/lec10/lec10-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/cPSRvm
   - date: "2025-05-21"
     events:
