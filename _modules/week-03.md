@@ -18,7 +18,7 @@ days:
         reading: https://learningds.org/ch/13/text_regex.html?highlight=regular%20expressions
         annotations: resources/lectures/lec09/lec09-annotated.pdf
         reading_text: LDS 13.3
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/DNJN9g
+        recording: https://leccap.engin.umich.edu/leccap/player/r/NEe8p7
       - name: LEC 10
         type: lecture
         title: Text as Data
@@ -31,7 +31,7 @@ days:
         guide: ../guides/linear-algebra/vectors-angles
         guide_title: Vectors and angles
         annotations: resources/lectures/lec10/lec10-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/cPSRvm
+        recording: https://leccap.engin.umich.edu/leccap/player/r/NEe8p7
   - date: "2025-05-21"
     events:
       - name: HW 4
