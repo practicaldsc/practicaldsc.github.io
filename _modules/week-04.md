@@ -51,9 +51,4 @@ days:
         # recording: https://leccap.engin.umich.edu/leccap/player/r/6Zpa1q
         # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw07/hw07.ipynb
         # note: Note the later deadline!
-  - date: "2025-05-30"
-    events:
-      - name: PROJ
-        type: proj
-        title: Final Project Checkpoint
 ---

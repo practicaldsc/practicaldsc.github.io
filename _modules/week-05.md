@@ -32,6 +32,10 @@ days:
     - name: HW 7
       type: hw
       title: Multiple Linear Regression
+    - name: PROJ
+      type: proj
+      title: <b>(Optional) Deadline to Propose Custom Dataset</b>
+      specifications: ./final-project
 - date: "2025-06-05"
   events:
     - name: LEC 18
@@ -56,5 +60,11 @@ days:
       reading_text: LDS 16.4
       reading: https://learningds.org/ch/16/ms_regularization.html
       # recording: https://leccap.engin.umich.edu/leccap/player/r/MTgHNh
+- date: "2025-06-06"
+  events:
+    - name: PROJ
+      type: proj
+      title: <b>Final Project Checkpoint</b>
+      specifications: ./final-project
 ---
   

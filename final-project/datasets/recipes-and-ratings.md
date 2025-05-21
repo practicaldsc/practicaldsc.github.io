@@ -24,7 +24,7 @@ This dataset contains recipes and ratings from [food.com](https://food.com). It 
 
 ## Getting the Data
 
-Download the data [here](https://drive.google.com/drive/folders/1bnnL1NBlLajrlP5E2Gw8Q72j9z2gbxsR?usp=sharing); you may need to create a free Kaggle account to do so. You'll download two CSV files:
+Download the data [here](https://drive.google.com/drive/folders/1bnnL1NBlLajrlP5E2Gw8Q72j9z2gbxsR?usp=sharing). You'll download two CSV files:
 - `RAW_recipes.csv` contains recipes.
 - `RAW_interactions.csv` contains reviews and ratings submitted for the recipes in `RAW_recipes.csv`.
 
@@ -59,11 +59,11 @@ For context, you may want to look at an example recipe [directly on food.com](ht
 | `'rating'`    | Rating given        |
 | `'review'`    | Review text         |
 
-After downloading the datasets, you **must** follow the following steps to merge the two datasets and create a column containing the average rating per recipe:
-1. Left merge the recipes and interactions datasets together.
-2. In the merged dataset, fill all ratings of 0 with `np.nan`. (Think about _why_ this is a reasonable step, and include your justification in your website.)
-3. Find the average rating per recipe, as a Series.
-4. Add this Series containing the average rating per recipe back to the merged dataset. **Use this resulting dataset for all of your analysis.**
+{: .green }
+> Beware: `RAW_recipes.csv` and `RAW_interactions.csv` are not the same size. `RAW_recipes.csv` has one row **per recipe**, but `RAW_interactions.csv` has one row **per review of a recipe**. So, a first step will be to combine the two datasets together in some informed way.
+> - We think the most natural solution is to produce a combined DataFrame with one row **per recipe**. However, if you merge the two raw DataFrames together, you will not end up with just one row per recipe, but rather, one row per review of a recipe.
+> - So, our advice is to group the interactions dataset by `'recipe_id'` and compute the average rating per recipe. This will yield a Series with one entry per recipe, which you can then add back to the recipes DataFrame by merging (or by adding it directly as a column, once you set the index of the recipes DataFrame to `'id'`). Then, if your goal is to predict ratings, what you'll really be predicting is average rating.
+> - If you want to keep reviews along as well, you can group by `'recipe_id'` and sum the reviews column to once again yield a Series with one entry per recipe.
 
 ---
 
@@ -82,8 +82,6 @@ Feel free to use one of the prompts below to build your predictive model in Step
 - Predict the number of minutes to prepare recipes.
 - Predict the number of steps in recipes.
 - Predict calories of recipes.
-
-Make sure to justify what information you would know at the "time of prediction" and to only train your model using those features.
 
 ---
 
