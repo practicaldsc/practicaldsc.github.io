@@ -23,8 +23,7 @@ days:
     events:
       - name: EXAM
         type: exam
-        title: <b>Midterm Exam (2-4PM, 1670 BBB, in-person)</b>
-        note: Well before the exam, you should start practicing the theoretical problems at the <a href="https://study.practicaldsc.org/">Study Site</a>.
+        title: <b>Midterm Exam (2-4PM, 1670 BBB; <a href="https://edstem.org/us/courses/78535/discussion/6727704">details here</a>)</b>
   - date: "2025-05-29"
     events:
       - name: LEC 14

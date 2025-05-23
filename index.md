@@ -21,6 +21,8 @@ EECS 398, Spring 2025 🌸 at the <b><span style="background-color: #FFCB05; col
 
 {: .green }
 > Technical Interview (and practice interview) signups are now open; check [**this post on Ed**](https://edstem.org/us/courses/78535/discussion/6710256) for details, and see [**this post**](https://edstem.org/us/courses/78535/discussion/6722090) for practice problems and a walkthrough video.
+>
+> The Midterm Exam is **this Wednesday, May 28th from 2-4PM in 1670 BBB**. Read [**this post**](https://edstem.org/us/courses/78535/discussion/6727704) for tips on how to study.
 
 [Jump to Week 3: Text Data, Introduction to Machine Learning](#week-3-text-data-introduction-to-machine-learning){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple }
 
