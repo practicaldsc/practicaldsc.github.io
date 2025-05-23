@@ -50,7 +50,7 @@ days:
         reading2: resources/other/40a-note-1.pdf
         reading2_text: UCSD 1.1-1.2
         videos: https://www.youtube.com/playlist?list=PLEFTQpsm47qQwTM7yz0XwaVOn54ooevNp
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/15QoQS
+        recording: https://leccap.engin.umich.edu/leccap/player/r/fybADL
         note: Watch all of the videos in the playlist above, but especially <a href="https://youtu.be/NSIEP74ifyg?feature=shared">the first one</a>, as it covers a derivation that is relevant to upcoming homeworks and exams.
       - name: LEC 12
         type: lecture
@@ -61,6 +61,6 @@ days:
         reading2_text: UCSD 2.1
         blank_slides: resources/lectures/lec12/lec12-blank.pdf
         filled_slides: resources/lectures/lec12/lec12-filled.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/uVcwV8
+        recording: https://leccap.engin.umich.edu/leccap/player/r/fybADL
 
 ---
