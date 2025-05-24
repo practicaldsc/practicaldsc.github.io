@@ -6,7 +6,8 @@ days:
   events:
     - name: HW 6
       type: hw
-      title: GPTEECS and Loss Functions
+      title: <b>GPTEECS and Loss Functions</b>
+      github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw06/hw06.ipynb
 - date: "2025-06-03"
   events:
       - name: LEC 16
