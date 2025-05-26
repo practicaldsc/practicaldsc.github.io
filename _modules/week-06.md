@@ -2,11 +2,6 @@
 title: "Week 6: Classification"
 weekNumber: 6
 days:
-- date: "2025-06-09"
-  events:
-    - name: HW 8
-      type: hw
-      title: Feature Engineering and Pipelines
 - date: "2025-06-10"
   events:
       - name: LEC 20
@@ -27,11 +22,9 @@ days:
         reading_text: LDS 19
         # annotations: resources/lectures/lec21/lec21-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/S9Quiy
-- date: "2025-06-11"
-  events:
-    - name: HW 9
-      type: hw
-      title: Cross-Validation and Regularization
+      - name: HW 8
+        type: hw
+        title: Feature Engineering and Pipelines
 - date: "2025-06-12"
   events:
     - name: LEC 22
@@ -54,5 +47,10 @@ days:
       reading_text: Softmax Notes
       # annotations: resources/lectures/lec23/lec23-annotated.pdf
       # recording: https://leccap.engin.umich.edu/leccap/player/r/QwsdET
+- date: "2025-06-13"
+  events:
+      - name: HW 9
+        type: hw
+        title: Cross-Validation and Regularization
 ---
   

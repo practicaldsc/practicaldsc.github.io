@@ -2,11 +2,6 @@
 title: "Week 7: Clustering, Conclusion, Review"
 weekNumber: 6
 days:
-- date: "2025-06-16"
-  events:
-    - name: HW 10
-      type: hw
-      title: Gradient Descent and Classification
 - date: "2025-06-17"
   events:
       - name: LEC 24
@@ -27,16 +22,17 @@ days:
         # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec25/
         # annotations: resources/lectures/lec25/lec25-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/2o9zjg
-- date: "2025-06-18"
-  events:
-    - name: HW 11
-      type: hw
-      title: Logistic Regression
+      - name: HW 10
+        type: hw
+        title: Gradient Descent and Classification
 - date: "2025-06-20"
   events:
     - name: PROJ
       type: proj
       title: <b>Final Project (<span style="color:red">no slip days!</span>)</b>
       specifications: ./final-project
+    - name: HW 11
+      type: hw
+      title: Logistic Regression
 ---
   

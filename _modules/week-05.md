@@ -2,12 +2,6 @@
 title: "Week 5: Feature Engineering, Generalization"
 weekNumber: 5
 days:
-- date: "2025-06-02"
-  events:
-    - name: HW 6
-      type: hw
-      title: <b>GPTEECS and Loss Functions</b>
-      github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw06/hw06.ipynb
 - date: "2025-06-03"
   events:
       - name: LEC 16
@@ -28,11 +22,12 @@ days:
         # annotations: resources/lectures/lec17/lec17-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/kYJ2ap
         reading_text: LDS 16
+      - name: HW 6
+        type: hw
+        title: <b>GPTEECS and Loss Functions</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw06/hw06.ipynb
 - date: "2025-06-04"
   events:
-    - name: HW 7
-      type: hw
-      title: Multiple Linear Regression
     - name: PROJ
       type: proj
       title: <b>(Optional) Deadline to Propose Custom Dataset</b>
@@ -63,6 +58,9 @@ days:
       # recording: https://leccap.engin.umich.edu/leccap/player/r/MTgHNh
 - date: "2025-06-06"
   events:
+    - name: HW 7
+      type: hw
+      title: Multiple Linear Regression
     - name: PROJ
       type: proj
       title: <b>Final Project Checkpoint</b>

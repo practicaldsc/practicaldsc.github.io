@@ -4,10 +4,6 @@ weekNumber: 4
 days:
   - date: "2025-05-26"
     events:
-      - name: HW 5
-        type: hw
-        title: <b>APIs and Regular Expressions</b>
-        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw05/hw05.ipynb
       - name: sur
         type: survey
         title: <b><a href="https://forms.gle/6gXnucLevXTZEX2x5">Pre-Midterm Survey</a></b>
@@ -50,4 +46,11 @@ days:
         # recording: https://leccap.engin.umich.edu/leccap/player/r/6Zpa1q
         # github: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw07/hw07.ipynb
         # note: Note the later deadline!
+  - date: "2025-05-30"
+    events:
+      - name: HW 5
+        type: hw
+        title: <b>APIs and Regular Expressions</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw05/hw05.ipynb
+        note: Note the later deadline!
 ---
