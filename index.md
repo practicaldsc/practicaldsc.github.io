@@ -26,7 +26,7 @@ EECS 398, Spring 2025 🌸 at the <b><span style="background-color: #FFCB05; col
 >
 > The deadlines for Homeworks 5 and 6 have been pushed back; see the calendar below.
 
-[Jump to Week 3: Text Data, Introduction to Machine Learning](#week-3-text-data-introduction-to-machine-learning){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple }
+[Jump to Week 4: Midterm Exam, Regression with Linear Algebra](#week-4-midterm-exam-regression-with-linear-algebra){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple }
 
 {% for module in site.modules %}
 {{ module }}
