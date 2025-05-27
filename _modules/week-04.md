@@ -13,6 +13,7 @@ days:
         type: lecture
         title: Exam Review (from 2-3:30PM; OH from 3:30-5PM)
         blank_slides: resources/lectures/lec13/lec13-blank.pdf
+        filled_slides: resources/lectures/lec13/lec13-filled.pdf
         problems: https://study.practicaldsc.org/fa24-final/
         note: Here, we will work through the first 8 questions of the Fall 2024 Final Exam (back when the Final was cumulative).
   - date: "2025-05-28"
