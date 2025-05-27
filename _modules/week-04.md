@@ -16,6 +16,7 @@ days:
         filled_slides: resources/lectures/lec13/lec13-filled.pdf
         problems: https://study.practicaldsc.org/fa24-final/
         note: Here, we will work through the first 8 questions of the Fall 2024 Final Exam (back when the Final was cumulative).
+        recording: https://leccap.engin.umich.edu/leccap/player/r/k59eDS
   - date: "2025-05-28"
     events:
       - name: EXAM
