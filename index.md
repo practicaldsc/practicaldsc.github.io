@@ -20,11 +20,7 @@ EECS 398, Spring 2025 🌸 at the <b><span style="background-color: #FFCB05; col
 {% endfor %}
 
 {: .green }
-> If you've signed up for a Technical Interview, see [**this post**](https://edstem.org/us/courses/78535/discussion/6722090) for practice problems and a walkthrough video.
->
-> The Midterm Exam is **this Wednesday, May 28th from 2-4PM in 1670 BBB**. Read [**this post**](https://edstem.org/us/courses/78535/discussion/6727704) for tips on how to study.
->
-> The deadlines for Homeworks 5 and 6 have been pushed back; see the calendar below.
+The deadlines for Homeworks 5 and 6 have been pushed back; see the calendar below.
 
 [Jump to Week 4: Midterm Exam, Regression with Linear Algebra](#week-4-midterm-exam-regression-with-linear-algebra){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple }
 
