@@ -7,8 +7,8 @@ days:
       - name: LEC 16
         type: lecture
         title: Feature Engineering
-        # html: resources/lectures/lec16/lec16-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec16/
+        html: resources/lectures/lec16/lec16-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec16/
         # annotations: resources/lectures/lec16/lec16-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/ODZGzR
         reading: https://learningds.org/ch/15/linear_feature_eng.html
@@ -16,8 +16,8 @@ days:
       - name: LEC 17
         type: lecture
         title: Pipelines
-        # html: resources/lectures/lec17/lec17-filled.html
-        # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec17/
+        html: resources/lectures/lec17/lec17-filled.html
+        github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec17/
         reading: https://learningds.org/ch/16/ms_intro.html
         # annotations: resources/lectures/lec17/lec17-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/kYJ2ap
