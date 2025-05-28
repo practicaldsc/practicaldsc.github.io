@@ -37,8 +37,8 @@ days:
     - name: LEC 18
       type: lecture
       title: Generalization and Cross-Validation
-      # html: resources/lectures/lec18/lec18-filled.html
-      # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec18/
+      html: resources/lectures/lec18/lec18-filled.html
+      github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec18/
       reading: https://learningds.org/ch/16/ms_cv.html
       reading_text: LDS 16.3
       reading2: https://mlu-explain.github.io/cross-validation/
@@ -48,8 +48,8 @@ days:
     - name: LEC 19
       type: lecture
       title: Regularization
-      # html: resources/lectures/lec19/lec19-filled.html
-      # github: https://github.com/practicaldsc/wn25/blob/main/lectures/lec19/
+      html: resources/lectures/lec19/lec19-filled.html
+      github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec19/
       guide: ../guides/machine-learning/ridge-regression
       # annotations: resources/lectures/lec19/lec19-annotated.pdf
       guide_title: Ridge Regression
