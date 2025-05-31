@@ -60,7 +60,8 @@ days:
   events:
     - name: HW 7
       type: hw
-      title: Multiple Linear Regression
+      title: <b>Multiple Linear Regression</b>
+      github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw07/hw07.ipynb
     - name: PROJ
       type: proj
       title: <b>Final Project Checkpoint</b>
