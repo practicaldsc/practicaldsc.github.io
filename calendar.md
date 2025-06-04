@@ -30,4 +30,6 @@ The events are color-coded:
 <a class="btn" style="background-color: #e6804d; color: white;" href="https://umich.zoom.us/j/95923283134">Zoom link for remote office hours</a> 
 </div>
 
+**Can't make it to any of the office hours? Send Suraj an email at rampure@umich.edu.**
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FDetroit&showPrint=0&showTitle=0&mode=WEEK&showCalendars=0&src=Y19jZjgzYmIxNDkxODBmMmJlOWNlMGEwMGNhOTE1NDc2N2Q4NDgwYTdiMmVhZWI5NGQ4NmQ1YmRiNmI0M2NjMjRmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y180YjBhOWI0YTAzMzk0OWZhNGU2MTEyZWJiNzQ2MWNhNTA4M2Q0M2RkZTc5YmU1Y2NjMzIyYTQ1YjQyNThkNjQ5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18xMGRmNjZiYzdlZjc2ZDliZDg0OGI4N2NmYjZjOWRhZDg4NTllNWRjMGIwNzNjYmRlYTg4OWUxMWRmYmU1NzlmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y184MzhiMDYwMDkzOTQ2NmJkZDczNGU2ZmYzZGJjNDQ4ZDEzMTIwMGI2NzZlNTNmMTJmOTcxNThiNWQ2MzAyOWQ0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y182NmRjY2Q1MWI3ZTAwNmJiNTkzOTYwNTg3MzE2NmZlOTIzNTgwMGQzODkwNDNhZTNmOTIyMmUxOGVmYThiMTc4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043&color=%23F6BF26&color=%234285F4&color=%23EF6C00" style="border-width:0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
