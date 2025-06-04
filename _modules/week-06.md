@@ -24,7 +24,8 @@ days:
         # recording: https://leccap.engin.umich.edu/leccap/player/r/S9Quiy
       - name: HW 8
         type: hw
-        title: Feature Engineering and Pipelines
+        title: <b>Feature Engineering and Pipelines</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw08/hw08.ipynb
 - date: "2025-06-12"
   events:
     - name: LEC 22
