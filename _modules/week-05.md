@@ -43,7 +43,7 @@ days:
       reading_text: LDS 16.3
       reading2: https://mlu-explain.github.io/cross-validation/
       reading2_text: MLU Explain
-      # annotations: resources/lectures/lec18/lec18-annotated.pdf
+      annotations: resources/lectures/lec18/lec18-annotated.pdf
       # recording: https://leccap.engin.umich.edu/leccap/player/r/nfntWB
     - name: LEC 19
       type: lecture
@@ -51,7 +51,7 @@ days:
       html: resources/lectures/lec19/lec19-filled.html
       github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec19/
       guide: ../guides/machine-learning/ridge-regression
-      # annotations: resources/lectures/lec19/lec19-annotated.pdf
+      annotations: resources/lectures/lec19/lec19-annotated.pdf
       guide_title: Ridge Regression
       reading_text: LDS 16.4
       reading: https://learningds.org/ch/16/ms_regularization.html
