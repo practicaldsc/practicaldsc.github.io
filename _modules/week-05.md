@@ -10,7 +10,7 @@ days:
         html: resources/lectures/lec16/lec16-filled.html
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec16/
         annotations: resources/lectures/lec16/lec16-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/ODZGzR
+        recording: https://leccap.engin.umich.edu/leccap/player/r/D70yMd
         reading: https://learningds.org/ch/15/linear_feature_eng.html
         reading_text: LDS 15.7
       - name: LEC 17
@@ -20,7 +20,7 @@ days:
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec17/
         reading: https://learningds.org/ch/16/ms_intro.html
         annotations: resources/lectures/lec17/lec17-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/kYJ2ap
+        recording: https://leccap.engin.umich.edu/leccap/player/r/D70yMd
         reading_text: LDS 16
       - name: HW 6
         type: hw
