@@ -44,7 +44,7 @@ days:
       reading2: https://mlu-explain.github.io/cross-validation/
       reading2_text: MLU Explain
       annotations: resources/lectures/lec18/lec18-annotated.pdf
-      # recording: https://leccap.engin.umich.edu/leccap/player/r/nfntWB
+      recording: https://leccap.engin.umich.edu/leccap/player/r/t9xFOG
     - name: LEC 19
       type: lecture
       title: Regularization
@@ -55,7 +55,7 @@ days:
       guide_title: Ridge Regression
       reading_text: LDS 16.4
       reading: https://learningds.org/ch/16/ms_regularization.html
-      # recording: https://leccap.engin.umich.edu/leccap/player/r/MTgHNh
+      recording: https://leccap.engin.umich.edu/leccap/player/r/t9xFOG
 - date: "2025-06-06"
   events:
     - name: HW 7
