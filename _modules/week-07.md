@@ -34,6 +34,7 @@ days:
       specifications: ./final-project
     - name: HW 11
       type: hw
-      title: Logistic Regression
+      title: <b>Logistic Regression</b>
+      github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw11/hw11.ipynb
 ---
   
