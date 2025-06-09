@@ -52,6 +52,7 @@ days:
   events:
       - name: HW 9
         type: hw
-        title: Cross-Validation and Regularization
+        title: <b>Cross-Validation and Regularization</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw09/hw09.ipynb
 ---
   
