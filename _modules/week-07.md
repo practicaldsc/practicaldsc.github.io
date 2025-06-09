@@ -24,7 +24,8 @@ days:
         # recording: https://leccap.engin.umich.edu/leccap/player/r/2o9zjg
       - name: HW 10
         type: hw
-        title: Gradient Descent and Classification
+        title: <b>Gradient Descent and Classification</b>
+        github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw10/hw10.ipynb
 - date: "2025-06-20"
   events:
     - name: PROJ
