@@ -11,8 +11,8 @@ days:
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec20/
         reading: https://learningds.org/ch/20/gd_intro.html
         reading_text: LDS 20
-        # annotations: resources/lectures/lec20/lec20-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/QHnJYd
+        annotations: resources/lectures/lec20/lec20-annotated.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/dwk6kf
       - name: LEC 21
         type: lecture
         title: Introduction to Classification
@@ -20,8 +20,8 @@ days:
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec21/
         reading: https://learningds.org/ch/19/class_intro.html
         reading_text: LDS 19
-        # annotations: resources/lectures/lec21/lec21-annotated.pdf
-        # recording: https://leccap.engin.umich.edu/leccap/player/r/S9Quiy
+        annotations: resources/lectures/lec21/lec21-annotated.pdf
+        recording: https://leccap.engin.umich.edu/leccap/player/r/dwk6kf
       - name: HW 8
         type: hw
         title: <b>Feature Engineering and Pipelines</b>
