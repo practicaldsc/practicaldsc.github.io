@@ -37,7 +37,7 @@ days:
       reading_text: LDS 19.3-19.6
       reading2: https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html
       reading2_text: Berkeley 22-23
-      # annotations: resources/lectures/lec22/lec22-annotated.pdf
+      annotations: resources/lectures/lec22/lec22-annotated.pdf
       # recording: https://leccap.engin.umich.edu/leccap/player/r/h73IGk
     - name: LEC 23
       type: lecture
@@ -46,7 +46,7 @@ days:
       github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec23/
       reading: http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
       reading_text: Softmax Notes
-      # annotations: resources/lectures/lec23/lec23-annotated.pdf
+      annotations: resources/lectures/lec23/lec23-annotated.pdf
       # recording: https://leccap.engin.umich.edu/leccap/player/r/QwsdET
 - date: "2025-06-14"
   events:
