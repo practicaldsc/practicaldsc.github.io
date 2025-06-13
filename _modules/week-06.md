@@ -38,7 +38,7 @@ days:
       reading2: https://ds100.org/course-notes/logistic_regression_1/logistic_reg_1.html
       reading2_text: Berkeley 22-23
       annotations: resources/lectures/lec22/lec22-annotated.pdf
-      # recording: https://leccap.engin.umich.edu/leccap/player/r/h73IGk
+      recording: https://leccap.engin.umich.edu/leccap/player/r/qpiGAq
     - name: LEC 23
       type: lecture
       title: Logistic Regression, Continued
@@ -47,7 +47,7 @@ days:
       reading: http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
       reading_text: Softmax Notes
       annotations: resources/lectures/lec23/lec23-annotated.pdf
-      # recording: https://leccap.engin.umich.edu/leccap/player/r/QwsdET
+      recording: https://leccap.engin.umich.edu/leccap/player/r/qpiGAq
 - date: "2025-06-14"
   events:
       - name: HW 9
