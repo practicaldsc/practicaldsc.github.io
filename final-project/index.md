@@ -185,7 +185,7 @@ As mentioned at the top of this page, this project has a required checkpoint, wo
 
 You will ultimately submit your project in two ways:
 
-1. By uploading a **PDF version** of your notebook to the specific "Final Project Notebook PDF (Dataset)" assignment on Gradescope that's specific to your dataset.
+1. By uploading a **PDF version** of your notebook to the assignment titled "Final Project Notebook PDF" on Gradescope.
    - To export your notebook as a PDF, first, restart your kernel and run all cells. Then, go to "File > Print Preview". Then, save a print preview of the webpage as a PDF. There are other ways to save a notebook as a PDF but they may require that you have additional packages installed on your computer, so this is likely the most straightforward. If you're using VSCode, the instructions are slightly different; let us know if you get stuck (and make sure to start early!).
    - It's fine if your `plotly` graphs don't render in the PDF output of your notebook. However, **make sure none of the code is cut off in your notebook's PDF**. **You will lose 5% of the points available on this project if your code is cut off.**
    - This notebook asks you to include a link to your website; make sure to do so.

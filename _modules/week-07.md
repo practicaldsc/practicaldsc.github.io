@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Clustering, Conclusion, Review"
+title: "Week 7: Clustering, Conclusion"
 weekNumber: 6
 days:
 - date: "2025-06-17"

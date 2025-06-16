@@ -6,5 +6,5 @@ days:
     events:
       - name: EXAM
         type: exam
-        title: <b>Final Exam (1:30-3:30PM, CHRYS 133, in-person)</b>
+        title: <b>Final Exam (1:30-3:30PM, CHRYS 133)</b>
 ---
