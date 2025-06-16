@@ -39,5 +39,20 @@ days:
       type: hw
       title: <b>Logistic Regression</b>
       github: https://github.com/practicaldsc/sp25/blob/main/homeworks/hw11/hw11.ipynb
+- date: "Additional Resources"
+  events:
+    - name: REV 1
+      type: lecture
+      title: Final Review Worksheet 1
+      problems: https://study.practicaldsc.org/fi-review-1/index.html
+      recording: https://leccap.engin.umich.edu/leccap/player/r/3S2pme
+    - name: REV 2
+      type: lecture
+      title: Final Review Worksheet 2
+      problems: https://study.practicaldsc.org/fi-review-2/index.html
+      recording: https://leccap.engin.umich.edu/leccap/player/r/Yj9Jzc
+      note: <b>There are no live review sessions!</b><br>Instead, work on these review worksheets, watch the recordings from last semester for explanations, and make an <a href="calendar">appointment</a> for office hours to discuss any questions.
+
+
 ---
   
