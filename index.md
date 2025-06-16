@@ -26,6 +26,7 @@ EECS 398, Spring 2025 🌸 at the <b><span style="background-color: #FFCB05; col
 > - Office hours for the remainder of the semester are on Zoom by appointment only. Sign up for as many slots as you'd like [**here**](https://calendar.app.google/qrKNHCLQzmU5JYCm6); make sure to sign up at least 2 hours in advance.
 > - The Final Project is due on **Friday, June 20th**, and **slip days are not allowed**!
 > - The Final Exam is on **Tuesday, June 24th from 1:30-3:30PM in CHRYS 133**. Practice using the worksheets [**here**](https://study.practicaldsc.org).
+> - If at least 22/25 students complete both the internal <b><a href="https://forms.gle/KYgxU1RrdeX5QYQNA">End-of-Semester Survey</a></b> and the <b><a href="https://umich.bluera.com/umich/">Official Evaluations</a></b> by Sunday, we'll add an extra 1% to everyone's overall grade in the course.
 
 
 {% for module in site.modules %}
