@@ -7,7 +7,7 @@ days:
       - name: LEC 24
         type: lecture
         title: Clustering
-        # annotations: resources/lectures/lec24/lec24-annotated.pdf
+        annotations: resources/lectures/lec24/lec24-annotated.pdf
         # recording: https://youtu.be/-T0vjDHbG8c
         reading: https://ds100.org/course-notes/clustering/clustering.html
         reading_text: Berkeley 26
@@ -20,7 +20,7 @@ days:
         title: Computer Vision, Conclusion
         html: resources/lectures/lec25/lec25-filled.html
         github: https://github.com/practicaldsc/sp25/blob/main/lectures/lec25/
-        # annotations: resources/lectures/lec25/lec25-annotated.pdf
+        annotations: resources/lectures/lec25/lec25-annotated.pdf
         # recording: https://leccap.engin.umich.edu/leccap/player/r/2o9zjg
       - name: HW 10
         type: hw
