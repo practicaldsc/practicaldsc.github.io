@@ -52,6 +52,10 @@ days:
       problems: https://study.practicaldsc.org/fi-review-2/index.html
       recording: https://leccap.engin.umich.edu/leccap/player/r/Yj9Jzc
       note: <b>There are no live review sessions!</b><br>Instead, work on these review worksheets, watch the recordings from last semester for explanations, and make an <a href="calendar">appointment</a> for office hours to discuss any questions.
+    - name: WN25
+      type: lecture
+      title: Winter 2025 Final Exam Solutions (newly released!)
+      problems: https://study.practicaldsc.org/wn25-final/index.html
 
 
 ---
