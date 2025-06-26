@@ -22,6 +22,7 @@ days:
       - name: EXAM
         type: exam
         title: <b>Midterm Exam (2-4PM, 1670 BBB; <a href="https://edstem.org/us/courses/78535/discussion/6727704">details here</a>)</b>
+        note: You can find a PDF of the Midterm Exam <a href="https://study.practicaldsc.org/assets/pdf/sp25-midterm.pdf">here</a>.
   - date: "2025-05-29"
     events:
       - name: LEC 14

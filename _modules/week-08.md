@@ -13,4 +13,5 @@ days:
       - name: EXAM
         type: exam
         title: <b>Final Exam (1:30-3:30PM, CHRYS 133)</b>
+        note: You can find a PDF of the Final Exam <a href="https://study.practicaldsc.org/assets/pdf/sp25-final.pdf">here</a>.
 ---
