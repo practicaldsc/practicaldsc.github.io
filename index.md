@@ -19,13 +19,10 @@ EECS 398, Spring 2025 🌸 at the <b><span style="background-color: #FFCB05; col
 {{ staffer }}
 {% endfor %}
 
-[Jump to Week 7: Clustering, Conclusion](#week-7-clustering-conclusion){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple }
+<!-- [Jump to Week 7: Clustering, Conclusion](#week-7-clustering-conclusion){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/78535/discussion/6647877){: .btn .btn-purple } -->
 
 {: .green }
-> We're in the final stretch of the semester! A few reminders:
-> - Office hours for the remainder of the semester are on Zoom by appointment only. Sign up for as many slots as you'd like [**here**](https://calendar.app.google/qrKNHCLQzmU5JYCm6); make sure to sign up at least 2 hours in advance.
-> - The Final Exam is on **Tuesday, June 24th from 1:30-3:30PM in CHRYS 133**. Practice using the worksheets [**here**](https://study.practicaldsc.org), including the review worksheets and the [**Winter 2025 Final Exam Solutions**](https://study.practicaldsc.org/wn25-final/index.html) (newly released!).
-> - If at least 22/25 students complete both the internal <b><a href="https://forms.gle/KYgxU1RrdeX5QYQNA">End-of-Semester Survey</a></b> and the <b><a href="https://umich.bluera.com/umich/">Official Evaluations</a></b> by Sunday, we'll add an extra 1% to everyone's overall grade in the course.
+> **Welcome! 👋** This course has concluded, and will not be taught in AY 2025-26. Until it is offered again, you'll be able to find lecture slides, recordings, and assignments archived below.
 
 
 {% for module in site.modules %}
