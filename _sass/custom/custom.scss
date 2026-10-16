@@ -1,115 +1,89 @@
-// Just the Class dependencies
-@import 'card';
-
-// Just the Class styles
-@import 'announcement';
-@import 'module';
-@import 'schedule';
-@import 'staffer';
-
-@import 'mixins';
-
-
-// Overrides
-code {
-  font-size: 14px;
-  padding: 0.2em 0.4em;
-  border: none;
-}
-
-iframe {
-  max-width: 100%;
-}
-
-// details {
-//   @extend .mb-4;
-// }
-
-// summary {
-//   @extend .btn, .btn-outline;
-
-//   width: 100%;
-// }
+// Small layout additions for the single-page archive.
 
 .main-content-wrap {
-  max-width: $content-width;
+  max-width: 1000px;
   margin: auto;
 }
 
-// .main-content {
-//   dl {
-//     display: block;
-//     grid-template-columns: none;
-//   }
-
-//   dt {
-//     font-weight: 700;
-//     text-align: start;
-
-//     &::after {
-//       content: normal;
-//     }
-//   }
-
-//   dd {
-//     font-weight: normal;
-
-//     + dt {
-//       margin-top: 1em;
-//     }
-//   }
-// }
-
-$link-color: #0066cc;
-
-.aux-nav-list-item a[href*="github.com"]::before {
-  content: '';
-  display: inline-block;
-  width: 12px;
-  height: 12px;
-  background-image: url("../../assets/site-images/github-mark.png");
-  background-repeat: no-repeat;
-  background-size: contain;
-  margin-right: 5px;
-  vertical-align: middle;
+.archive-table-wrap {
+  overflow-x: auto;
 }
 
-.aux-nav-list-item a[href*="edstem.org"]::before {
-  content: '';
-  display: inline-block;
-  width: 12px;
-  height: 12px;
-  background-image: url("../../assets/site-images/ed.png");
-  background-repeat: no-repeat;
-  background-size: contain;
-  margin-right: 5px;
-  vertical-align: middle;
+.main-content .archive-table {
+  display: table;
+  width: 100%;
+  min-width: 720px;
+  margin: 0;
+  table-layout: fixed;
 }
 
-.aux-nav-list-item a[href*="gradescope.com"]::before {
-  content: '';
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  background-image: url("../../assets/site-images/gradescope.jpg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  margin-right: 5px;
-  vertical-align: middle;
+.main-content .archive-table th,
+.main-content .archive-table td {
+  min-width: 0;
+  padding: $sp-3 $sp-4;
+  vertical-align: top;
 }
 
-// header bar sticky scroll
-#main-header {
-  position: -webkit-sticky; /* For Safari */
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  // background-color: #333; /* Adjust this to fit your theme */
-  padding: 10px;
+.archive-table thead th {
+  font-weight: 600;
+  letter-spacing: normal;
+  text-transform: none !important;
 }
 
-/* Adjust for sticky header overlap */
-/* Offset the position of any anchored elements */
-h1, h2, h3, h4, h5, h6 {
-  scroll-margin-top: 80px; /* Adjust based on the height of your sticky toolbar */
+.archive-table .lecture-column {
+  width: 68%;
+}
+
+.archive-table .homework-column {
+  width: 32%;
+}
+
+.lecture-entry {
+  display: grid;
+  grid-template-columns: 3.25rem minmax(0, 1fr);
+  gap: $sp-3;
+}
+
+.lecture-number {
+  color: $body-heading-color;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.lecture-title,
+.homework-title {
+  margin: 0 0 $sp-2;
+  color: $body-heading-color;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.lecture-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.lecture-links .btn {
+  margin: 0;
+}
+
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.6rem;
+}
+
+.homework-cell {
+  vertical-align: middle !important;
+}
+
+.homework-label {
+  margin-bottom: $sp-2;
+  font-weight: 600;
+}
+
+@media (max-width: 50rem) {
+  .main-content .archive-table {
+    min-width: 640px;
+  }
 }

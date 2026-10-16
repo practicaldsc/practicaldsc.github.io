@@ -1,0 +1,194 @@
+- homework:
+    label: Homework 1
+    title: Python Fundamentals
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw01/hw01.ipynb
+  lectures:
+    - number: "01"
+      title: Introduction, Jupyter Notebooks
+      html: https://practicaldsc.org/wn25/resources/lectures/lec01/lec01-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec01
+      recording: https://www.youtube.com/watch?v=SAXXLffoxTs
+    - number: "02"
+      title: Python Basics
+      html: https://practicaldsc.org/wn25/resources/lectures/lec02/lec02-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec02
+      recording: https://www.youtube.com/watch?v=SPcFAzZFgcg
+
+- homework:
+    label: Homework 2
+    title: Arrays, Probability, and DataFrames
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw02/hw02.ipynb
+  lectures:
+    - number: "03"
+      title: NumPy and Random Simulations
+      html: https://practicaldsc.org/wn25/resources/lectures/lec03/lec03-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec03
+      recording: https://www.youtube.com/watch?v=5hW1SIXk0Kk
+    - number: "04"
+      title: DataFrame Fundamentals
+      html: https://practicaldsc.org/wn25/resources/lectures/lec04/lec04-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec04
+      recording: https://www.youtube.com/watch?v=5mcX7y1cocc
+
+- homework:
+    label: Homework 3
+    title: Grouping, Pivoting, and Merging
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw03/hw03.ipynb
+  lectures:
+    - number: "05"
+      title: "Aggregation: Grouping and Pivoting"
+      html: https://practicaldsc.org/wn25/resources/lectures/lec05/lec05-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec05
+      recording: https://www.youtube.com/watch?v=FYwnu5OQ0Sw
+    - number: "06"
+      title: Pivoting, Merging, and Transforming
+      html: https://practicaldsc.org/wn25/resources/lectures/lec06/lec06-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec06
+      recording: https://www.youtube.com/watch?v=RjsCV6FwfEI
+
+- homework:
+    label: Homework 4
+    title: EDA and Web Scraping
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw04/hw04.ipynb
+  lectures:
+    - number: "07"
+      title: EDA, Visualization, and Missing Value Imputation
+      html: https://practicaldsc.org/wn25/resources/lectures/lec07/lec07-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec07
+      recording: https://www.youtube.com/watch?v=t6mgj7VXHyQ
+    - number: "08"
+      title: Web Scraping and APIs
+      html: https://practicaldsc.org/wn25/resources/lectures/lec08/lec08-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec08
+      recording: https://www.youtube.com/watch?v=-9oqHmcBFLQ
+
+- homework:
+    label: Homework 5
+    title: APIs and Regular Expressions
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw05/hw05.ipynb
+  lectures:
+    - number: "09"
+      title: Regular Expressions
+      html: https://practicaldsc.org/wn25/resources/lectures/lec09/lec09-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec09
+      recording: https://www.youtube.com/watch?v=gTj4gakmQiY
+    - number: "10"
+      title: Text as Data
+      html: https://practicaldsc.org/wn25/resources/lectures/lec10/lec10-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec10
+      recording: https://www.youtube.com/watch?v=ZoDc2WknS5E
+
+- homework:
+    label: Homework 6
+    title: GPTEECS and Loss Functions
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw06/hw06.ipynb
+  lectures:
+    - number: "11"
+      title: Introduction to Machine Learning
+      slides: https://practicaldsc.org/wn25/resources/lectures/lec11/lec11-filled.pdf
+      recording: https://www.youtube.com/watch?v=OchGxc37Ll8
+    - number: "12"
+      title: Loss Functions and Simple Linear Regression
+      slides: https://practicaldsc.org/wn25/resources/lectures/lec12/lec12-filled.pdf
+      recording: https://www.youtube.com/watch?v=xxVFAVWkxTc
+    - number: "13"
+      title: Exam Review
+      slides: https://practicaldsc.org/wn25/resources/lectures/lec13/lec13-filled.pdf
+      recording: https://www.youtube.com/watch?v=3j6UcrAU79k
+
+- homework:
+    label: Homework 7
+    title: Multiple Linear Regression
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw07/hw07.ipynb
+  lectures:
+    - number: "14"
+      title: Regression using Linear Algebra
+      html: https://practicaldsc.org/wn25/resources/lectures/lec14/lec14-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec14
+      recording: https://www.youtube.com/watch?v=mnPah4PLXJ0
+    - number: "15"
+      title: Multiple Linear Regression
+      html: https://practicaldsc.org/wn25/resources/lectures/lec15/lec15-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec15
+      recording: https://www.youtube.com/watch?v=-UcjhZNkjL4
+
+- homework:
+    label: Homework 8
+    title: Feature Engineering and Pipelines
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw08/hw08.ipynb
+  lectures:
+    - number: "16"
+      title: Feature Engineering
+      html: https://practicaldsc.org/wn25/resources/lectures/lec16/lec16-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec16
+      recording: https://www.youtube.com/watch?v=3CjgYqeYCAo
+    - number: "17"
+      title: Pipelines
+      html: https://practicaldsc.org/wn25/resources/lectures/lec17/lec17-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec17
+      recording: https://www.youtube.com/watch?v=mIT0XYYB2Fc
+
+- homework:
+    label: Homework 9
+    title: Cross-Validation and Regularization
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw09/hw09.ipynb
+  lectures:
+    - number: "18"
+      title: Generalization and Cross-Validation
+      html: https://practicaldsc.org/wn25/resources/lectures/lec18/lec18-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec18
+      recording: https://www.youtube.com/watch?v=0Oq4WslGbCI
+    - number: "19"
+      title: Regularization
+      html: https://practicaldsc.org/wn25/resources/lectures/lec19/lec19-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec19
+      recording: https://www.youtube.com/watch?v=USwto-gtwbI
+
+- homework:
+    label: Homework 10
+    title: Gradient Descent and Classification
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw10/hw10.ipynb
+  lectures:
+    - number: "20"
+      title: Gradient Descent
+      html: https://practicaldsc.org/wn25/resources/lectures/lec20/lec20-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec20
+      recording: https://www.youtube.com/watch?v=oyJb91LilVg
+    - number: "21"
+      title: Introduction to Classification
+      html: https://practicaldsc.org/wn25/resources/lectures/lec21/lec21-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec21
+      recording: https://www.youtube.com/watch?v=tgolh_AIGR8
+
+- homework:
+    label: Homework 11
+    title: Logistic Regression
+    url: https://github.com/practicaldsc/wn25/blob/main/homeworks/hw11/hw11.ipynb
+  lectures:
+    - number: "22"
+      title: Logistic Regression
+      html: https://practicaldsc.org/wn25/resources/lectures/lec22/lec22-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec22
+      recording: https://www.youtube.com/watch?v=0BhpdmeZMJo
+    - number: "23"
+      title: Logistic Regression, Continued
+      html: https://practicaldsc.org/wn25/resources/lectures/lec23/lec23-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec23
+      recording: https://www.youtube.com/watch?v=6Yr6bAZRKtQ
+
+- homework:
+    label: Capstone
+    title: Final Project
+    url: https://practicaldsc.org/wn25/final-project/
+    link_text: View project guide
+  lectures:
+    - number: "24"
+      title: Clustering
+      html: https://practicaldsc.org/wn25/resources/lectures/lec24/lec24-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec24
+      recording: https://www.youtube.com/watch?v=1q8Lj33EUx4
+    - number: "25"
+      title: Computer Vision, Conclusion
+      html: https://practicaldsc.org/wn25/resources/lectures/lec25/lec25-filled.html
+      github: https://github.com/practicaldsc/wn25/tree/main/lectures/lec25
+      recording: https://www.youtube.com/watch?v=wXgQoneBk9o
